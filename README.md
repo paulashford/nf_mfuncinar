@@ -1,6 +1,6 @@
 **NextFlow pipeline for g:Profiler[1]-based functional enrichment of gene sets from PPI network modules.**
 
-*Under development as a component for a manuscript in prep (Goldtzvik,Y., Ashford P. et al, in prep.) and currently licenced under Apache v2.0.*
+*Under development as a component for a manuscript in prep (Goldtzvik,Y., Ashford P. et al, in prep.)*
 
 Pipeline runs functional enrichments of module gene-sets, followed by GO-slim analysis using GOATOOLS[2], module annotations, and ranking based on Matthew's Correlation Coefficient and g:Profiler enrichment p-values. Outputs of the top ranked terms for each module are also identified using TopKLists[3].
 
