@@ -37,8 +37,8 @@ workflow RANK_ANNOT {
     main:
     // Join channels by method, db, and cutoff, allowing for missing combinations
     combined_inputs = enrichment_results
-        .join(goslim_results, by: [0,1,2], failOnMismatch: false)  // join by method, db, cutoff
-        .join(modules_results, by: [0,1,2], failOnMismatch: false)  // join by method, db, cutoff
+        .join(goslim_results, by: [0,1,2], remainder: true, failOnMismatch: false)  // join by method, db, cutoff
+        .join(modules_results, by: [0,1,2], remainder: true, failOnMismatch: false)  // join by method, db, cutoff
         .filter { it.every { elem -> elem != null } }  // Remove any combinations with null values
         .map { method, db, cutoff, enrich_file, goslim_file, modules_file ->
             if (params.debug) {
