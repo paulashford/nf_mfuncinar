@@ -1,0 +1,14 @@
+network_method	network_db	network_cutoff	experiment_info	module	source	term_id	p_value	row_rank_p	mcc	row_rank_mcc	term_name	top_go	top_kegg	top_reac
+R1	humanbase	0.3	network_modules	17	GO:BP	GO:1903265	0.0012732994063267206	1	0.3159735061817264	1	positive regulation of tumor necrosis factor-mediated signaling pathway	GO:1903265	-	-
+R1	humanbase	0.3	network_modules	20	KEGG	KEGG:04610	4.858704438138974e-4	1	0.14299720180076084	1	Complement and coagulation cascades	-	KEGG:04610	-
+R1	humanbase	0.3	network_modules	35	KEGG	KEGG:03267	1.2252341256072262e-4	1	0.40791125614625023	1	Virion - Adenovirus	-	KEGG:03267	-
+R1	humanbase	0.3	network_modules	44	GO:BP	GO:0050920	6.563454842092347e-4	1	0.12803184957196806	1	regulation of chemotaxis	GO:0050920	-	-
+R1	humanbase	0.3	network_modules	44	GO:BP	GO:0030595	8.869040803321169e-4	2	0.12172623700202136	2	leukocyte chemotaxis	GO:0050920	-	-
+R1	humanbase	0.3	network_modules	69	GO:BP	GO:1903047	0.0019281041285444988	1	0.07106680774913421	1	mitotic cell cycle process	GO:1903047	-	-
+R1	humanbase	0.3	network_modules	91	GO:BP	GO:0071320	3.91242890906521e-4	1	0.18674177234759662	1	cellular response to cAMP	GO:0071320	-	-
+R1	humanbase	0.3	network_modules	123	KEGG	KEGG:04630	7.506509563020468e-4	1	0.09004462711857161	1	JAK-STAT signaling pathway	-	KEGG:04630	-
+R1	humanbase	0.3	network_modules	133	GO:BP	GO:0055024	0.0016709430887432131	1	0.33316840867318687	1	regulation of cardiac muscle tissue development	GO:0055024	-	-
+R1	humanbase	0.3	network_modules	133	GO:BP	GO:0055026	0.0016709430887432131	2	0.33316840867318687	2	negative regulation of cardiac muscle tissue development	GO:0055024	-	-
+R1	humanbase	0.3	network_modules	210	GO:BP	GO:0030852	6.004429759936907e-4	1	0.3479507533206276	1	regulation of granulocyte differentiation	GO:0030852	-	-
+R1	humanbase	0.3	network_modules	266	GO:BP	GO:1903749	0.0040667353911232025	1	0.1357692171589587	1	positive regulation of establishment of protein localization to mitochondrion	GO:1903749	-	-
+R1	humanbase	0.3	network_modules	266	GO:BP	GO:1903955	0.0040667353911232025	2	0.1357692171589587	2	positive regulation of protein targeting to mitochondrion	GO:1903749	-	-

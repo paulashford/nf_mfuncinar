@@ -1,0 +1,4 @@
+network_method	network_db	network_cutoff	experiment_info	func_module_number	significant	p_value	term_size	query_size	intersection_size	precision	recall	term_id	source	term_name	effective_domain_size	source_order	parents	perc_rank	cumelative_dist	P	N	tp	fp	fn	tn	tot_pop_valid	MCC
+R1	humanbase	0.9	network_modules	27	TRUE	3.2681769419822618e-6	17	5	3	0.6	0.17647058823529413	KEGG:00910	KEGG	Nitrogen metabolism	8484	139		NA	1	17	8467	3	2	14	8465	8484	0.32473010168748506
+R1	humanbase	0.9	network_modules	27	TRUE	2.9990135192608108e-5	27	5	3	0.6	0.1111111111111111	GO:0006730	GO:BP	one-carbon metabolic process	16175	2434		NA	1	27	16148	3	2	24	16146	16175	0.25773556882201987
+R1	humanbase	0.9	network_modules	27	TRUE	0.0011065115167235512	12	4	2	0.5	0.16666666666666666	REAC:R-HSA-1475029	REAC	Reversible hydration of carbon dioxide	10916	2102		NA	1	12	10904	2	2	10	10902	10916	0.288251721434951

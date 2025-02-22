@@ -1,0 +1,8 @@
+network_method	network_db	network_cutoff	experiment_info	module	source	term_id	p_value	row_rank_p	mcc	row_rank_mcc	term_name	top_go	top_kegg	top_reac
+R1	humanbase	0.7	network_modules	16	GO:BP	GO:0045839	0.0040875220719256014	1	0.1958127468572473	1	negative regulation of mitotic nuclear division	GO:0045839	-	-
+R1	humanbase	0.7	network_modules	66	REAC	REAC:R-HSA-432047	1.0966561522062771e-5	1	0.3138991308273299	1	Passive transport by Aquaporins	-	-	REAC:R-HSA-432047
+R1	humanbase	0.7	network_modules	66	GO:BP	GO:0006833	5.1275395868352116e-5	1	0.2530259686439337	1	water transport	GO:0006833	-	-
+R1	humanbase	0.7	network_modules	160	REAC	REAC:R-HSA-211897	7.834240258673685e-8	1	0.18524778461081864	1	Cytochrome P450 - arranged by substrate type	-	-	REAC:R-HSA-211897
+R1	humanbase	0.7	network_modules	160	REAC	REAC:R-HSA-211945	1.4487514591424061e-6	2	0.14487129545771765	2	Phase I - Functionalization of compounds	-	-	REAC:R-HSA-211897
+R1	humanbase	0.7	network_modules	272	GO:BP	GO:0050830	0.0014555844457546608	1	0.13600129742561218	1	defense response to Gram-positive bacterium	GO:0050830	-	-
+R1	humanbase	0.7	network_modules	272	KEGG	KEGG:05330	0.0023095051353972064	1	0.19726958185952417	1	Allograft rejection	-	KEGG:05330	-

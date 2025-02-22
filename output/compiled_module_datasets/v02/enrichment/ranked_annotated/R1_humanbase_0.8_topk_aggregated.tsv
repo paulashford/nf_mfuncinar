@@ -1,0 +1,9 @@
+network_method	network_db	network_cutoff	experiment_info	module	source	term_id	p_value	row_rank_p	mcc	row_rank_mcc	term_name	top_go	top_kegg	top_reac
+R1	humanbase	0.8	network_modules	17	REAC	REAC:R-HSA-8850843	4.6965868588173034e-4	1	0.35322933292575615	1	Phosphate bond hydrolysis by NTPDase proteins	-	-	REAC:R-HSA-8850843
+R1	humanbase	0.8	network_modules	124	KEGG	KEGG:03267	5.3711358768379007e-5	1	0.4997641509433962	1	Virion - Adenovirus	-	KEGG:03267	-
+R1	humanbase	0.8	network_modules	124	REAC	REAC:R-HSA-389359	9.222056481421138e-4	1	0.301110579538925	1	CD28 dependent Vav1 pathway	-	-	REAC:R-HSA-389359
+R1	humanbase	0.8	network_modules	124	REAC	REAC:R-HSA-389513	0.0031822978031686064	2	0.22303266570648034	2	Co-inhibition by CTLA4	-	-	REAC:R-HSA-389359
+R1	humanbase	0.8	network_modules	133	REAC	REAC:R-HSA-380108	1.9708811400709206e-6	1	0.17497963137629666	1	Chemokine receptors bind chemokines	-	-	REAC:R-HSA-380108
+R1	humanbase	0.8	network_modules	133	KEGG	KEGG:04061	4.604040726902463e-5	1	0.12242565615615512	1	Viral protein interaction with cytokine and cytokine receptor	-	KEGG:04061	-
+R1	humanbase	0.8	network_modules	133	GO:BP	GO:0007204	3.3616005438339515e-4	1	0.10124367746499421	1	positive regulation of cytosolic calcium ion concentration	GO:0007204	-	-
+R1	humanbase	0.8	network_modules	133	GO:BP	GO:0060326	4.894100839028992e-4	2	0.08199843067088594	2	cell chemotaxis	GO:0007204	-	-

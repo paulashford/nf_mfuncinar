@@ -1,0 +1,6 @@
+network_method	network_db	network_cutoff	experiment_info	module	source	term_id	p_value	row_rank_p	mcc	row_rank_mcc	term_name	top_go	top_kegg	top_reac
+R1	humanbase	0.2	network_modules	4	GO:BP	GO:0045627	0.002194409615158819	1	0.3159735061817264	1	positive regulation of T-helper 1 cell differentiation	GO:0045627	-	-
+R1	humanbase	0.2	network_modules	5	GO:BP	GO:0046596	0.0028937507881010263	1	0.13728134983042622	1	regulation of viral entry into host cell	GO:0046596	-	-
+R1	humanbase	0.2	network_modules	11	REAC	REAC:R-HSA-8941333	0.001258091079065584	1	0.3199187039314686	1	RUNX2 regulates genes involved in differentiation of myeloid cells	-	-	REAC:R-HSA-8941333
+R1	humanbase	0.2	network_modules	11	REAC	REAC:R-HSA-8939247	0.004188003377386938	2	0.24753500040008916	2	RUNX1 regulates transcription of genes involved in interleukin signaling	-	-	REAC:R-HSA-8941333
+R1	humanbase	0.2	network_modules	11	REAC	REAC:R-HSA-8935964	0.004188003377386938	3	0.24753500040008916	3	RUNX1 regulates expression of components of tight junctions	-	-	REAC:R-HSA-8941333
