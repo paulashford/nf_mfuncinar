@@ -11,38 +11,38 @@ nextflow.enable.dsl=2
 // get_network_filenames: for given netdb type (string, cpdb, ... ) and method (K1, ...) get matching networks 
 // available in net_modules_dir. Use of glob and files() returns a list, so if multiple types of network for 
 // a given netdb / method (e.g. each using different gene identifiers), then each will be processed through channel
-process get_network_filenames {
-	debug true
-	input:
-		val(netdb_method)
-		val(net_file_prefix)
-		val(net_modules_dir)
+// process get_network_filenames {
+// 	debug true
+// 	input:
+// 		val(netdb_method)
+// 		val(net_file_prefix)
+// 		val(net_modules_dir)
 
-	output:
-		path 'net_file_names'
+// 	output:
+// 		path 'net_file_names'
 
-	script:
-	// When preproc_net_modules is true, look in the output directory
-	def search_dir = params.preproc_net_modules ? 
-		"${params.nf_out_dir}/pre_processed_networks" : 
-		net_modules_dir
-		
-	"""
-	if [[ \$DEBUG == "true" ]]; then
-		echo "DEBUG: Searching in directory: ${search_dir}"
-	fi
+// 	script:
+// 	// When preproc_net_modules is true, look in the output directory
+// 	// def search_dir = params.preproc_net_modules ? 
+// 	// 	"${params.nf_out_dir}/pre_processed_networks" : 
+// 	// 	net_modules_dir
+// 	def search_dir = net_modules_dir
+// 	"""
+// 	if [[ \$DEBUG == "true" ]]; then
+// 		echo "DEBUG: Searching in directory: ${search_dir}"
+// 	fi
 
-	for file in ${search_dir}/${net_file_prefix}${netdb_method[0]}_${netdb_method[1]}*.dat; do
-		if [ -f "\$file" ]; then
-			echo "\$file" >> net_file_names
-		fi
-	done
-	if [ ! -s net_file_names ]; then
-		echo "No matching files found for pattern: ${search_dir}/${net_file_prefix}${netdb_method[0]}_${netdb_method[1]}*.dat" >&2
-		exit 1
-	fi
-	"""
-}
+// 	for file in ${search_dir}/${net_file_prefix}${netdb_method[0]}_${netdb_method[1]}*.dat; do
+// 		if [ -f "\$file" ]; then
+// 			echo "\$file" >> net_file_names
+// 		fi
+// 	done
+// 	if [ ! -s net_file_names ]; then
+// 		echo "No matching files found for pattern: ${search_dir}/${net_file_prefix}${netdb_method[0]}_${netdb_method[1]}*.dat" >&2
+// 		exit 1
+// 	fi
+// 	"""
+// }
 
 process parse_modules {
 	debug true
@@ -63,6 +63,12 @@ process parse_modules {
 		echo "DEBUG: Parsing modules for method=${method} db=${db}"
 		echo "DEBUG: Input network file: ${network_file}"
 		echo "DEBUG: Output filename: ${method}_${db}_parsed_modules.rds"
+		
+		# Verify input file matches method and db
+		if [[ ! "${network_file}" =~ "${net_file_prefix}${method}_${db}_parsed.dat" ]]; then
+			echo "ERROR: Input file ${network_file} does not match method=${method} and db=${db}"
+			exit 1
+		fi
 	fi
 
 	Rscript "${params.root_proj_dir}/subworkflows/mod_func_enrich/mod_parse.r" \\

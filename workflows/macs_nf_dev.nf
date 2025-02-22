@@ -114,14 +114,6 @@ workflow {
         """
     }
 
-    // Parameters loaded message (keep this as it's useful even without debug)
-    log.info """
-    Parameters loaded:
-    net_dbs: ${params.net_dbs}
-    net_methods: ${params.net_methods}
-    net_cutoffs: ${params.net_cutoffs}
-    """
-
     // Validate inputs
     validateModFuncEnrichInputs(
         params.net_methods,
@@ -130,69 +122,6 @@ workflow {
         params.nf_network_modules_dir,
         params.net_file_prefix
     )
-
-    // Create input channel for network processing
-    ch_network_input = Channel.fromList(params.net_methods)
-        .combine(Channel.fromList(params.net_dbs))
-    if (params.preproc_net_modules){
-        ch_network_input = ch_network_input.map { method, db -> 
-            def module_dir = "${params.nf_network_modules_dir}/${method}"
-            log.info "Creating network input for ${method}-${db} from ${module_dir}"
-            [method, db, file(module_dir)]
-        }
-        .tap { ch_network_debug }
-    } else {
-        ch_network_input = ch_network_input.map { method, db -> 
-            def module_dir = "${params.nf_network_modules_dir}"
-            log.info "Creating network input for ${method}-${db} from ${params.nf_network_modules_dir}"
-            [method, db, file(module_dir)]
-        }
-    }
-
-    // Add debug logging for network input channel
-    if (params.debug) {
-        ch_network_debug.view { method, db, dir ->
-            """
-            DEBUG: Network Input Channel:
-            Method: ${method}
-            Database: ${db}
-            Directory: ${dir}
-            """
-        }
-    }
-
-    // Process networks first if needed
-    if (params.preproc_net_modules) {
-        NETWORK_PROCESSING(ch_network_input)
-        
-        // Create a channel from the preprocessed networks with method and db info
-        ch_preprocessed = NETWORK_PROCESSING.out.pre_processed_networks
-            .map { method, db, _dir -> 
-                log.info "Network preprocessing complete for ${method}-${db}"
-                // [method, db, "${params.nf_out_dir}/pre_processed_networks/${method}/${db}"]
-                [method, db, "${params.nf_out_dir}/pre_processed_networks"]
-            }
-    } else {
-        ch_preprocessed = ch_network_input.map { method, db, _dir ->
-            log.info "Using existing preprocessed networks for ${method}-${db}"
-            // [method, db, "${params.nf_network_modules_dir}/pre_processed_networks/${method}/${db}"]
-            [method, db, "${params.nf_network_modules_dir}"]
-        }
-    }
-
-    // Create channels from the parameters
-    // ch_network_databases = Channel.fromList(params.net_dbs ?: [])
-    //                             .ifEmpty { error "No network types specified in params.net_dbs" }
-    // ch_analysis_methods = Channel.fromList(params.net_methods ?: [])
-    //                             .ifEmpty { error "No network methods specified in params.net_methods" }
-    ch_network_cutoffs = Channel.fromList(params.net_cutoffs ?: [])
-                                .ifEmpty { error "No cutoff values specified in params.net_cutoffs" }
-
-    // Create databases and methods pairs
-    // ch_net_dbs_methods = ch_network_databases
-    //     .combine(ch_analysis_methods)
-    //     .map { db, method -> [ method, db ] }
-
     // Validate gprofiler parameters
     validateGprofilerParams(
         params.gprofiler_sources,
@@ -200,29 +129,79 @@ workflow {
         params.gprofiler_exclude_iea
     )
 
-    // Create a combined channel with preprocessed directory and method/db pairs
+    // Create input channel for network processing
+    // if params.preproc_net_modules == true, the modules supplied in nf_network_modules_dir are assumed to be original DREAM/Monet module,s
+    // which will first be pre-processed and then stored in ${params.nf_out_dir}/pre_processed_networks
+    ch_network_input = Channel.fromList(params.net_methods)
+        .combine(Channel.fromList(params.net_dbs))
+        .map { method, db -> 
+            def module_dir = params.preproc_net_modules ? 
+                "${params.nf_out_dir}/pre_processed_networks" :
+                "${params.nf_network_modules_dir}"
+            
+            [method, db, module_dir]
+        }
+        .tap { ch_network_debug }
+
+    // Add debug logging for network input channel
+    if (params.debug) {
+        ch_network_debug.view { method, db, module_dir ->
+            """
+            DEBUG: Network Input Channel:
+            Method: ${method}
+            Database: ${db}
+            Module Directory: ${module_dir}
+            """
+        }
+    }
+
+    // Process networks first if needed
+    if (params.preproc_net_modules) {
+        log.info "Preprocessing networks first..."
+        NETWORK_PROCESSING(ch_network_input)
+        // Create a channel from the preprocessed networks with method and db info
+        ch_preprocessed = NETWORK_PROCESSING.out.pre_processed_networks
+            .map { method, db, module_dir -> 
+                log.info "Network preprocessing complete for ${method}-${db}; pre-processed networks stored in ${module_dir}"
+                [method, db, module_dir]
+            }
+    } else {
+        ch_preprocessed = ch_network_input.map { method, db, module_dir ->
+            log.info "Using existing preprocessed networks for ${method}-${db}; module directory: ${module_dir}"
+            [method, db, module_dir]
+        }
+    }
+
+    ch_network_cutoffs = Channel.fromList(params.net_cutoffs ?: [])
+                                .ifEmpty { error "No cutoff values specified in params.net_cutoffs" }
+
+    // Create mfe (module functional enrichment) input a combined channel with preprocessed directory and method/db pairs
     ch_mfe_input = ch_preprocessed
+        .map { method, db, module_dir -> 
+            [method, db, module_dir, "${params.net_file_prefix}${method}_${db}_parsed.dat"]
+        }
         .tap { ch_mfe_debug }
 
     if (params.debug) {
-        ch_mfe_debug.view { method, db, dir ->
+        ch_mfe_debug.view { method, db, module_dir, filename ->
             """
             DEBUG: MFE input:
             Method: ${method}
             Database: ${db}
-            Preprocessed Directory: ${dir}
+            Module Directory: ${module_dir}
+            Filename: ${filename}
             """
         }
     }
 
     // Module functional enrichment workflow
     MOD_FUNC_ENRICH(
-        ch_mfe_input,          // tuple(method, db, preprocessed_dir)
+        ch_mfe_input,          // tuple(method, db, module_dir, mod_filename)
+        ch_network_cutoffs,     // list of cutoff values moved to end
         params.net_file_prefix,
         params.gprofiler_sources,
         params.gprofiler_sig,
-        params.gprofiler_exclude_iea,
-        ch_network_cutoffs     // list of cutoff values moved to end
+        params.gprofiler_exclude_iea
     )
 
     // Add GO_SLIM workflow using MOD_FUNC_ENRICH output
@@ -239,46 +218,80 @@ workflow {
         params.max_term_size ?: 0.05
     )
 
-
     // Debug output
-    MOD_FUNC_ENRICH.out.post_processed_enrichment
-        .view { method, db, cutoff, file -> 
-            params.debug ? "DEBUG: Processed enrichment results:\n" +
-            "  Method: ${method}\n" +
-            "  Database: ${db}\n" +
-            "  Cutoff: ${cutoff}\n" +
-            "  File: ${file}" : null
+    if (params.debug) {
+        ch_network_input.view { method, db, dir ->
+            """
+            DEBUG: Network Input Channel:
+            Method: ${method}
+            Database: ${db}
+            Directory: ${dir}
+            """
         }
 
-    GO_SLIM.out.go_slim_results
-        .view { method, db, cutoff, file -> 
-            params.debug ? "DEBUG: GO Slim results:\n" +
-            "  Method: ${method}\n" +
-            "  Database: ${db}\n" +
-            "  Cutoff: ${cutoff}\n" +
-            "  File: ${file}" : null
+        ch_mfe_input.view { method, db, dir, filename ->
+            """
+            DEBUG: MFE input:
+            Method: ${method}
+            Database: ${db}
+            Module Directory: ${dir}
+            Filename: ${filename}
+            """
         }
-    
-    RANK_ANNOT.out.ranked_results
-        .view { method, db, cutoff, file -> 
-            params.debug ? "DEBUG: Ranked and annotated results:\n" +
-            "  Method: ${method}\n" +
-            "  Database: ${db}\n" +
-            "  Cutoff: ${cutoff}\n" +
-            "  File: ${file}" : null
+
+        MOD_FUNC_ENRICH.out.post_processed_enrichment.view { tuple ->
+            """
+            DEBUG: Processed enrichment results:
+            Method: ${tuple[0]}
+            Database: ${tuple[1]}
+            Cutoff: ${tuple[2]}
+            File: ${tuple[3]}
+            """
         }
+
+        GO_SLIM.out.go_slim_results.view { tuple ->
+            """
+            DEBUG: GO Slim results:
+            Method: ${tuple[0]}
+            Database: ${tuple[1]}
+            Cutoff: ${tuple[2]}
+            File: ${tuple[3]}
+            """
+        }
+
+        RANK_ANNOT.out.ranked_results.view { tuple ->
+            """
+            DEBUG: Ranked and annotated results:
+            Method: ${tuple[0]}
+            Database: ${tuple[1]}
+            Cutoff: ${tuple[2]}
+            File: ${tuple[3]}
+            """
+        }
+
+        MOD_FUNC_ENRICH.out.parsed_modules.view { tuple ->
+            """
+            DEBUG: Parsed modules output:
+            File: ${tuple}
+            """
+        }
+    }
 
     // Output for checking and validation
     MOD_FUNC_ENRICH.out.parsed_modules
-        .view { file -> 
-            params.debug ? "DEBUG: Parsed modules output:\n" +
-            "  File: ${file}" : null
+        .view { tuple -> 
+            params.debug ? """
+                DEBUG: Parsed modules output:
+                  File: ${tuple}
+                """ : null
         }
 
     MOD_FUNC_ENRICH.out.post_processed_enrichment
-        .view { file -> 
-            params.debug ? "DEBUG: Processed enrichment results:\n" +
-            "  File: ${file}" : null
+        .view { tuple -> 
+            params.debug ? """
+                DEBUG: Processed enrichment results:
+                  File: ${tuple}
+                """ : null
         }
 }
 

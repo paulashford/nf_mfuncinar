@@ -13,24 +13,25 @@ process PREPROC_NET_MODULES {
     publishDir "${params.nf_out_dir}/pre_processed_networks", mode: 'copy'
 
     input:
-    tuple val(method), val(db), path(network_modules_dir)  
+    tuple val(method), val(db), path(network_modules_dir)
 
     output:
     tuple val(method), val(db), path("*.dat"), emit: pre_processed_networks
 
     script:
-    def output_name = "network_modules_${method}_${db}.dat"
+    def input_dir = "${network_modules_dir}/${method}"
+    def output_name = "${params.net_file_prefix}_${method}_${db}.dat"
     """
     if [[ \$DEBUG == "true" ]]; then
         echo "DEBUG: Processing network modules for method=${method} db=${db}"
-        echo "DEBUG: Input directory absolute path: \$(readlink -f ${network_modules_dir})"
+        echo "DEBUG: Input directory absolute path: \$(readlink -f ${input_dir})"
         echo "DEBUG: Output directory: ${params.nf_out_dir}/pre_processed_networks"
     fi
     
     ${params.root_proj_dir}/bin/process_network_modules.sh \\
         "${method}" \\
         "${db}" \\
-        "\$(readlink -f ${network_modules_dir})" > "${output_name}"
+        "\$(readlink -f ${input_dir})" > "${output_name}"
 
     if [[ \$DEBUG == "true" ]]; then
         echo "DEBUG: Script exit status: \$?"
@@ -43,18 +44,9 @@ workflow NETWORK_PROCESSING {
     network_inputs     // tuple(method, db, path)
 
     main:
-    if (params.preproc_net_modules) {
-        PREPROC_NET_MODULES(
-            network_inputs
-        )
+        PREPROC_NET_MODULES(network_inputs)
         pre_processed_networks = PREPROC_NET_MODULES.out.pre_processed_networks
-    }else {
-        // Modify path to include pre_processed_networks subfolder
-        pre_processed_networks = network_inputs.map { method, db, path ->
-            [method, db, file("${params.nf_network_modules_dir}/pre_processed_networks")]
-        }
-    }
-
+   
     emit:
     pre_processed_networks
 }
