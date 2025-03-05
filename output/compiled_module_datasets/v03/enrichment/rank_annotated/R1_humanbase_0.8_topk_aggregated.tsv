@@ -1,0 +1,73 @@
+network_method	network_db	network_cutoff	experiment_info	module	source	term_id	p_value	row_rank_p	mcc	row_rank_mcc	term_name	top_go	top_kegg	top_reac
+R1	humanbase	0.8	network_modules	5	REAC	REAC:R-HSA-9648895	0.0017597137558513893	1	0.25771360850700775	1	Response of EIF2AK1 (HRI) to heme deficiency	-	-	REAC:R-HSA-9648895
+R1	humanbase	0.8	network_modules	15	GO:BP	GO:0002029	0.001146111150345736	1	0.29789344298100395	1	desensitization of G protein-coupled receptor signaling pathway	GO:0002029	-	-
+R1	humanbase	0.8	network_modules	35	GO:BP	GO:2000583	3.082595831014784e-5	1	0.6323968708517073	1	regulation of platelet-derived growth factor receptor-alpha signaling pathway	GO:2000583	-	-
+R1	humanbase	0.8	network_modules	35	GO:BP	GO:0035790	6.473451245131063e-5	2	0.5344398516905685	2	platelet-derived growth factor receptor-alpha signaling pathway	GO:2000583	-	-
+R1	humanbase	0.8	network_modules	46	GO:BP	GO:0071677	7.465320352603341e-4	1	0.15206691999180494	1	positive regulation of mononuclear cell migration	GO:0071677	-	-
+R1	humanbase	0.8	network_modules	46	GO:BP	GO:0002690	8.704088563673149e-4	2	0.14822146402888547	2	positive regulation of leukocyte chemotaxis	GO:0071677	-	-
+R1	humanbase	0.8	network_modules	46	REAC	REAC:R-HSA-8957275	0.001763228338799949	1	0.12824169373611963	1	Post-translational protein phosphorylation	-	-	REAC:R-HSA-8957275
+R1	humanbase	0.8	network_modules	46	GO:BP	GO:0002688	0.0018537955147626597	3	0.13058952485354997	3	regulation of leukocyte chemotaxis	GO:0071677	-	-
+R1	humanbase	0.8	network_modules	48	GO:BP	GO:0086066	0.0014843643737288664	1	0.27978750803920066	1	atrial cardiac muscle cell to AV node cell communication	GO:0086066	-	-
+R1	humanbase	0.8	network_modules	48	GO:BP	GO:0086026	0.0014843643737288664	2	0.27978750803920066	2	atrial cardiac muscle cell to AV node cell signaling	GO:0086066	-	-
+R1	humanbase	0.8	network_modules	48	GO:BP	GO:0086014	0.0014843643737288664	3	0.27978750803920066	3	atrial cardiac muscle cell action potential	GO:0086066	-	-
+R1	humanbase	0.8	network_modules	48	GO:BP	GO:0010881	0.0016698410425584236	4	0.27188774182133574	4	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	GO:0086066	-	-
+R1	humanbase	0.8	network_modules	48	GO:BP	GO:0086012	0.0022916550710375388	5	0.25167235521278336	5	membrane depolarization during cardiac muscle cell action potential	GO:0086066	-	-
+R1	humanbase	0.8	network_modules	74	REAC	REAC:R-HSA-264870	6.039206301591784e-4	1	0.3330125109557372	1	Caspase-mediated cleavage of cytoskeletal proteins	-	-	REAC:R-HSA-264870
+R1	humanbase	0.8	network_modules	88	REAC	REAC:R-HSA-8948216	4.062398194668306e-5	1	0.22541415883012159	1	Collagen chain trimerization	-	-	REAC:R-HSA-8948216
+R1	humanbase	0.8	network_modules	88	REAC	REAC:R-HSA-1442490	1.2762191007096882e-4	2	0.18661622101616152	2	Collagen degradation	-	-	REAC:R-HSA-8948216
+R1	humanbase	0.8	network_modules	88	REAC	REAC:R-HSA-1650814	1.4670847231946913e-4	3	0.18234824603753977	3	Collagen biosynthesis and modifying enzymes	-	-	REAC:R-HSA-8948216
+R1	humanbase	0.8	network_modules	96	GO:BP	GO:0140467	0.002365848168802705	1	0.14195960493660323	1	integrated stress response signaling	GO:0140467	-	-
+R1	humanbase	0.8	network_modules	101	REAC	REAC:R-HSA-189085	0.0018001927016410263	1	0.2691978540546046	1	Digestion of dietary carbohydrate	-	-	REAC:R-HSA-189085
+R1	humanbase	0.8	network_modules	110	KEGG	KEGG:04964	0.0010424442939890284	1	0.24016077781179335	1	Proximal tubule bicarbonate reclamation	-	KEGG:04964	-
+R1	humanbase	0.8	network_modules	110	GO:BP	GO:0030007	0.0025740450520222633	1	0.26694714088648164	1	intracellular potassium ion homeostasis	GO:0030007	-	-
+R1	humanbase	0.8	network_modules	110	KEGG	KEGG:04960	0.0027411173344275602	2	0.1890357822211728	2	Aldosterone-regulated sodium reabsorption	-	KEGG:04964	-
+R1	humanbase	0.8	network_modules	120	GO:BP	GO:0050680	3.3237580101696135e-4	1	0.16297399793454923	1	negative regulation of epithelial cell proliferation	GO:0050680	-	-
+R1	humanbase	0.8	network_modules	120	GO:BP	GO:0010594	0.002116236656957348	2	0.11953230803392657	2	regulation of endothelial cell migration	GO:0050680	-	-
+R1	humanbase	0.8	network_modules	124	KEGG	KEGG:03267	5.3711358768379007e-5	1	0.4997641509433962	1	Virion - Adenovirus	-	KEGG:03267	-
+R1	humanbase	0.8	network_modules	124	REAC	REAC:R-HSA-389359	9.222056481421138e-4	1	0.301110579538925	1	CD28 dependent Vav1 pathway	-	-	REAC:R-HSA-389359
+R1	humanbase	0.8	network_modules	124	REAC	REAC:R-HSA-389513	0.0031822978031686064	2	0.22303266570648034	2	Co-inhibition by CTLA4	-	-	REAC:R-HSA-389359
+R1	humanbase	0.8	network_modules	133	REAC	REAC:R-HSA-5140745	3.2216236475513184e-8	1	0.26081329068274756	1	WNT5A-dependent internalization of FZD2, FZD5 and ROR2	-	-	REAC:R-HSA-5140745
+R1	humanbase	0.8	network_modules	133	REAC	REAC:R-HSA-5099900	7.49072902048279e-8	2	0.2425754158438634	2	WNT5A-dependent internalization of FZD4	-	-	REAC:R-HSA-5140745
+R1	humanbase	0.8	network_modules	133	GO:BP	GO:0006821	4.986314288629005e-7	1	0.12936733047456447	1	chloride transport	GO:0006821	-	-
+R1	humanbase	0.8	network_modules	133	GO:BP	GO:0006820	3.522906848655837e-6	2	0.1118848129466112	2	monoatomic anion transport	GO:0006821	-	-
+R1	humanbase	0.8	network_modules	133	REAC	REAC:R-HSA-196025	3.762345087607769e-6	3	0.22671849934644367	3	Formation of annular gap junctions	-	-	REAC:R-HSA-5140745
+R1	humanbase	0.8	network_modules	133	GO:BP	GO:0015698	4.242560413381895e-6	3	0.1103263034569328	3	inorganic anion transport	GO:0006821	-	-
+R1	humanbase	0.8	network_modules	133	REAC	REAC:R-HSA-190873	5.633587496180953e-6	4	0.21693619898559766	4	Gap junction degradation	-	-	REAC:R-HSA-5140745
+R1	humanbase	0.8	network_modules	133	REAC	REAC:R-HSA-177504	1.1352309729988282e-5	5	0.20060270734246272	5	Retrograde neurotrophin signalling	-	-	REAC:R-HSA-5140745
+R1	humanbase	0.8	network_modules	133	REAC	REAC:R-HSA-8866427	2.056798958981718e-5	6	0.18742100173204543	6	VLDLR internalisation and degradation	-	-	REAC:R-HSA-5140745
+R1	humanbase	0.8	network_modules	133	KEGG	KEGG:04961	3.621092158863991e-5	1	0.12832160891702477	1	Endocrine and other factor-regulated calcium reabsorption	-	KEGG:04961	-
+R1	humanbase	0.8	network_modules	137	GO:BP	GO:0016339	4.628460012032144e-5	1	0.22564830623378718	1	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	GO:0016339	-	-
+R1	humanbase	0.8	network_modules	137	GO:BP	GO:0034332	4.958833876660599e-5	2	0.22311547311668495	2	adherens junction organization	GO:0016339	-	-
+R1	humanbase	0.8	network_modules	137	GO:BP	GO:0044331	5.304552532951285e-5	3	0.22066556124120495	3	cell-cell adhesion mediated by cadherin	GO:0016339	-	-
+R1	humanbase	0.8	network_modules	139	REAC	REAC:R-HSA-8963693	5.032979519723967e-4	1	0.3478521475178262	1	Aspartate and asparagine metabolism	-	-	REAC:R-HSA-8963693
+R1	humanbase	0.8	network_modules	142	KEGG	KEGG:04142	0.006259976765371717	1	0.12261721750023377	1	Lysosome	-	KEGG:04142	-
+R1	humanbase	0.8	network_modules	143	REAC	REAC:R-HSA-112308	9.222056481421138e-4	1	0.301110579538925	1	Presynaptic depolarization and calcium channel opening	-	-	REAC:R-HSA-112308
+R1	humanbase	0.8	network_modules	147	KEGG	KEGG:04978	1.6650661472021385e-5	1	0.2228541108490496	2	Mineral absorption	-	KEGG:04964	-
+R1	humanbase	0.8	network_modules	147	GO:BP	GO:1903416	3.2762239428562035e-5	1	0.6666048313958282	1	response to glycoside	GO:1903416	-	-
+R1	humanbase	0.8	network_modules	147	GO:BP	GO:0030007	9.933372968857555e-4	2	0.30836810188211866	2	intracellular potassium ion homeostasis	GO:1903416	-	-
+R1	humanbase	0.8	network_modules	147	KEGG	KEGG:04964	0.0010424442939890284	2	0.24016077781179335	1	Proximal tubule bicarbonate reclamation	-	KEGG:04964	-
+R1	humanbase	0.8	network_modules	147	GO:BP	GO:0036376	0.001146111150345736	3	0.29789344298100395	3	sodium ion export across plasma membrane	GO:1903416	-	-
+R1	humanbase	0.8	network_modules	155	GO:BP	GO:0060003	1.0921196658452368e-5	1	0.8164713379547893	1	copper ion export	GO:0060003	-	-
+R1	humanbase	0.8	network_modules	155	GO:BP	GO:0035434	3.2762239428562035e-5	2	0.6666048313958282	2	copper ion transmembrane transport	GO:0060003	-	-
+R1	humanbase	0.8	network_modules	156	GO:BP	GO:1901386	0.0010187235318037853	1	0.33309625079917915	1	negative regulation of voltage-gated calcium channel activity	GO:1901386	-	-
+R1	humanbase	0.8	network_modules	160	GO:BP	GO:0006956	9.682072924699273e-5	1	0.19989163804223875	1	complement activation	GO:0006956	-	-
+R1	humanbase	0.8	network_modules	160	KEGG	KEGG:04610	2.1450090684497792e-4	1	0.16041576156372586	1	Complement and coagulation cascades	-	KEGG:04610	-
+R1	humanbase	0.8	network_modules	160	REAC	REAC:R-HSA-174577	3.5228706385558213e-4	1	0.37767001729423827	1	Activation of C3 and C5	-	-	REAC:R-HSA-174577
+R1	humanbase	0.8	network_modules	161	REAC	REAC:R-HSA-629597	3.294716546085134e-4	1	0.3846355971777174	1	Highly calcium permeable nicotinic acetylcholine receptors	-	-	REAC:R-HSA-629597
+R1	humanbase	0.8	network_modules	161	REAC	REAC:R-HSA-629594	5.032979519723967e-4	2	0.3478521475178262	2	Highly calcium permeable postsynaptic nicotinic acetylcholine receptors	-	-	REAC:R-HSA-629597
+R1	humanbase	0.8	network_modules	165	GO:BP	GO:0001894	3.8747187550979885e-4	1	0.13983918475048016	1	tissue homeostasis	GO:0001894	-	-
+R1	humanbase	0.8	network_modules	165	GO:BP	GO:0060249	3.8747187550979885e-4	2	0.13983918475048016	2	anatomical structure homeostasis	GO:0001894	-	-
+R1	humanbase	0.8	network_modules	171	REAC	REAC:R-HSA-2214320	0.0017597137558513893	1	0.25771360850700775	1	Anchoring fibril formation	-	-	REAC:R-HSA-2214320
+R1	humanbase	0.8	network_modules	180	GO:BP	GO:0051382	9.933372968857555e-4	1	0.30836810188211866	1	kinetochore assembly	GO:0051382	-	-
+R1	humanbase	0.8	network_modules	181	GO:BP	GO:0008284	0.001980434260208303	1	0.07473278880538935	2	positive regulation of cell population proliferation	GO:0003323	-	-
+R1	humanbase	0.8	network_modules	181	GO:BP	GO:0003323	0.002969807020271433	2	0.25787147420379075	1	type B pancreatic cell development	GO:0003323	-	-
+R1	humanbase	0.8	network_modules	183	REAC	REAC:R-HSA-629587	1.9221528810835047e-4	1	0.4362157899272416	1	Highly sodium permeable postsynaptic acetylcholine nicotinic receptors	-	-	REAC:R-HSA-629587
+R1	humanbase	0.8	network_modules	184	REAC	REAC:R-HSA-1475029	6.039206301591784e-4	1	0.3330125109557372	1	Reversible hydration of carbon dioxide	-	-	REAC:R-HSA-1475029
+R1	humanbase	0.8	network_modules	195	KEGG	KEGG:04148	3.019793548441235e-4	1	0.13741848454816058	1	Efferocytosis	-	KEGG:04148	-
+R1	humanbase	0.8	network_modules	195	REAC	REAC:R-HSA-111932	0.0014731549935844454	1	0.2823889684611204	1	CaMK IV-mediated phosphorylation of CREB	-	-	REAC:R-HSA-111932
+R1	humanbase	0.8	network_modules	195	REAC	REAC:R-HSA-442982	0.005001384993362142	2	0.21017088694923294	2	Ras activation upon Ca2+ influx through NMDA receptor	-	-	REAC:R-HSA-111932
+R1	humanbase	0.8	network_modules	246	GO:BP	GO:0051459	6.552177776353408e-5	1	0.5772610151803533	1	regulation of corticotropin secretion	GO:0051459	-	-
+R1	humanbase	0.8	network_modules	246	GO:BP	GO:0051458	1.0919846111657282e-4	2	0.5162860129823625	2	corticotropin secretion	GO:0051459	-	-
+R1	humanbase	0.8	network_modules	246	GO:BP	GO:0001963	0.0014843643737288664	3	0.27978750803920066	3	synaptic transmission, dopaminergic	GO:0051459	-	-
+R1	humanbase	0.8	network_modules	268	REAC	REAC:R-HSA-3928663	0.0017241963039347095	1	0.26694270903326517	1	EPHA-mediated growth cone collapse	-	-	REAC:R-HSA-3928663
+R1	humanbase	0.8	network_modules	268	GO:BP	GO:0033628	0.002527728581432119	1	0.22059659391357025	1	regulation of cell adhesion mediated by integrin	GO:0033628	-	-

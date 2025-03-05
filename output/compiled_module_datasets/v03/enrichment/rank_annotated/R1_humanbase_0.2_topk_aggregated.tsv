@@ -1,0 +1,14 @@
+network_method	network_db	network_cutoff	experiment_info	module	source	term_id	p_value	row_rank_p	mcc	row_rank_mcc	term_name	top_go	top_kegg	top_reac
+R1	humanbase	0.2	network_modules	6	GO:BP	GO:0006120	7.134443721947021e-6	1	0.12652882346580457	1	mitochondrial electron transport, NADH to ubiquinone	GO:0006120	-	-
+R1	humanbase	0.2	network_modules	6	GO:BP	GO:0042776	6.0364400946193605e-5	2	0.10550210317297656	2	proton motive force-driven mitochondrial ATP synthesis	GO:0006120	-	-
+R1	humanbase	0.2	network_modules	6	GO:BP	GO:0015986	1.1245480019414383e-4	3	0.09991326312530935	3	proton motive force-driven ATP synthesis	GO:0006120	-	-
+R1	humanbase	0.2	network_modules	6	GO:BP	GO:0019646	2.4660554153876105e-4	4	0.09318213450422928	4	aerobic electron transport chain	GO:0006120	-	-
+R1	humanbase	0.2	network_modules	6	REAC	REAC:R-HSA-6799198	3.5570329449943565e-4	1	0.10668241120337624	1	Complex I biogenesis	-	-	REAC:R-HSA-6799198
+R1	humanbase	0.2	network_modules	6	GO:BP	GO:0042775	3.767082003164802e-4	5	0.08969394041511317	5	mitochondrial ATP synthesis coupled electron transport	GO:0006120	-	-
+R1	humanbase	0.2	network_modules	6	GO:BP	GO:0042773	3.767082003164802e-4	6	0.08969394041511317	6	ATP synthesis coupled electron transport	GO:0006120	-	-
+R1	humanbase	0.2	network_modules	6	GO:BP	GO:0006754	4.3091251578988165e-4	7	0.08860752182790631	7	ATP biosynthetic process	GO:0006120	-	-
+R1	humanbase	0.2	network_modules	6	REAC	REAC:R-HSA-1428517	4.8323939315125564e-4	2	0.08117305383192187	2	Aerobic respiration and respiratory electron transport	-	-	REAC:R-HSA-6799198
+R1	humanbase	0.2	network_modules	10	GO:BP	GO:0007268	0.006159992569868814	1	0.05252236604507254	1	chemical synaptic transmission	GO:0007268	-	-
+R1	humanbase	0.2	network_modules	10	GO:BP	GO:0098916	0.006159992569868814	2	0.05252236604507254	2	anterograde trans-synaptic signaling	GO:0007268	-	-
+R1	humanbase	0.2	network_modules	34	REAC	REAC:R-HSA-211916	4.062837057342276e-4	1	0.1857174829762424	1	Vitamins	-	-	REAC:R-HSA-211916
+R1	humanbase	0.2	network_modules	45	KEGG	KEGG:00480	9.373646665883278e-5	1	0.1177532760439586	1	Glutathione metabolism	-	KEGG:00480	-

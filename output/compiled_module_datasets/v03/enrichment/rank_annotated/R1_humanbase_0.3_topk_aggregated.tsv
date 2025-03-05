@@ -1,0 +1,37 @@
+network_method	network_db	network_cutoff	experiment_info	module	source	term_id	p_value	row_rank_p	mcc	row_rank_mcc	term_name	top_go	top_kegg	top_reac
+R1	humanbase	0.3	network_modules	1	KEGG	KEGG:04210	0.004635171664864745	1	0.08433242781024104	1	Apoptosis	-	KEGG:04210	-
+R1	humanbase	0.3	network_modules	20	KEGG	KEGG:00290	6.463134240271809e-4	1	0.2881302395730758	1	Valine, leucine and isoleucine biosynthesis	-	KEGG:00290	-
+R1	humanbase	0.3	network_modules	20	GO:BP	GO:0009098	0.0011761288709102563	1	0.3534003324374783	1	L-leucine biosynthetic process	GO:0009098	-	-
+R1	humanbase	0.3	network_modules	21	KEGG	KEGG:00071	0.0048037981049403235	1	0.10815475456485528	1	Fatty acid degradation	-	KEGG:00071	-
+R1	humanbase	0.3	network_modules	47	KEGG	KEGG:05412	0.004073016547736292	1	0.1064525875323394	1	Arrhythmogenic right ventricular cardiomyopathy	-	KEGG:05412	-
+R1	humanbase	0.3	network_modules	54	GO:BP	GO:0070948	0.006682065795610729	1	0.25787147420379075	1	regulation of neutrophil mediated cytotoxicity	GO:0070948	-	-
+R1	humanbase	0.3	network_modules	90	GO:BP	GO:0045196	0.0022351010928117155	1	0.32002851642455643	1	establishment or maintenance of neuroblast polarity	GO:0045196	-	-
+R1	humanbase	0.3	network_modules	90	GO:BP	GO:0045200	0.0022351010928117155	2	0.32002851642455643	2	establishment of neuroblast polarity	GO:0045196	-	-
+R1	humanbase	0.3	network_modules	117	REAC	REAC:R-HSA-5578775	0.00376412534650542	1	0.1273442182650852	1	Ion homeostasis	-	-	REAC:R-HSA-5578775
+R1	humanbase	0.3	network_modules	123	KEGG	KEGG:04630	7.506509563020468e-4	1	0.09004462711857161	1	JAK-STAT signaling pathway	-	KEGG:04630	-
+R1	humanbase	0.3	network_modules	128	GO:BP	GO:0040018	7.075253381827804e-6	1	0.1994102845654438	1	positive regulation of multicellular organism growth	GO:0040018	-	-
+R1	humanbase	0.3	network_modules	128	GO:BP	GO:0048638	1.299994340508786e-4	2	0.0781145090083504	4	regulation of developmental growth	GO:0040018	-	-
+R1	humanbase	0.3	network_modules	128	REAC	REAC:R-HSA-190861	2.990452025392337e-4	1	0.1111628283733031	1	Gap junction assembly	-	-	REAC:R-HSA-190861
+R1	humanbase	0.3	network_modules	128	GO:BP	GO:0040014	4.6865564104268443e-4	3	0.12686431150568964	2	regulation of multicellular organism growth	GO:0040018	-	-
+R1	humanbase	0.3	network_modules	128	GO:BP	GO:0048639	5.28174065510767e-4	4	0.0850376581950993	3	positive regulation of developmental growth	GO:0040018	-	-
+R1	humanbase	0.3	network_modules	133	GO:BP	GO:0055026	0.0013680235814271934	1	0.342838073300585	1	negative regulation of cardiac muscle tissue development	GO:0055026	-	-
+R1	humanbase	0.3	network_modules	133	GO:BP	GO:0055024	0.0013680235814271934	2	0.342838073300585	2	regulation of cardiac muscle tissue development	GO:0055026	-	-
+R1	humanbase	0.3	network_modules	135	REAC	REAC:R-HSA-9833576	0.006903031937510064	1	0.21756763404988302	1	CDH11 homotypic and heterotypic interactions	-	-	REAC:R-HSA-9833576
+R1	humanbase	0.3	network_modules	135	REAC	REAC:R-HSA-9764302	0.006903031937510064	2	0.21756763404988302	2	Regulation of CDH19 Expression and Function	-	-	REAC:R-HSA-9833576
+R1	humanbase	0.3	network_modules	137	GO:BP	GO:0035455	0.0010119810204319533	1	0.1723206997676176	1	response to interferon-alpha	GO:0035455	-	-
+R1	humanbase	0.3	network_modules	140	GO:BP	GO:1903416	0.0026743696454616496	1	0.30836810188211866	1	response to glycoside	GO:1903416	-	-
+R1	humanbase	0.3	network_modules	159	REAC	REAC:R-HSA-69236	1.4367031189769903e-6	1	0.18233514527282854	2	G1 Phase	-	-	REAC:R-HSA-69236
+R1	humanbase	0.3	network_modules	159	REAC	REAC:R-HSA-69231	1.4367031189769903e-6	2	0.18233514527282854	3	Cyclin D associated events in G1	-	-	REAC:R-HSA-69236
+R1	humanbase	0.3	network_modules	159	KEGG	KEGG:04218	9.358172426790628e-6	1	0.11995672338577909	1	Cellular senescence	-	KEGG:04218	-
+R1	humanbase	0.3	network_modules	159	KEGG	KEGG:04110	3.340469361738082e-4	2	0.09831263641575147	2	Cell cycle	-	KEGG:04218	-
+R1	humanbase	0.3	network_modules	159	REAC	REAC:R-HSA-1362300	3.7279175096128554e-4	3	0.19250331445187688	1	Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1	-	-	REAC:R-HSA-69236
+R1	humanbase	0.3	network_modules	167	GO:BP	GO:0014020	0.0038978567232688917	1	0.13635828904223973	1	primary neural tube formation	GO:0014020	-	-
+R1	humanbase	0.3	network_modules	177	GO:BP	GO:0002252	0.0022649932482158913	1	0.06787844861006946	1	immune effector process	GO:0002252	-	-
+R1	humanbase	0.3	network_modules	186	KEGG	KEGG:04510	0.0035918603892072624	1	0.08476585145316887	1	Focal adhesion	-	KEGG:04510	-
+R1	humanbase	0.3	network_modules	197	REAC	REAC:R-HSA-5218920	4.4969624927886445e-4	1	0.18137634660329918	1	VEGFR2 mediated vascular permeability	-	-	REAC:R-HSA-5218920
+R1	humanbase	0.3	network_modules	246	KEGG	KEGG:00400	0.0011478981887148654	1	0.25752872518747894	1	Phenylalanine, tyrosine and tryptophan biosynthesis	-	KEGG:00400	-
+R1	humanbase	0.3	network_modules	246	KEGG	KEGG:00330	0.0012171005461861994	2	0.13480940510058853	2	Arginine and proline metabolism	-	KEGG:00400	-
+R1	humanbase	0.3	network_modules	259	GO:BP	GO:0035502	0.005346093569584706	1	0.26694714088648164	1	metanephric part of ureteric bud development	GO:0035502	-	-
+R1	humanbase	0.3	network_modules	259	GO:BP	GO:0072284	0.005346093569584706	2	0.26694714088648164	2	metanephric S-shaped body morphogenesis	GO:0035502	-	-
+R1	humanbase	0.3	network_modules	266	GO:BP	GO:1903749	0.0040667353911232025	1	0.1357692171589587	1	positive regulation of establishment of protein localization to mitochondrion	GO:1903749	-	-
+R1	humanbase	0.3	network_modules	266	GO:BP	GO:1903955	0.0040667353911232025	2	0.1357692171589587	2	positive regulation of protein targeting to mitochondrion	GO:1903749	-	-

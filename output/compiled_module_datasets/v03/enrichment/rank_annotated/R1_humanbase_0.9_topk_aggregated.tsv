@@ -1,0 +1,39 @@
+network_method	network_db	network_cutoff	experiment_info	module	source	term_id	p_value	row_rank_p	mcc	row_rank_mcc	term_name	top_go	top_kegg	top_reac
+R1	humanbase	0.9	network_modules	13	REAC	REAC:R-HSA-417973	2.7368195300550993e-5	1	0.707041989251543	1	Adenosine P1 receptors	-	-	REAC:R-HSA-417973
+R1	humanbase	0.9	network_modules	13	REAC	REAC:R-HSA-418038	5.473639060110199e-4	2	0.35332655644370065	2	Nucleotide-like (purinergic) receptors	-	-	REAC:R-HSA-417973
+R1	humanbase	0.9	network_modules	13	GO:BP	GO:0007190	6.473451245131055e-4	1	0.3084253714623902	1	activation of adenylate cyclase activity	GO:0007190	-	-
+R1	humanbase	0.9	network_modules	14	GO:BP	GO:2000074	0.0010187235318037853	1	0.33309625079917915	1	regulation of type B pancreatic cell development	GO:2000074	-	-
+R1	humanbase	0.9	network_modules	14	KEGG	KEGG:05203	0.002765918049108411	1	0.10371985575737958	1	Viral carcinogenesis	-	KEGG:05203	-
+R1	humanbase	0.9	network_modules	14	GO:BP	GO:0003323	0.002969807020271433	2	0.25787147420379075	2	type B pancreatic cell development	GO:2000074	-	-
+R1	humanbase	0.9	network_modules	18	GO:BP	GO:0090066	0.003971420606719644	1	0.0945236836104188	1	regulation of anatomical structure size	GO:0090066	-	-
+R1	humanbase	0.9	network_modules	27	KEGG	KEGG:00910	1.173200648917083e-9	1	0.33517676260938	1	Nitrogen metabolism	-	KEGG:00910	-
+R1	humanbase	0.9	network_modules	27	GO:BP	GO:0006730	4.842072640043791e-8	1	0.23959611640672476	1	one-carbon metabolic process	GO:0006730	-	-
+R1	humanbase	0.9	network_modules	27	REAC	REAC:R-HSA-1475029	1.227519152185623e-7	1	0.33259965761799953	1	Reversible hydration of carbon dioxide	-	-	REAC:R-HSA-1475029
+R1	humanbase	0.9	network_modules	27	KEGG	KEGG:05412	3.250396854247028e-4	2	0.11782507920400863	2	Arrhythmogenic right ventricular cardiomyopathy	-	KEGG:00910	-
+R1	humanbase	0.9	network_modules	32	GO:BP	GO:0006188	3.057178758161412e-4	1	0.4080841830381798	1	IMP biosynthetic process	GO:0006188	-	-
+R1	humanbase	0.9	network_modules	32	REAC	REAC:R-HSA-74217	7.136807575790226e-4	1	0.3199187039314686	1	Purine salvage	-	-	REAC:R-HSA-74217
+R1	humanbase	0.9	network_modules	32	GO:BP	GO:0046040	9.933372968857555e-4	2	0.30836810188211866	2	IMP metabolic process	GO:0006188	-	-
+R1	humanbase	0.9	network_modules	32	GO:BP	GO:0009168	9.933372968857555e-4	3	0.30836810188211866	3	purine ribonucleoside monophosphate biosynthetic process	GO:0006188	-	-
+R1	humanbase	0.9	network_modules	43	REAC	REAC:R-HSA-432047	3.55786538907163e-4	1	0.3920345589579044	1	Passive transport by Aquaporins	-	-	REAC:R-HSA-432047
+R1	humanbase	0.9	network_modules	48	REAC	REAC:R-HSA-1247673	3.294716546085134e-4	1	0.3846355971777174	1	Erythrocytes take up oxygen and release carbon dioxide	-	-	REAC:R-HSA-1247673
+R1	humanbase	0.9	network_modules	48	REAC	REAC:R-HSA-1475029	6.039206301591784e-4	2	0.3330125109557372	2	Reversible hydration of carbon dioxide	-	-	REAC:R-HSA-1247673
+R1	humanbase	0.9	network_modules	49	REAC	REAC:R-HSA-418359	1.9801374245293195e-6	1	0.3868900179951331	1	Reduction of cytosolic Ca++ levels	-	-	REAC:R-HSA-418359
+R1	humanbase	0.9	network_modules	49	GO:BP	GO:1903779	1.816487443565039e-5	1	0.2793302689624588	2	regulation of cardiac conduction	GO:0032470	-	-
+R1	humanbase	0.9	network_modules	49	REAC	REAC:R-HSA-418360	2.9421198556567457e-5	2	0.25284467432223817	2	Platelet calcium homeostasis	-	-	REAC:R-HSA-418359
+R1	humanbase	0.9	network_modules	49	GO:BP	GO:0032470	5.539737435446853e-5	2	0.6323968708517073	1	positive regulation of endoplasmic reticulum calcium ion concentration	GO:0032470	-	-
+R1	humanbase	0.9	network_modules	49	REAC	REAC:R-HSA-5578775	2.2196387344059737e-4	3	0.1815600184818599	3	Ion homeostasis	-	-	REAC:R-HSA-418359
+R1	humanbase	0.9	network_modules	50	REAC	REAC:R-HSA-163210	6.978889801640503e-4	1	0.3330889092246938	1	Formation of ATP by chemiosmotic coupling	-	-	REAC:R-HSA-163210
+R1	humanbase	0.9	network_modules	50	REAC	REAC:R-HSA-8949613	0.0021210351357927033	2	0.2536625727193886	2	Cristae formation	-	-	REAC:R-HSA-163210
+R1	humanbase	0.9	network_modules	53	KEGG	KEGG:05133	0.002095235910899519	1	0.16151223210456336	1	Pertussis	-	KEGG:05133	-
+R1	humanbase	0.9	network_modules	57	KEGG	KEGG:04350	1.7134978532397426e-10	1	0.23538635723743423	1	TGF-beta signaling pathway	-	KEGG:04350	-
+R1	humanbase	0.9	network_modules	57	GO:BP	GO:0030501	1.1878753365781343e-9	1	0.30202187668740876	1	positive regulation of bone mineralization	GO:0030501	-	-
+R1	humanbase	0.9	network_modules	57	KEGG	KEGG:04390	1.7903814742787995e-9	2	0.19374182001865217	2	Hippo signaling pathway	-	KEGG:04350	-
+R1	humanbase	0.9	network_modules	57	GO:BP	GO:0045778	1.9851677530683903e-9	2	0.2875672468226921	2	positive regulation of ossification	GO:0030501	-	-
+R1	humanbase	0.9	network_modules	57	GO:BP	GO:0070169	3.5294647637791616e-9	3	0.2721019480571288	3	positive regulation of biomineral tissue development	GO:0030501	-	-
+R1	humanbase	0.9	network_modules	57	GO:BP	GO:0045669	3.930134304369576e-9	4	0.26929602741362973	4	positive regulation of osteoblast differentiation	GO:0030501	-	-
+R1	humanbase	0.9	network_modules	57	GO:BP	GO:0030500	1.4465681496919291e-8	5	0.23731079553141782	5	regulation of bone mineralization	GO:0030501	-	-
+R1	humanbase	0.9	network_modules	57	GO:BP	GO:0030278	4.938852105324985e-8	6	0.2103918969866828	6	regulation of ossification	GO:0030501	-	-
+R1	humanbase	0.9	network_modules	57	GO:BP	GO:0070167	5.963061038302088e-8	7	0.2065198805923612	7	regulation of biomineral tissue development	GO:0030501	-	-
+R1	humanbase	0.9	network_modules	57	GO:BP	GO:0030282	6.735355197084166e-8	8	0.20405287054107674	8	bone mineralization	GO:0030501	-	-
+R1	humanbase	0.9	network_modules	57	KEGG	KEGG:04060	7.592121228338989e-8	3	0.1411574817729462	3	Cytokine-cytokine receptor interaction	-	KEGG:04350	-
+R1	humanbase	0.9	network_modules	57	GO:BP	GO:0045667	1.0090555346740187e-7	9	0.19605936440242464	9	regulation of osteoblast differentiation	GO:0030501	-	-

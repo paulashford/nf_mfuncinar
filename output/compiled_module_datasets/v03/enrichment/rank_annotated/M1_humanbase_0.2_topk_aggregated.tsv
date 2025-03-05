@@ -1,0 +1,1034 @@
+network_method	network_db	network_cutoff	experiment_info	module	source	term_id	p_value	row_rank_p	mcc	row_rank_mcc	term_name	top_go	top_kegg	top_reac
+M1	humanbase	0.2	network_modules	1	KEGG	KEGG:03083	1.5731396187912696e-4	1	0.098798631360373	1	Polycomb repressive complex	-	KEGG:03083	-
+M1	humanbase	0.2	network_modules	2	GO:BP	GO:0022613	2.2659332682130017e-21	1	0.14175085964571266	6	ribonucleoprotein complex biogenesis	GO:0022613	-	-
+M1	humanbase	0.2	network_modules	2	REAC	REAC:R-HSA-72203	5.546041262665364e-13	1	0.12514849322069213	4	Processing of Capped Intron-Containing Pre-mRNA	-	-	REAC:R-HSA-194441
+M1	humanbase	0.2	network_modules	2	GO:BP	GO:0016072	3.784368082584258e-12	2	0.11494481320407221	7	rRNA metabolic process	GO:0022613	-	-
+M1	humanbase	0.2	network_modules	2	GO:BP	GO:0016071	3.878522731714728e-12	3	0.0935879164021144	16	mRNA metabolic process	GO:0022613	-	-
+M1	humanbase	0.2	network_modules	2	GO:BP	GO:0000398	7.038980311540287e-11	4	0.10062149542261163	13	mRNA splicing, via spliceosome	GO:0022613	-	-
+M1	humanbase	0.2	network_modules	2	GO:BP	GO:0000377	7.038980311540287e-11	5	0.10062149542261163	14	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	GO:0022613	-	-
+M1	humanbase	0.2	network_modules	2	GO:BP	GO:0000375	8.936575511246347e-11	6	0.09979788087324135	15	RNA splicing, via transesterification reactions	GO:0022613	-	-
+M1	humanbase	0.2	network_modules	2	GO:BP	GO:0042254	1.0894363037840145e-10	7	0.10227018735761856	12	ribosome biogenesis	GO:0022613	-	-
+M1	humanbase	0.2	network_modules	2	GO:BP	GO:0022618	1.4877020144020614e-10	8	0.1088812371477093	9	protein-RNA complex assembly	GO:0022613	-	-
+M1	humanbase	0.2	network_modules	2	GO:BP	GO:0006403	2.3235401397580875e-10	9	0.11181969768215173	8	RNA localization	GO:0022613	-	-
+M1	humanbase	0.2	network_modules	2	GO:BP	GO:0071826	3.3334549435755403e-10	10	0.10553801571072123	10	protein-RNA complex organization	GO:0022613	-	-
+M1	humanbase	0.2	network_modules	2	REAC	REAC:R-HSA-72163	1.0772346861055921e-9	2	0.11156981319862266	6	mRNA Splicing - Major Pathway	-	-	REAC:R-HSA-194441
+M1	humanbase	0.2	network_modules	2	GO:BP	GO:0006364	1.3329570018357371e-9	11	0.10413072946990273	11	rRNA processing	GO:0022613	-	-
+M1	humanbase	0.2	network_modules	2	GO:BP	GO:0008380	1.6427800764858658e-9	12	0.08774721503236091	18	RNA splicing	GO:0022613	-	-
+M1	humanbase	0.2	network_modules	2	REAC	REAC:R-HSA-72172	1.8186139835635463e-9	3	0.10930681651842909	8	mRNA Splicing	-	-	REAC:R-HSA-194441
+M1	humanbase	0.2	network_modules	2	REAC	REAC:R-HSA-194441	1.890645633583585e-9	4	0.1467645532502559	1	Metabolism of non-coding RNA	-	-	REAC:R-HSA-194441
+M1	humanbase	0.2	network_modules	2	REAC	REAC:R-HSA-191859	1.890645633583585e-9	5	0.1467645532502559	2	snRNP Assembly	-	-	REAC:R-HSA-194441
+M1	humanbase	0.2	network_modules	2	GO:BP	GO:0006397	2.2907535305671175e-9	13	0.08893810264458232	17	mRNA processing	GO:0022613	-	-
+M1	humanbase	0.2	network_modules	2	GO:BP	GO:0046112	1.3938392024225092e-7	14	0.1636996004600638	5	nucleobase biosynthetic process	GO:0022613	-	-
+M1	humanbase	0.2	network_modules	2	REAC	REAC:R-HSA-15869	7.396328148042601e-7	6	0.10650417360915637	9	Metabolism of nucleotides	-	-	REAC:R-HSA-194441
+M1	humanbase	0.2	network_modules	2	REAC	REAC:R-HSA-72165	1.1413885133474063e-6	7	0.12012534119532686	5	mRNA Splicing - Minor Pathway	-	-	REAC:R-HSA-194441
+M1	humanbase	0.2	network_modules	2	REAC	REAC:R-HSA-159236	1.3845405750132876e-6	8	0.10951802891526229	7	Transport of Mature mRNA derived from an Intron-Containing Transcript	-	-	REAC:R-HSA-194441
+M1	humanbase	0.2	network_modules	2	REAC	REAC:R-HSA-165054	1.565679342357403e-6	9	0.13013896454758303	3	Rev-mediated nuclear export of HIV RNA	-	-	REAC:R-HSA-194441
+M1	humanbase	0.2	network_modules	2	GO:BP	GO:0097294	1.5729505216952516e-6	15	0.20570940890977288	1	'de novo' XMP biosynthetic process	GO:0022613	-	-
+M1	humanbase	0.2	network_modules	2	GO:BP	GO:0006189	1.5729505216952516e-6	16	0.20570940890977288	2	'de novo' IMP biosynthetic process	GO:0022613	-	-
+M1	humanbase	0.2	network_modules	2	GO:BP	GO:0097292	1.5729505216952516e-6	17	0.20570940890977288	3	XMP metabolic process	GO:0022613	-	-
+M1	humanbase	0.2	network_modules	2	GO:BP	GO:0097293	1.5729505216952516e-6	18	0.20570940890977288	4	XMP biosynthetic process	GO:0022613	-	-
+M1	humanbase	0.2	network_modules	3	REAC	REAC:R-HSA-6798695	1.85590038245512e-24	1	0.1682331491710712	1	Neutrophil degranulation	-	-	REAC:R-HSA-6798695
+M1	humanbase	0.2	network_modules	3	KEGG	KEGG:04142	4.4906828755055716e-15	1	0.18230968689873817	1	Lysosome	-	KEGG:04142	-
+M1	humanbase	0.2	network_modules	3	GO:BP	GO:0007015	9.292122073447641e-8	1	0.07934550920454891	1	actin filament organization	GO:0007015	-	-
+M1	humanbase	0.2	network_modules	3	GO:BP	GO:0030036	2.168873962298472e-7	2	0.07183596753359406	2	actin cytoskeleton organization	GO:0007015	-	-
+M1	humanbase	0.2	network_modules	3	REAC	REAC:R-HSA-114608	2.729868081078967e-7	2	0.10604373637274692	2	Platelet degranulation 	-	-	REAC:R-HSA-6798695
+M1	humanbase	0.2	network_modules	3	REAC	REAC:R-HSA-76005	4.1506286064534234e-7	3	0.10367689326576493	3	Response to elevated platelet cytosolic Ca2+	-	-	REAC:R-HSA-6798695
+M1	humanbase	0.2	network_modules	3	GO:BP	GO:0097435	6.206160677763605e-7	3	0.06775540186417997	3	supramolecular fiber organization	GO:0007015	-	-
+M1	humanbase	0.2	network_modules	5	REAC	REAC:R-HSA-1474244	1.4437651376899361e-36	1	0.24916355425643774	2	Extracellular matrix organization	-	-	REAC:R-HSA-3000178
+M1	humanbase	0.2	network_modules	5	GO:BP	GO:0030198	2.495240553757934e-25	1	0.18376611145543026	2	extracellular matrix organization	GO:0030198	-	-
+M1	humanbase	0.2	network_modules	5	GO:BP	GO:0043062	2.7937494346086876e-25	2	0.18334771564763494	3	extracellular structure organization	GO:0030198	-	-
+M1	humanbase	0.2	network_modules	5	GO:BP	GO:0045229	3.126350118579427e-25	3	0.18293189413968866	4	external encapsulating structure organization	GO:0030198	-	-
+M1	humanbase	0.2	network_modules	5	REAC	REAC:R-HSA-3000178	1.0022182142095135e-22	2	0.2575621640529013	1	ECM proteoglycans	-	-	REAC:R-HSA-3000178
+M1	humanbase	0.2	network_modules	5	REAC	REAC:R-HSA-1474228	8.454169270607327e-21	3	0.20806095542859362	8	Degradation of the extracellular matrix	-	-	REAC:R-HSA-3000178
+M1	humanbase	0.2	network_modules	5	REAC	REAC:R-HSA-216083	2.7933233128157703e-18	4	0.2165467774488889	6	Integrin cell surface interactions	-	-	REAC:R-HSA-3000178
+M1	humanbase	0.2	network_modules	5	REAC	REAC:R-HSA-2022090	4.335871661712691e-17	5	0.22521017004530922	4	Assembly of collagen fibrils and other multimeric structures	-	-	REAC:R-HSA-3000178
+M1	humanbase	0.2	network_modules	5	REAC	REAC:R-HSA-1442490	1.1766219549892856e-16	6	0.21773623635158013	5	Collagen degradation	-	-	REAC:R-HSA-3000178
+M1	humanbase	0.2	network_modules	5	GO:BP	GO:0030199	2.044601126050496e-16	4	0.203771978697993	1	collagen fibril organization	GO:0030198	-	-
+M1	humanbase	0.2	network_modules	5	REAC	REAC:R-HSA-1650814	2.376490760245324e-16	7	0.2125691970743685	7	Collagen biosynthesis and modifying enzymes	-	-	REAC:R-HSA-3000178
+M1	humanbase	0.2	network_modules	5	REAC	REAC:R-HSA-1474290	3.759632301629568e-16	8	0.19648393392069882	10	Collagen formation	-	-	REAC:R-HSA-3000178
+M1	humanbase	0.2	network_modules	5	REAC	REAC:R-HSA-8948216	2.6997347487829885e-15	9	0.22606481114587967	3	Collagen chain trimerization	-	-	REAC:R-HSA-3000178
+M1	humanbase	0.2	network_modules	5	KEGG	KEGG:04510	6.333117925129044e-15	1	0.16954400544910958	3	Focal adhesion	-	KEGG:04974	-
+M1	humanbase	0.2	network_modules	5	REAC	REAC:R-HSA-3000171	1.344475114336661e-13	10	0.1939423724266218	11	Non-integrin membrane-ECM interactions	-	-	REAC:R-HSA-3000178
+M1	humanbase	0.2	network_modules	5	KEGG	KEGG:04974	2.4163662992127974e-13	2	0.18453552819970134	1	Protein digestion and absorption	-	KEGG:04974	-
+M1	humanbase	0.2	network_modules	5	KEGG	KEGG:04512	1.430811605102016e-12	3	0.18360946814889798	2	ECM-receptor interaction	-	KEGG:04974	-
+M1	humanbase	0.2	network_modules	5	KEGG	KEGG:04151	5.169155169311569e-12	4	0.13039907212621937	4	PI3K-Akt signaling pathway	-	KEGG:04974	-
+M1	humanbase	0.2	network_modules	5	REAC	REAC:R-HSA-3000157	1.7658175187643276e-11	11	0.20559824355812228	9	Laminin interactions	-	-	REAC:R-HSA-3000178
+M1	humanbase	0.2	network_modules	6	GO:BP	GO:0032483	0.0041956299979911	1	0.13750302003572348	1	regulation of Rab protein signal transduction	GO:0032483	-	-
+M1	humanbase	0.2	network_modules	7	GO:BP	GO:0006413	6.599731112111957e-5	1	0.08443826928295696	1	translational initiation	GO:0006413	-	-
+M1	humanbase	0.2	network_modules	8	KEGG	KEGG:05132	9.677429247873554e-4	1	0.06872398893874165	1	Salmonella infection	-	KEGG:05132	-
+M1	humanbase	0.2	network_modules	8	GO:BP	GO:0044087	0.0027867907844091665	1	0.049891330385680464	1	regulation of cellular component biogenesis	GO:0044087	-	-
+M1	humanbase	0.2	network_modules	9	GO:BP	GO:0022613	9.93050854821119e-11	1	0.09930338107127279	1	ribonucleoprotein complex biogenesis	GO:0022613	-	-
+M1	humanbase	0.2	network_modules	9	GO:BP	GO:0006412	5.24126020627484e-8	2	0.07896226848454885	4	translation	GO:0022613	-	-
+M1	humanbase	0.2	network_modules	9	GO:BP	GO:0042254	1.1593275027862642e-7	3	0.09002599737053436	3	ribosome biogenesis	GO:0022613	-	-
+M1	humanbase	0.2	network_modules	9	GO:BP	GO:0016072	1.6542535994873915e-7	4	0.09279997760791876	2	rRNA metabolic process	GO:0022613	-	-
+M1	humanbase	0.2	network_modules	10	GO:BP	GO:0000278	1.0147774651790854e-29	1	0.15525515904542617	6	mitotic cell cycle	GO:0044786	-	-
+M1	humanbase	0.2	network_modules	10	GO:BP	GO:0006260	6.313128153183134e-29	2	0.20639006285792982	4	DNA replication	GO:0044786	-	-
+M1	humanbase	0.2	network_modules	10	GO:BP	GO:0006261	6.516987301668816e-29	3	0.23187859767523922	3	DNA-templated DNA replication	GO:0044786	-	-
+M1	humanbase	0.2	network_modules	10	GO:BP	GO:1903047	4.313314574207489e-27	4	0.1535540768094491	7	mitotic cell cycle process	GO:0044786	-	-
+M1	humanbase	0.2	network_modules	10	GO:BP	GO:0044786	7.907042167233852e-19	5	0.24640677489662333	1	cell cycle DNA replication	GO:0044786	-	-
+M1	humanbase	0.2	network_modules	10	REAC	REAC:R-HSA-69620	8.678838921354505e-19	1	0.1652517010449779	15	Cell Cycle Checkpoints	-	-	REAC:R-HSA-69190
+M1	humanbase	0.2	network_modules	10	GO:BP	GO:0051276	1.5026144504016745e-17	6	0.12339874956001799	11	chromosome organization	GO:0044786	-	-
+M1	humanbase	0.2	network_modules	10	REAC	REAC:R-HSA-69239	1.8965178610363434e-17	2	0.19331520760828325	5	Synthesis of DNA	-	-	REAC:R-HSA-69190
+M1	humanbase	0.2	network_modules	10	REAC	REAC:R-HSA-69190	1.976978956695619e-17	3	0.2709893613069137	1	DNA strand elongation	-	-	REAC:R-HSA-69190
+M1	humanbase	0.2	network_modules	10	GO:BP	GO:0033260	2.284159493532234e-17	7	0.24015611624594146	2	nuclear DNA replication	GO:0044786	-	-
+M1	humanbase	0.2	network_modules	10	GO:BP	GO:0010564	3.550416017674246e-17	8	0.11816338589417426	13	regulation of cell cycle process	GO:0044786	-	-
+M1	humanbase	0.2	network_modules	10	REAC	REAC:R-HSA-69306	4.9078111913029735e-17	4	0.17161396154288888	14	DNA Replication	-	-	REAC:R-HSA-69190
+M1	humanbase	0.2	network_modules	10	REAC	REAC:R-HSA-69242	1.018860632394201e-16	5	0.17532724247056775	11	S Phase	-	-	REAC:R-HSA-69190
+M1	humanbase	0.2	network_modules	10	KEGG	KEGG:03030	1.3175762548714557e-16	1	0.29433000090827843	1	DNA replication	-	KEGG:03030	-
+M1	humanbase	0.2	network_modules	10	REAC	REAC:R-HSA-69206	2.4675957184758806e-15	6	0.17459403480705613	12	G1/S Transition	-	-	REAC:R-HSA-69190
+M1	humanbase	0.2	network_modules	10	GO:BP	GO:0007059	3.101064973512817e-15	9	0.12393260865911994	10	chromosome segregation	GO:0044786	-	-
+M1	humanbase	0.2	network_modules	10	REAC	REAC:R-HSA-453279	1.8537725681437735e-14	7	0.16331343577750687	16	Mitotic G1 phase and G1/S transition	-	-	REAC:R-HSA-69190
+M1	humanbase	0.2	network_modules	10	GO:BP	GO:0090329	4.182105597603539e-14	10	0.19779683377454346	5	regulation of DNA-templated DNA replication	GO:0044786	-	-
+M1	humanbase	0.2	network_modules	10	REAC	REAC:R-HSA-68962	3.8769561679904787e-13	8	0.22160110705169697	3	Activation of the pre-replicative complex	-	-	REAC:R-HSA-69190
+M1	humanbase	0.2	network_modules	10	GO:BP	GO:0006281	4.832030860444013e-13	11	0.104491030771631	17	DNA repair	GO:0044786	-	-
+M1	humanbase	0.2	network_modules	10	REAC	REAC:R-HSA-5685942	5.504772238121764e-13	9	0.18308925227854503	7	HDR through Homologous Recombination (HRR)	-	-	REAC:R-HSA-69190
+M1	humanbase	0.2	network_modules	10	GO:BP	GO:0090068	8.416295575559277e-13	12	0.12589013900788515	9	positive regulation of cell cycle process	GO:0044786	-	-
+M1	humanbase	0.2	network_modules	10	REAC	REAC:R-HSA-176187	1.4347941075195029e-12	10	0.2088499072999888	4	Activation of ATR in response to replication stress	-	-	REAC:R-HSA-69190
+M1	humanbase	0.2	network_modules	10	GO:BP	GO:0045787	1.6642026995816127e-12	13	0.11786878795312627	14	positive regulation of cell cycle	GO:0044786	-	-
+M1	humanbase	0.2	network_modules	10	GO:BP	GO:0006974	2.1337737137275464e-12	14	0.0937032895097133	20	DNA damage response	GO:0044786	-	-
+M1	humanbase	0.2	network_modules	10	REAC	REAC:R-HSA-5693532	4.033021152413274e-12	11	0.1416875910623435	19	DNA Double-Strand Break Repair	-	-	REAC:R-HSA-69190
+M1	humanbase	0.2	network_modules	10	REAC	REAC:R-HSA-5693538	5.81017358675719e-12	12	0.14685234757727206	18	Homology Directed Repair	-	-	REAC:R-HSA-69190
+M1	humanbase	0.2	network_modules	10	REAC	REAC:R-HSA-5693579	7.70189588997112e-12	13	0.1931328954912368	6	Homologous DNA Pairing and Strand Exchange	-	-	REAC:R-HSA-69190
+M1	humanbase	0.2	network_modules	10	GO:BP	GO:0044770	7.886785990745961e-12	15	0.1013851639924673	18	cell cycle phase transition	GO:0044786	-	-
+M1	humanbase	0.2	network_modules	10	REAC	REAC:R-HSA-69186	2.4763600220407396e-11	14	0.22860476306369304	2	Lagging Strand Synthesis	-	-	REAC:R-HSA-69190
+M1	humanbase	0.2	network_modules	10	GO:BP	GO:0000070	4.77351018298098e-11	16	0.11943588187740464	12	mitotic sister chromatid segregation	GO:0044786	-	-
+M1	humanbase	0.2	network_modules	10	REAC	REAC:R-HSA-5693567	8.342579408188435e-11	15	0.13914847686642573	20	HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA)	-	-	REAC:R-HSA-69190
+M1	humanbase	0.2	network_modules	10	GO:BP	GO:0006275	9.359156740941774e-11	17	0.1307879922872817	8	regulation of DNA replication	GO:0044786	-	-
+M1	humanbase	0.2	network_modules	10	REAC	REAC:R-HSA-73886	1.4915308128459463e-10	16	0.13576202057543524	21	Chromosome Maintenance	-	-	REAC:R-HSA-69190
+M1	humanbase	0.2	network_modules	10	KEGG	KEGG:04110	1.512098607963725e-10	2	0.14796003401019983	2	Cell cycle	-	KEGG:03030	-
+M1	humanbase	0.2	network_modules	10	REAC	REAC:R-HSA-5693616	2.365856228690721e-10	17	0.1800486182639877	8	Presynaptic phase of homologous DNA pairing and strand exchange	-	-	REAC:R-HSA-69190
+M1	humanbase	0.2	network_modules	10	REAC	REAC:R-HSA-9701190	3.018480977241181e-10	18	0.1777361898052628	9	Defective homologous recombination repair (HRR) due to BRCA2 loss of function	-	-	REAC:R-HSA-69190
+M1	humanbase	0.2	network_modules	10	REAC	REAC:R-HSA-9675136	3.018480977241181e-10	19	0.1777361898052628	10	Diseases of DNA Double-Strand Break Repair	-	-	REAC:R-HSA-69190
+M1	humanbase	0.2	network_modules	10	GO:BP	GO:0140014	3.1750640398675667e-10	18	0.10578192394949089	16	mitotic nuclear division	GO:0044786	-	-
+M1	humanbase	0.2	network_modules	10	GO:BP	GO:1901987	5.598547337013193e-10	19	0.09608577335150971	19	regulation of cell cycle phase transition	GO:0044786	-	-
+M1	humanbase	0.2	network_modules	10	GO:BP	GO:0000819	7.411969124187317e-10	20	0.10692242342025404	15	sister chromatid segregation	GO:0044786	-	-
+M1	humanbase	0.2	network_modules	10	REAC	REAC:R-HSA-68886	1.1334437563503536e-9	20	0.10324680122095109	23	M Phase	-	-	REAC:R-HSA-69190
+M1	humanbase	0.2	network_modules	10	REAC	REAC:R-HSA-69481	1.7566388904565725e-9	21	0.12196984529538538	22	G2/M Checkpoints	-	-	REAC:R-HSA-69190
+M1	humanbase	0.2	network_modules	10	REAC	REAC:R-HSA-9675135	2.078116491471484e-9	22	0.16010586132348348	17	Diseases of DNA repair	-	-	REAC:R-HSA-69190
+M1	humanbase	0.2	network_modules	10	REAC	REAC:R-HSA-174417	3.363092986114797e-9	23	0.17373349982735642	13	Telomere C-strand (Lagging Strand) Synthesis	-	-	REAC:R-HSA-69190
+M1	humanbase	0.2	network_modules	11	GO:BP	GO:0000398	1.6434477716718652e-26	1	0.18520847498230278	1	mRNA splicing, via spliceosome	GO:0000398	-	-
+M1	humanbase	0.2	network_modules	11	GO:BP	GO:0000377	1.6434477716718652e-26	2	0.18520847498230278	2	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	GO:0000398	-	-
+M1	humanbase	0.2	network_modules	11	REAC	REAC:R-HSA-72203	1.7161366612083787e-26	1	0.20711428198737705	3	Processing of Capped Intron-Containing Pre-mRNA	-	-	REAC:R-HSA-72163
+M1	humanbase	0.2	network_modules	11	GO:BP	GO:0000375	2.4066220671379913e-26	3	0.18383254104081131	3	RNA splicing, via transesterification reactions	GO:0000398	-	-
+M1	humanbase	0.2	network_modules	11	GO:BP	GO:0008380	1.3171304764606363e-25	4	0.16740563735556316	5	RNA splicing	GO:0000398	-	-
+M1	humanbase	0.2	network_modules	11	GO:BP	GO:0006397	1.3502956635688998e-25	5	0.1722781452304874	4	mRNA processing	GO:0000398	-	-
+M1	humanbase	0.2	network_modules	11	REAC	REAC:R-HSA-72163	2.0460711161839375e-25	2	0.2176739254815548	1	mRNA Splicing - Major Pathway	-	-	REAC:R-HSA-72163
+M1	humanbase	0.2	network_modules	11	REAC	REAC:R-HSA-72172	4.948320924541347e-25	3	0.21371678081020035	2	mRNA Splicing	-	-	REAC:R-HSA-72163
+M1	humanbase	0.2	network_modules	11	GO:BP	GO:0016071	2.4570879051455533e-23	6	0.14412341707070664	7	mRNA metabolic process	GO:0000398	-	-
+M1	humanbase	0.2	network_modules	11	KEGG	KEGG:03040	6.255692313096867e-15	1	0.17704827252465621	1	Spliceosome	-	KEGG:03040	-
+M1	humanbase	0.2	network_modules	11	GO:BP	GO:0043484	1.1217936045137999e-12	7	0.13069763172931687	9	regulation of RNA splicing	GO:0000398	-	-
+M1	humanbase	0.2	network_modules	11	GO:BP	GO:1903311	2.237941560033823e-12	8	0.11661339070310955	14	regulation of mRNA metabolic process	GO:0000398	-	-
+M1	humanbase	0.2	network_modules	11	GO:BP	GO:0050684	4.787749421164432e-12	9	0.13866868358865425	8	regulation of mRNA processing	GO:0000398	-	-
+M1	humanbase	0.2	network_modules	11	GO:BP	GO:0000380	7.288775022038189e-12	10	0.1582438972251522	6	alternative mRNA splicing, via spliceosome	GO:0000398	-	-
+M1	humanbase	0.2	network_modules	11	GO:BP	GO:0048024	5.73667354028109e-10	11	0.12935283555043162	10	regulation of mRNA splicing, via spliceosome	GO:0000398	-	-
+M1	humanbase	0.2	network_modules	11	REAC	REAC:R-HSA-159236	1.901714464717166e-9	4	0.1468106829593391	4	Transport of Mature mRNA derived from an Intron-Containing Transcript	-	-	REAC:R-HSA-72163
+M1	humanbase	0.2	network_modules	11	GO:BP	GO:0006403	2.4813584084642746e-9	12	0.11284083806839677	15	RNA localization	GO:0000398	-	-
+M1	humanbase	0.2	network_modules	11	GO:BP	GO:0050658	3.124825829798826e-9	13	0.11921818657389806	11	RNA transport	GO:0000398	-	-
+M1	humanbase	0.2	network_modules	11	GO:BP	GO:0050657	3.124825829798826e-9	14	0.11921818657389806	12	nucleic acid transport	GO:0000398	-	-
+M1	humanbase	0.2	network_modules	11	GO:BP	GO:0051236	4.1718774104013535e-9	15	0.11754755890723412	13	establishment of RNA localization	GO:0000398	-	-
+M1	humanbase	0.2	network_modules	11	REAC	REAC:R-HSA-72202	6.525378352132586e-9	5	0.1376390604612816	5	Transport of Mature Transcript to Cytoplasm	-	-	REAC:R-HSA-72163
+M1	humanbase	0.2	network_modules	12	GO:BP	GO:0022613	3.107799542246735e-42	1	0.23405500400094992	4	ribonucleoprotein complex biogenesis	GO:0042254	-	-
+M1	humanbase	0.2	network_modules	12	GO:BP	GO:0042254	5.575995636771311e-42	2	0.26298704277168894	1	ribosome biogenesis	GO:0042254	-	-
+M1	humanbase	0.2	network_modules	12	GO:BP	GO:0006364	2.2492337835021475e-30	3	0.23565347806175313	3	rRNA processing	GO:0042254	-	-
+M1	humanbase	0.2	network_modules	12	GO:BP	GO:0016072	6.155699221785668e-30	4	0.22175446829856124	5	rRNA metabolic process	GO:0042254	-	-
+M1	humanbase	0.2	network_modules	12	GO:BP	GO:0042274	5.969681099526189e-27	5	0.2543022219333269	2	ribosomal small subunit biogenesis	GO:0042254	-	-
+M1	humanbase	0.2	network_modules	12	REAC	REAC:R-HSA-72312	9.837376492820159e-27	1	0.2409572162288703	1	rRNA processing	-	-	REAC:R-HSA-72312
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:1903047	4.336313188753492e-35	1	0.18039879142859352	3	mitotic cell cycle process	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0000278	2.637152550196016e-33	2	0.16680145096857485	6	mitotic cell cycle	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	REAC	REAC:R-HSA-69620	1.0244275950577367e-26	1	0.20772239364676168	6	Cell Cycle Checkpoints	-	-	REAC:R-HSA-68962
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0051276	1.2881475823956838e-24	3	0.15202672955344	9	chromosome organization	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0010564	1.06723376215824e-22	4	0.14002075708864853	15	regulation of cell cycle process	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	KEGG	KEGG:04110	1.2120085757893383e-22	1	0.23451319714840846	1	Cell cycle	-	KEGG:04110	-
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0044770	2.0579553438816186e-22	5	0.14893421720069533	10	cell cycle phase transition	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0006260	3.988345312609584e-21	6	0.16935336973250245	5	DNA replication	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	REAC	REAC:R-HSA-69242	3.5537446085086e-20	2	0.1994604953900586	7	S Phase	-	-	REAC:R-HSA-68962
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0044772	2.316276113856775e-19	7	0.14344802747436222	11	mitotic cell cycle phase transition	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0000280	4.1009408884632533e-19	8	0.14153595814467662	14	nuclear division	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0140014	8.992634852600899e-19	9	0.15385362436957634	8	mitotic nuclear division	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0048285	5.8210096520861734e-18	10	0.13287418780443863	20	organelle fission	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	REAC	REAC:R-HSA-69239	9.397927544072113e-18	3	0.1968686938174368	8	Synthesis of DNA	-	-	REAC:R-HSA-68962
+M1	humanbase	0.2	network_modules	13	REAC	REAC:R-HSA-69306	2.2338161465857638e-17	4	0.17486439238290474	9	DNA Replication	-	-	REAC:R-HSA-68962
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0007059	7.499364208893019e-17	11	0.13249143495147805	21	chromosome segregation	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:1901987	1.8089612778065657e-16	12	0.12948349045759125	25	regulation of cell cycle phase transition	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0000819	1.3195126492369784e-15	13	0.14192134818298313	13	sister chromatid segregation	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0006261	1.7749213942375549e-15	14	0.1548806769728889	7	DNA-templated DNA replication	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	REAC	REAC:R-HSA-68962	2.376506880567888e-15	5	0.24846065925798055	1	Activation of the pre-replicative complex	-	-	REAC:R-HSA-68962
+M1	humanbase	0.2	network_modules	13	REAC	REAC:R-HSA-69481	2.667486647833859e-15	6	0.16542459872324444	12	G2/M Checkpoints	-	-	REAC:R-HSA-68962
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0098813	4.499616808296029e-15	15	0.13135794382990154	22	nuclear chromosome segregation	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	REAC	REAC:R-HSA-453279	9.668362737020265e-15	7	0.16638447234572362	10	Mitotic G1 phase and G1/S transition	-	-	REAC:R-HSA-68962
+M1	humanbase	0.2	network_modules	13	REAC	REAC:R-HSA-176187	1.0333604291707937e-14	8	0.2342286593703427	3	Activation of ATR in response to replication stress	-	-	REAC:R-HSA-68962
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0010948	3.8982143548864465e-14	16	0.12791020476431741	26	negative regulation of cell cycle process	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0000070	4.015264696615709e-14	17	0.139691843431711	17	mitotic sister chromatid segregation	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	REAC	REAC:R-HSA-69206	4.4723422408659415e-14	9	0.16622266079836742	11	G1/S Transition	-	-	REAC:R-HSA-68962
+M1	humanbase	0.2	network_modules	13	REAC	REAC:R-HSA-69190	1.7978829180821054e-13	10	0.2291172249003457	5	DNA strand elongation	-	-	REAC:R-HSA-68962
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:1901990	1.8504024838396558e-13	18	0.12178666852188437	28	regulation of mitotic cell cycle phase transition	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0000075	1.0028638940731023e-12	19	0.1313415388503932	23	cell cycle checkpoint signaling	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	REAC	REAC:R-HSA-69273	1.297346216228215e-12	11	0.23375216318113592	4	Cyclin A/B1/B2 associated events during G2/M transition	-	-	REAC:R-HSA-68962
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:1901988	1.596913930004394e-12	20	0.12312336535924553	27	negative regulation of cell cycle phase transition	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0000086	2.2888357763903454e-12	21	0.14301245093512005	12	G2/M transition of mitotic cell cycle	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0045786	3.491639806602343e-12	22	0.1107508632069542	30	negative regulation of cell cycle	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0051983	7.019687086086622e-12	23	0.13670676829694825	18	regulation of chromosome segregation	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0044839	1.0695206890840057e-11	24	0.1343891953229312	19	cell cycle G2/M phase transition	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0006974	1.1300962107076186e-11	25	0.09108863670632504	34	DNA damage response	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0006270	1.1826093567330752e-11	26	0.19064140258220108	2	DNA replication initiation	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0090068	1.3163074881096376e-11	27	0.11947796769212347	29	positive regulation of cell cycle process	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0007346	1.351283998054541e-11	28	0.10254337658378777	32	regulation of mitotic cell cycle	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	KEGG	KEGG:03030	1.7954104333319036e-11	2	0.2126594545696365	2	DNA replication	-	KEGG:04110	-
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0006268	2.388707488653984e-11	29	0.20994400849632275	1	DNA unwinding involved in DNA replication	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	REAC	REAC:R-HSA-69002	2.4363071612768444e-11	12	0.13836537568887283	14	DNA Replication Pre-Initiation	-	-	REAC:R-HSA-68962
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0006281	4.869165153701203e-11	30	0.09560674953264275	33	DNA repair	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0010389	1.1424617930361926e-10	31	0.13978072502471992	16	regulation of G2/M transition of mitotic cell cycle	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	REAC	REAC:R-HSA-156711	1.9690209979170797e-10	13	0.2354077540836335	2	Polo-like kinase mediated events	-	-	REAC:R-HSA-68962
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:0045787	4.1147962691531943e-10	32	0.10474622914742109	31	positive regulation of cell cycle	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	REAC	REAC:R-HSA-453274	4.756202320672013e-10	14	0.12261514121744932	15	Mitotic G2-G2/M phases	-	-	REAC:R-HSA-68962
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:1905820	4.906944148766136e-10	33	0.17793918953020926	4	positive regulation of chromosome separation	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	GO:BP	GO:1902749	5.032457761565186e-10	34	0.13037104484093046	24	regulation of cell cycle G2/M phase transition	GO:1903047	-	-
+M1	humanbase	0.2	network_modules	13	REAC	REAC:R-HSA-69052	5.222113779208848e-10	15	0.14488990398861945	13	Switching of origins to a post-replicative state	-	-	REAC:R-HSA-68962
+M1	humanbase	0.2	network_modules	14	KEGG	KEGG:00280	1.805608294183679e-5	1	0.13797250378202472	1	Valine, leucine and isoleucine degradation	-	KEGG:00280	-
+M1	humanbase	0.2	network_modules	15	GO:BP	GO:0006119	1.6515837863984065e-66	1	0.43383299446502327	1	oxidative phosphorylation	GO:0006119	-	-
+M1	humanbase	0.2	network_modules	15	GO:BP	GO:0009060	1.361334269853349e-61	2	0.3831486201275252	7	aerobic respiration	GO:0006119	-	-
+M1	humanbase	0.2	network_modules	15	KEGG	KEGG:00190	3.421658477310131e-61	1	0.4653652557332267	1	Oxidative phosphorylation	-	KEGG:00190	-
+M1	humanbase	0.2	network_modules	15	GO:BP	GO:0045333	6.501987012938758e-61	3	0.3640464927412883	8	cellular respiration	GO:0006119	-	-
+M1	humanbase	0.2	network_modules	15	GO:BP	GO:0022904	9.899870859540298e-57	4	0.4177529898154825	5	respiratory electron transport chain	GO:0006119	-	-
+M1	humanbase	0.2	network_modules	15	GO:BP	GO:0042775	2.160250668633172e-56	5	0.4303498468709076	3	mitochondrial ATP synthesis coupled electron transport	GO:0006119	-	-
+M1	humanbase	0.2	network_modules	15	GO:BP	GO:0042773	2.160250668633172e-56	6	0.4303498468709076	4	ATP synthesis coupled electron transport	GO:0006119	-	-
+M1	humanbase	0.2	network_modules	15	GO:BP	GO:0022900	2.3636729899638894e-55	7	0.4015421899268645	6	electron transport chain	GO:0006119	-	-
+M1	humanbase	0.2	network_modules	15	GO:BP	GO:0015980	3.4593377584633966e-55	8	0.3130245771663836	9	energy derivation by oxidation of organic compounds	GO:0006119	-	-
+M1	humanbase	0.2	network_modules	15	GO:BP	GO:0019646	3.646804087580637e-55	9	0.43241197128438597	2	aerobic electron transport chain	GO:0006119	-	-
+M1	humanbase	0.2	network_modules	15	REAC	REAC:R-HSA-1428517	8.74317160269041e-53	1	0.36365309125628564	2	Aerobic respiration and respiratory electron transport	-	-	REAC:R-HSA-611105
+M1	humanbase	0.2	network_modules	15	GO:BP	GO:0006091	1.1430950796342626e-51	10	0.2683845713957727	10	generation of precursor metabolites and energy	GO:0006119	-	-
+M1	humanbase	0.2	network_modules	15	KEGG	KEGG:04714	1.8609311872534466e-50	2	0.3500985420828522	2	Thermogenesis	-	KEGG:00190	-
+M1	humanbase	0.2	network_modules	15	KEGG	KEGG:05012	5.3841510850225915e-50	3	0.33496313878775164	4	Parkinson disease	-	KEGG:00190	-
+M1	humanbase	0.2	network_modules	15	REAC	REAC:R-HSA-611105	1.4540377835800286e-49	2	0.4053648184853462	1	Respiratory electron transport	-	-	REAC:R-HSA-611105
+M1	humanbase	0.2	network_modules	15	KEGG	KEGG:05020	1.5002354941677409e-47	4	0.32260481032464694	5	Prion disease	-	KEGG:00190	-
+M1	humanbase	0.2	network_modules	15	KEGG	KEGG:05208	2.9869751450763886e-47	5	0.34050788641488294	3	Chemical carcinogenesis - reactive oxygen species	-	KEGG:00190	-
+M1	humanbase	0.2	network_modules	15	KEGG	KEGG:05016	2.2824142512769123e-45	6	0.3030008898965329	6	Huntington disease	-	KEGG:00190	-
+M1	humanbase	0.2	network_modules	16	REAC	REAC:R-HSA-6798695	2.868663569701216e-18	1	0.14635674035328097	1	Neutrophil degranulation	-	-	REAC:R-HSA-6798695
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0050776	7.708391707910092e-17	1	0.11534177457299219	12	regulation of immune response	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0050778	8.819822760947454e-14	2	0.10696373469715123	18	positive regulation of immune response	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0045087	1.1223144429012557e-13	3	0.10343140514568637	20	innate immune response	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0019882	1.0151071326088169e-12	4	0.15668775617748204	6	antigen processing and presentation	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0050865	1.3821212909772883e-12	5	0.10799432818605036	17	regulation of cell activation	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0002478	2.2962073988019683e-12	6	0.2054045167945817	2	antigen processing and presentation of exogenous peptide antigen	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0070663	4.274718842179975e-12	7	0.12908117717685913	8	regulation of leukocyte proliferation	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0002764	7.20364794694507e-12	8	0.10591718828036285	19	immune response-regulating signaling pathway	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0051249	7.615129442839932e-12	9	0.10970271103947167	16	regulation of lymphocyte activation	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0045321	1.201172641534773e-11	10	0.09510799575677054	26	leukocyte activation	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0019884	1.241589657607701e-11	11	0.18853001704359287	4	antigen processing and presentation of exogenous antigen	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0019886	2.164029379482887e-11	12	0.21012410034336212	1	antigen processing and presentation of exogenous peptide antigen via MHC class II	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0050670	2.6812870189923194e-11	13	0.12727528730941845	9	regulation of lymphocyte proliferation	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0032944	3.126206577866624e-11	14	0.12646480893572154	10	regulation of mononuclear cell proliferation	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0046649	4.7982926226314814e-11	15	0.09624255922819701	24	lymphocyte activation	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0002694	6.629297029639963e-11	16	0.10167312733929944	22	regulation of leukocyte activation	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0002495	8.495570739053426e-11	17	0.1947718697687152	3	antigen processing and presentation of peptide antigen via MHC class II	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0070661	8.73683589694843e-11	18	0.11457661438815933	13	leukocyte proliferation	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0002504	1.553032957254128e-10	19	0.18822770735245845	5	antigen processing and presentation of peptide or polysaccharide antigen via MHC class II	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0046651	3.951706898809203e-10	20	0.11359178465325458	14	lymphocyte proliferation	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0032943	4.750273204550783e-10	21	0.11269476023993845	15	mononuclear cell proliferation	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	KEGG	KEGG:04145	6.542647740333186e-10	1	0.13953710081821308	5	Phagosome	-	KEGG:05310	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0002757	8.933273179378697e-10	22	0.09579138766248849	25	immune response-activating signaling pathway	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0048002	1.117544986025544e-9	23	0.14826432656974214	7	antigen processing and presentation of peptide antigen	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0050867	1.4705210606834954e-9	24	0.10203947268362357	21	positive regulation of cell activation	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	KEGG	KEGG:05310	4.743972473830985e-9	2	0.1975511960341506	1	Asthma	-	KEGG:05310	-
+M1	humanbase	0.2	network_modules	16	KEGG	KEGG:04612	5.090676295383368e-9	3	0.1559948288917272	3	Antigen processing and presentation	-	KEGG:05310	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0002253	6.6981641763735545e-9	25	0.08852853068493459	28	activation of immune response	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	KEGG	KEGG:05140	7.557725893797822e-9	4	0.1524560957132928	4	Leishmaniasis	-	KEGG:05310	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0002696	1.380443090681661e-8	26	0.09709232999738687	23	positive regulation of leukocyte activation	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0070665	1.5022265254780038e-8	27	0.11696449811496637	11	positive regulation of leukocyte proliferation	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0002768	2.361120177263223e-8	28	0.09474255154289463	27	immune response-regulating cell surface receptor signaling pathway	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	KEGG	KEGG:05330	2.7958032415719487e-8	5	0.17516359656909852	2	Allograft rejection	-	KEGG:05310	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0009617	3.2734256798135683e-8	29	0.08590545878643559	30	response to bacterium	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0032103	3.569482246833583e-8	30	0.08272461469071173	32	positive regulation of response to external stimulus	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	KEGG	KEGG:05150	3.869178913070342e-8	6	0.1384092845063274	6	Staphylococcus aureus infection	-	KEGG:05310	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0002831	4.215085739313747e-8	31	0.08498314506919194	31	regulation of response to biotic stimulus	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	16	GO:BP	GO:0045088	6.85057323876985e-8	32	0.08640102570121151	29	regulation of innate immune response	GO:0002478	-	-
+M1	humanbase	0.2	network_modules	17	GO:BP	GO:0000122	4.2616494493183695e-11	1	0.08891501889496639	3	negative regulation of transcription by RNA polymerase II	GO:0140467	-	-
+M1	humanbase	0.2	network_modules	17	REAC	REAC:R-HSA-9031628	2.0865587088103827e-7	1	0.1504361025873605	1	NGF-stimulated transcription	-	-	REAC:R-HSA-9031628
+M1	humanbase	0.2	network_modules	17	REAC	REAC:R-HSA-198725	5.455743507805502e-6	2	0.11852059267082095	2	Nuclear Events (kinase and transcription factor activation)	-	-	REAC:R-HSA-9031628
+M1	humanbase	0.2	network_modules	17	REAC	REAC:R-HSA-6785807	1.9459615528721293e-5	3	0.09801165622354685	3	Interleukin-4 and Interleukin-13 signaling	-	-	REAC:R-HSA-9031628
+M1	humanbase	0.2	network_modules	17	GO:BP	GO:0140467	3.9426868452637533e-5	2	0.10837737565570962	1	integrated stress response signaling	GO:0140467	-	-
+M1	humanbase	0.2	network_modules	17	KEGG	KEGG:04380	4.0566852396938065e-5	1	0.09326843762225957	1	Osteoclast differentiation	-	KEGG:04380	-
+M1	humanbase	0.2	network_modules	17	GO:BP	GO:0038066	4.534791637111007e-5	3	0.10709460901127328	2	p38MAPK cascade	GO:0140467	-	-
+M1	humanbase	0.2	network_modules	19	REAC	REAC:R-HSA-446203	3.039873349040077e-8	1	0.10470206825050131	1	Asparagine N-linked glycosylation	-	-	REAC:R-HSA-446203
+M1	humanbase	0.2	network_modules	19	KEGG	KEGG:04141	3.4193050706721744e-8	1	0.12703645859035276	1	Protein processing in endoplasmic reticulum	-	KEGG:04141	-
+M1	humanbase	0.2	network_modules	20	REAC	REAC:R-HSA-156827	5.035325137633265e-25	1	0.2836706432300742	1	L13a-mediated translational silencing of Ceruloplasmin expression	-	-	REAC:R-HSA-156827
+M1	humanbase	0.2	network_modules	20	REAC	REAC:R-HSA-72706	5.9804659173345335e-25	2	0.28237441281543674	2	GTP hydrolysis and joining of the 60S ribosomal subunit	-	-	REAC:R-HSA-156827
+M1	humanbase	0.2	network_modules	20	REAC	REAC:R-HSA-72613	1.9064837858498194e-24	3	0.27375476926063513	3	Eukaryotic Translation Initiation	-	-	REAC:R-HSA-156827
+M1	humanbase	0.2	network_modules	20	REAC	REAC:R-HSA-72737	1.9064837858498194e-24	4	0.27375476926063513	4	Cap-dependent Translation Initiation	-	-	REAC:R-HSA-156827
+M1	humanbase	0.2	network_modules	20	GO:BP	GO:0002181	1.3020032398664284e-22	1	0.20745228177999117	1	cytoplasmic translation	GO:0002181	-	-
+M1	humanbase	0.2	network_modules	20	REAC	REAC:R-HSA-72766	2.554346103092759e-22	5	0.2014985656018862	9	Translation	-	-	REAC:R-HSA-156827
+M1	humanbase	0.2	network_modules	20	REAC	REAC:R-HSA-72689	1.1672103448971185e-21	6	0.26396890858153677	5	Formation of a pool of free 40S subunits	-	-	REAC:R-HSA-156827
+M1	humanbase	0.2	network_modules	20	GO:BP	GO:0006412	2.7481452128063906e-17	2	0.12731458387107517	2	translation	GO:0002181	-	-
+M1	humanbase	0.2	network_modules	20	REAC	REAC:R-HSA-1799339	3.1624617065448837e-15	7	0.20232582139751598	8	SRP-dependent cotranslational protein targeting to membrane	-	-	REAC:R-HSA-156827
+M1	humanbase	0.2	network_modules	20	REAC	REAC:R-HSA-156902	1.1085775225650716e-14	8	0.20986975853261994	6	Peptide chain elongation	-	-	REAC:R-HSA-156827
+M1	humanbase	0.2	network_modules	20	REAC	REAC:R-HSA-156842	1.9177172308221642e-14	9	0.20516892365075742	7	Eukaryotic Translation Elongation	-	-	REAC:R-HSA-156827
+M1	humanbase	0.2	network_modules	20	REAC	REAC:R-HSA-192823	7.593918663535553e-13	10	0.1919496830946412	10	Viral mRNA Translation	-	-	REAC:R-HSA-156827
+M1	humanbase	0.2	network_modules	21	GO:BP	GO:0032543	1.377719951134766e-17	1	0.17892950384291945	1	mitochondrial translation	GO:0032543	-	-
+M1	humanbase	0.2	network_modules	21	GO:BP	GO:0140053	5.116932864841636e-16	2	0.15938491194445545	2	mitochondrial gene expression	GO:0032543	-	-
+M1	humanbase	0.2	network_modules	21	REAC	REAC:R-HSA-5368286	4.12551004391227e-15	1	0.19185232471075533	1	Mitochondrial translation initiation	-	-	REAC:R-HSA-5368286
+M1	humanbase	0.2	network_modules	21	REAC	REAC:R-HSA-5368287	1.1058607587358716e-14	2	0.1851746986643271	2	Mitochondrial translation	-	-	REAC:R-HSA-5368286
+M1	humanbase	0.2	network_modules	21	REAC	REAC:R-HSA-5419276	1.8747931996319738e-13	3	0.1776806619697343	3	Mitochondrial translation termination	-	-	REAC:R-HSA-5368286
+M1	humanbase	0.2	network_modules	21	REAC	REAC:R-HSA-5389840	1.8747931996319738e-13	4	0.1776806619697343	4	Mitochondrial translation elongation	-	-	REAC:R-HSA-5368286
+M1	humanbase	0.2	network_modules	22	REAC	REAC:R-HSA-909733	3.2537755297157893e-26	1	0.2953013548790163	1	Interferon alpha/beta signaling	-	-	REAC:R-HSA-909733
+M1	humanbase	0.2	network_modules	22	REAC	REAC:R-HSA-913531	4.8539282629113627e-26	2	0.21249034982025417	5	Interferon Signaling	-	-	REAC:R-HSA-909733
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0045087	1.263248285791276e-21	1	0.13517653907192087	25	innate immune response	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	REAC	REAC:R-HSA-877300	5.731436443954081e-19	3	0.2255145710673405	4	Interferon gamma signaling	-	-	REAC:R-HSA-909733
+M1	humanbase	0.2	network_modules	22	REAC	REAC:R-HSA-1236974	2.874970207546882e-17	4	0.2122496992651126	6	ER-Phagosome pathway	-	-	REAC:R-HSA-909733
+M1	humanbase	0.2	network_modules	22	REAC	REAC:R-HSA-1236975	3.3258701138876215e-16	5	0.1956579213680882	7	Antigen processing-Cross presentation	-	-	REAC:R-HSA-909733
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0050776	7.339188147368293e-16	2	0.11161004764459936	32	regulation of immune response	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0009615	1.70365921220905e-15	3	0.13206883155216717	26	response to virus	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0050792	6.934958974433698e-15	4	0.15364100580070178	19	regulation of viral process	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0002483	2.4275333304995016e-14	5	0.2548559218051114	1	antigen processing and presentation of endogenous peptide antigen	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	KEGG	KEGG:04612	3.017664402149311e-14	1	0.2153051148513215	1	Antigen processing and presentation	-	KEGG:04612	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:1903900	3.2810454256882704e-14	6	0.15474915971682968	18	regulation of viral life cycle	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0045824	4.2772048060910103e-14	7	0.17822053793680875	12	negative regulation of innate immune response	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0034341	4.542919480254258e-14	8	0.16398207045025417	15	response to type II interferon	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0051607	5.0246311299882193e-14	9	0.13580683100628613	24	defense response to virus	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0050778	5.304761104475024e-14	10	0.10812255984357794	34	positive regulation of immune response	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0019883	3.31814067263687e-13	11	0.22542163927406803	3	antigen processing and presentation of endogenous antigen	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0002831	4.531560383964504e-13	12	0.11148655846342985	33	regulation of response to biotic stimulus	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0034097	8.045895659419073e-13	13	0.10286521858935663	37	response to cytokine	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:1901652	8.045895659419073e-13	14	0.10286521858935663	38	response to peptide	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0001817	1.0708191809483152e-12	15	0.10199306318528417	39	regulation of cytokine production	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0001816	1.214161434316644e-12	16	0.10161103564322001	40	cytokine production	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0002832	1.2522820723781416e-12	17	0.15486084195429384	17	negative regulation of response to biotic stimulus	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0002474	1.8286716892104373e-12	18	0.2072715323382894	6	antigen processing and presentation of peptide antigen via MHC class I	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0031347	1.9900060997451723e-12	19	0.10011610305080024	41	regulation of defense response	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0019885	2.07547936867145e-12	20	0.23753489091891822	2	antigen processing and presentation of endogenous peptide antigen via MHC class I	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	REAC	REAC:R-HSA-983170	2.4735502651854566e-12	6	0.22682555178708788	3	Antigen Presentation: Folding, assembly and peptide loading of class I MHC	-	-	REAC:R-HSA-909733
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0050777	3.776758372820413e-12	21	0.13754165045612793	23	negative regulation of immune response	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	REAC	REAC:R-HSA-1236977	4.965109186941446e-12	7	0.28854484952378967	2	Endosomal/Vacuolar pathway	-	-	REAC:R-HSA-909733
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0045088	1.0831699606378085e-11	22	0.10801953673127399	35	regulation of innate immune response	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0048002	1.379326547938769e-11	23	0.16667614392560903	14	antigen processing and presentation of peptide antigen	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0048525	1.419890318600184e-11	24	0.15123853637437093	20	negative regulation of viral process	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	REAC	REAC:R-HSA-983169	2.9034606568355568e-11	8	0.11615235905575647	8	Class I MHC mediated antigen processing & presentation	-	-	REAC:R-HSA-909733
+M1	humanbase	0.2	network_modules	22	KEGG	KEGG:05169	3.0306481146149445e-11	2	0.14288598340714465	5	Epstein-Barr virus infection	-	KEGG:04612	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0016032	4.33244515196485e-11	25	0.10697744782181581	36	viral process	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0019058	8.918561841350911e-11	26	0.11411745021142243	31	viral life cycle	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0031348	1.4457726661288515e-10	27	0.11820223534216268	30	negative regulation of defense response	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0002456	1.6363936244143564e-9	28	0.13103121668897438	27	T cell mediated immunity	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0019882	1.6363936244143564e-9	29	0.13103121668897438	28	antigen processing and presentation	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0002683	2.931754454910799e-9	30	0.09465835377610746	42	negative regulation of immune system process	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0002486	5.334976792018353e-9	31	0.21301575828576105	4	antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0002484	5.334976792018353e-9	32	0.21301575828576105	5	antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0001819	6.07731458912995e-9	33	0.09187052952605418	43	positive regulation of cytokine production	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0002476	8.868060326659485e-9	34	0.20567942321755242	7	antigen processing and presentation of endogenous peptide antigen via MHC class Ib	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0002716	8.868060326659485e-9	35	0.20567942321755242	8	negative regulation of natural killer cell mediated immunity	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0045953	8.868060326659485e-9	36	0.20567942321755242	9	negative regulation of natural killer cell mediated cytotoxicity	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0002428	8.868060326659485e-9	37	0.20567942321755242	10	antigen processing and presentation of peptide antigen via MHC class Ib	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0045069	9.720002028594933e-9	38	0.13087541708279282	29	regulation of viral genome replication	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0035456	1.0747138869550663e-8	39	0.16869701367265755	13	response to interferon-beta	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0045071	1.5668717795435712e-8	40	0.14256360705917676	21	negative regulation of viral genome replication	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	KEGG	KEGG:05330	1.952835497577172e-8	3	0.17938021863288528	2	Allograft rejection	-	KEGG:04612	-
+M1	humanbase	0.2	network_modules	22	KEGG	KEGG:05170	2.355815371866829e-8	4	0.11682786030717764	6	Human immunodeficiency virus 1 infection	-	KEGG:04612	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0002711	2.4687507902599742e-8	41	0.13858965698991602	22	positive regulation of T cell mediated immunity	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0001916	2.8099253072455172e-8	42	0.15816462665418024	16	positive regulation of T cell mediated cytotoxicity	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	KEGG	KEGG:05332	3.695762723770409e-8	5	0.17160186737904254	3	Graft-versus-host disease	-	KEGG:04612	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0001911	4.7565909225466504e-8	43	0.18234804434657337	11	negative regulation of leukocyte mediated cytotoxicity	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0002253	6.252689540242627e-8	44	0.08326151744176066	45	activation of immune response	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	GO:BP	GO:0032102	6.560296043200164e-8	45	0.09004812524636392	44	negative regulation of response to external stimulus	GO:0002483	-	-
+M1	humanbase	0.2	network_modules	22	KEGG	KEGG:04940	6.618041020217699e-8	6	0.1647022772156902	4	Type I diabetes mellitus	-	KEGG:04612	-
+M1	humanbase	0.2	network_modules	23	GO:BP	GO:0045321	2.2409326324562066e-12	1	0.0995391129310448	2	leukocyte activation	GO:0007159	-	-
+M1	humanbase	0.2	network_modules	23	GO:BP	GO:0007159	5.514374700431276e-12	2	0.11534506759374467	1	leukocyte cell-cell adhesion	GO:0007159	-	-
+M1	humanbase	0.2	network_modules	23	GO:BP	GO:0050776	1.4231756118509788e-10	3	0.08980747501824493	6	regulation of immune response	GO:0007159	-	-
+M1	humanbase	0.2	network_modules	23	GO:BP	GO:0046649	2.3779887079288727e-9	4	0.08887794777385669	7	lymphocyte activation	GO:0007159	-	-
+M1	humanbase	0.2	network_modules	23	GO:BP	GO:0050778	1.1167029977481094e-8	5	0.08376011679495227	12	positive regulation of immune response	GO:0007159	-	-
+M1	humanbase	0.2	network_modules	23	GO:BP	GO:0042110	4.8619928040286156e-8	6	0.08761879818352349	9	T cell activation	GO:0007159	-	-
+M1	humanbase	0.2	network_modules	23	GO:BP	GO:0034097	1.2518942694994415e-7	7	0.07831245748591582	16	response to cytokine	GO:0007159	-	-
+M1	humanbase	0.2	network_modules	23	GO:BP	GO:1901652	1.2518942694994415e-7	8	0.07831245748591582	17	response to peptide	GO:0007159	-	-
+M1	humanbase	0.2	network_modules	23	GO:BP	GO:1903039	1.2937082878404116e-7	9	0.09725443504853562	3	positive regulation of leukocyte cell-cell adhesion	GO:0007159	-	-
+M1	humanbase	0.2	network_modules	23	GO:BP	GO:1903037	1.6878244202320335e-7	10	0.0906276417417944	5	regulation of leukocyte cell-cell adhesion	GO:0007159	-	-
+M1	humanbase	0.2	network_modules	23	GO:BP	GO:0051249	2.117387188356596e-7	11	0.08543191053046999	11	regulation of lymphocyte activation	GO:0007159	-	-
+M1	humanbase	0.2	network_modules	23	GO:BP	GO:0071345	2.6112499241076095e-7	12	0.07833812463849334	15	cellular response to cytokine stimulus	GO:0007159	-	-
+M1	humanbase	0.2	network_modules	23	KEGG	KEGG:04650	2.650274209239497e-7	1	0.12239999329537392	1	Natural killer cell mediated cytotoxicity	-	KEGG:04650	-
+M1	humanbase	0.2	network_modules	23	REAC	REAC:R-HSA-6798695	4.437359534857835e-7	1	0.0881717938287264	2	Neutrophil degranulation	-	-	REAC:R-HSA-114604
+M1	humanbase	0.2	network_modules	23	GO:BP	GO:0006909	5.973528191214241e-7	13	0.09557161484039367	4	phagocytosis	GO:0007159	-	-
+M1	humanbase	0.2	network_modules	23	GO:BP	GO:0022409	8.691765848617545e-7	14	0.08787997636691483	8	positive regulation of cell-cell adhesion	GO:0007159	-	-
+M1	humanbase	0.2	network_modules	23	GO:BP	GO:0002757	9.236115946614057e-7	15	0.07952863604170049	13	immune response-activating signaling pathway	GO:0007159	-	-
+M1	humanbase	0.2	network_modules	23	GO:BP	GO:0002694	1.0686641741489464e-6	16	0.07895619223856819	14	regulation of leukocyte activation	GO:0007159	-	-
+M1	humanbase	0.2	network_modules	23	REAC	REAC:R-HSA-114604	1.1605002046322295e-6	2	0.15352129792689093	1	GPVI-mediated activation cascade	-	-	REAC:R-HSA-114604
+M1	humanbase	0.2	network_modules	23	GO:BP	GO:0002429	1.202441609203013e-6	17	0.08634168806354835	10	immune response-activating cell surface receptor signaling pathway	GO:0007159	-	-
+M1	humanbase	0.2	network_modules	24	GO:BP	GO:0006888	4.084508561525156e-13	1	0.15041529081968869	1	endoplasmic reticulum to Golgi vesicle-mediated transport	GO:0006888	-	-
+M1	humanbase	0.2	network_modules	24	REAC	REAC:R-HSA-446203	1.6204922879841306e-11	1	0.1262682262071131	3	Asparagine N-linked glycosylation	-	-	REAC:R-HSA-199977
+M1	humanbase	0.2	network_modules	24	REAC	REAC:R-HSA-948021	1.557087774322571e-10	2	0.1334902396102627	2	Transport to the Golgi and subsequent modification	-	-	REAC:R-HSA-199977
+M1	humanbase	0.2	network_modules	24	REAC	REAC:R-HSA-199977	4.1901260779447487e-10	3	0.1356288987933387	1	ER to Golgi Anterograde Transport	-	-	REAC:R-HSA-199977
+M1	humanbase	0.2	network_modules	24	GO:BP	GO:0048193	1.5325217132745822e-8	2	0.09630162689157909	2	Golgi vesicle transport	GO:0006888	-	-
+M1	humanbase	0.2	network_modules	24	KEGG	KEGG:04141	3.4193050706721744e-8	1	0.12703645859035276	1	Protein processing in endoplasmic reticulum	-	KEGG:04141	-
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-180585	2.7591431985972154e-17	1	0.2464575101625996	1	Vif-mediated degradation of APOBEC3G	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-69202	2.30483933007787e-16	2	0.21185574476064495	32	Cyclin E associated events during G1/S transition 	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	KEGG	KEGG:03050	2.868737018710787e-16	1	0.2834883442784544	1	Proteasome	-	KEGG:03050	-
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-69656	3.305838166888428e-16	3	0.2091941316686653	34	Cyclin A:Cdk2-associated events at S phase entry	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-1234176	6.428141652911898e-16	4	0.21993515953252052	21	Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-1236978	8.521438587656836e-16	5	0.23655200967494738	2	Cross-presentation of soluble exogenous antigens (endosomes)	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-211733	1.1175311396737141e-15	6	0.23409236730875427	3	Regulation of activated PAK-2p34 by proteasome mediated degradation	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-162906	1.361230375798499e-15	7	0.16025141320721098	41	HIV Infection	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-350562	1.456550061362022e-15	8	0.23170461005386972	4	Regulation of ornithine decarboxylase (ODC)	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-180534	1.887247624997801e-15	9	0.22938527269316317	5	Vpu mediated degradation of CD4	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-9762114	1.887247624997801e-15	10	0.22938527269316317	6	GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-69613	1.887247624997801e-15	11	0.22938527269316317	7	p53-Independent G1/S DNA damage checkpoint	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-349425	1.887247624997801e-15	12	0.22938527269316317	8	Autodegradation of the E3 ubiquitin ligase COP1	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-75815	1.887247624997801e-15	13	0.22938527269316317	9	Ubiquitin-dependent degradation of Cyclin D	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-69601	1.887247624997801e-15	14	0.22938527269316317	10	Ubiquitin Mediated Degradation of Phosphorylated Cdc25A	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-69610	1.887247624997801e-15	15	0.22938527269316317	11	p53-Independent DNA Damage Response	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-169911	2.4315372424646687e-15	16	0.22713111972450514	12	Regulation of Apoptosis	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-9604323	2.4315372424646687e-15	17	0.22713111972450514	13	Negative regulation of NOTCH4 signaling	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-450408	3.115913025334996e-15	18	0.22493912613750255	14	AUF1 (hnRNP D0) binds and destabilizes mRNA	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-1234174	3.864833484392395e-15	19	0.20571926154588632	37	Cellular response to hypoxia	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-4641257	3.97227583335849e-15	20	0.2228064601208646	15	Degradation of AXIN	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-8854050	3.97227583335849e-15	21	0.2228064601208646	16	FBXL7 down-regulates AURKA during mitotic entry and in early mitosis	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-8941858	3.97227583335849e-15	22	0.2228064601208646	17	Regulation of RUNX3 expression and activity	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-174113	3.97227583335849e-15	23	0.2228064601208646	18	SCF-beta-TrCP mediated degradation of Emi1	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-9824272	3.97227583335849e-15	24	0.2228064601208646	19	Somitogenesis	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-5362768	5.038885527266753e-15	25	0.2207304674753317	20	Hh mutants are degraded by ERAD	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-69206	5.219446872472763e-15	26	0.17823869391572547	40	G1/S Transition	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-69541	6.361455357174167e-15	27	0.21870865753684396	22	Stabilization of p53	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-4641258	6.361455357174167e-15	28	0.21870865753684396	23	Degradation of DVL	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-382556	6.745955713172499e-15	29	0.18784920136620598	39	ABC-family proteins mediated transport	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-351202	7.994406019011849e-15	30	0.21673869043998947	24	Metabolism of polyamines	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-5676590	1.0002298633153242e-14	31	0.21481836557347092	25	NIK-->noncanonical NF-kB signaling	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-5387390	1.0002298633153242e-14	32	0.21481836557347092	26	Hh mutants abrogate ligand secretion	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-5610783	1.2461467747716764e-14	33	0.21294561109793358	27	Degradation of GLI2 by the proteasome	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-5610785	1.2461467747716764e-14	34	0.21294561109793358	28	GLI3 is processed to GLI3R by the proteasome	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-5607761	1.2461467747716764e-14	35	0.21294561109793358	29	Dectin-1 mediated noncanonical NF-kB signaling	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-5610780	1.2461467747716764e-14	36	0.21294561109793358	30	Degradation of GLI1 by the proteasome	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-187577	1.2461467747716764e-14	37	0.21294561109793358	31	SCF(Skp2)-mediated degradation of p27/p21	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-5678895	1.5461877450117928e-14	38	0.21111847441250806	33	Defective CFTR causes cystic fibrosis	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-195253	1.573264502459554e-14	39	0.19504809545949792	38	Degradation of beta-catenin by the destruction complex	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-4608870	2.88607873001175e-14	40	0.2058928565381677	35	Asymmetric localization of PCP proteins	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	25	REAC	REAC:R-HSA-174084	2.88607873001175e-14	41	0.2058928565381677	36	Autodegradation of Cdh1 by Cdh1:APC/C	-	-	REAC:R-HSA-180585
+M1	humanbase	0.2	network_modules	26	REAC	REAC:R-HSA-156842	1.6251753048749634e-93	1	0.6752909645997143	1	Eukaryotic Translation Elongation	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	26	REAC	REAC:R-HSA-156902	1.0104710150410048e-87	2	0.6593279781108072	2	Peptide chain elongation	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	26	REAC	REAC:R-HSA-192823	1.0104710150410048e-87	3	0.6593279781108072	3	Viral mRNA Translation	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	26	REAC	REAC:R-HSA-72764	1.231286126162569e-86	4	0.6450056487235656	4	Eukaryotic Translation Termination	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	26	REAC	REAC:R-HSA-2408557	1.231286126162569e-86	5	0.6450056487235656	5	Selenocysteine synthesis	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	26	REAC	REAC:R-HSA-975956	4.071559886291971e-86	6	0.6381814190188861	6	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	26	REAC	REAC:R-HSA-72689	1.2141556017559401e-84	7	0.6189229757813683	7	Formation of a pool of free 40S subunits	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	26	REAC	REAC:R-HSA-9633012	1.2141556017559401e-84	8	0.6189229757813683	8	Response of EIF2AK4 (GCN2) to amino acid deficiency	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	26	REAC	REAC:R-HSA-156827	2.013509936776085e-82	9	0.5903220480459995	9	L13a-mediated translational silencing of Ceruloplasmin expression	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	26	REAC	REAC:R-HSA-1799339	3.2492044597978183e-82	10	0.5876718821242	10	SRP-dependent cotranslational protein targeting to membrane	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	26	REAC	REAC:R-HSA-72706	3.2492044597978183e-82	11	0.5876718821242	11	GTP hydrolysis and joining of the 60S ribosomal subunit	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	26	REAC	REAC:R-HSA-975957	1.3226730694439304e-81	12	0.5799271991159524	12	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	26	REAC	REAC:R-HSA-927802	1.3226730694439304e-81	13	0.5799271991159524	13	Nonsense-Mediated Decay (NMD)	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	27	REAC	REAC:R-HSA-156842	6.491755896155438e-44	1	0.41657277209835486	1	Eukaryotic Translation Elongation	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	27	GO:BP	GO:0002181	1.5971527518234123e-42	1	0.3163911616731163	1	cytoplasmic translation	GO:0002181	-	-
+M1	humanbase	0.2	network_modules	27	REAC	REAC:R-HSA-156902	4.16045768955643e-42	2	0.40991923373824296	2	Peptide chain elongation	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	27	REAC	REAC:R-HSA-156827	1.485032632689844e-41	3	0.3809096859969208	8	L13a-mediated translational silencing of Ceruloplasmin expression	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	27	REAC	REAC:R-HSA-975956	2.9134864807364357e-41	4	0.3966381042698553	3	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	27	REAC	REAC:R-HSA-72737	1.2104621402106517e-40	5	0.3676829010532221	10	Cap-dependent Translation Initiation	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	27	REAC	REAC:R-HSA-72613	1.2104621402106517e-40	6	0.3676829010532221	11	Eukaryotic Translation Initiation	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	27	REAC	REAC:R-HSA-9633012	1.7773390171281386e-40	7	0.38453877919714397	7	Response of EIF2AK4 (GCN2) to amino acid deficiency	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	27	REAC	REAC:R-HSA-192823	9.470826273896812e-40	8	0.3939300165855406	4	Viral mRNA Translation	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	27	REAC	REAC:R-HSA-72764	3.318317096886879e-39	9	0.38527634420378204	5	Eukaryotic Translation Termination	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	27	REAC	REAC:R-HSA-2408557	3.318317096886879e-39	10	0.38527634420378204	6	Selenocysteine synthesis	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	27	REAC	REAC:R-HSA-72706	3.6251282855674476e-39	11	0.3648957744065912	12	GTP hydrolysis and joining of the 60S ribosomal subunit	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	27	REAC	REAC:R-HSA-927802	7.783547036215587e-39	12	0.36002589218209513	13	Nonsense-Mediated Decay (NMD)	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	27	REAC	REAC:R-HSA-975957	7.783547036215587e-39	13	0.36002589218209513	14	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	27	REAC	REAC:R-HSA-72689	3.411839958363785e-38	14	0.36951119401515	9	Formation of a pool of free 40S subunits	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	27	REAC	REAC:R-HSA-9010553	3.5261358174443276e-38	15	0.31799084327703775	18	Regulation of expression of SLITs and ROBOs	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	27	REAC	REAC:R-HSA-1799339	6.083254763797248e-37	16	0.35061107660630736	15	SRP-dependent cotranslational protein targeting to membrane	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	27	REAC	REAC:R-HSA-2408522	1.6031778464758675e-36	17	0.3444030286584133	16	Selenoamino acid metabolism	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	27	REAC	REAC:R-HSA-376176	4.374258979583627e-35	18	0.2809673702143575	21	Signaling by ROBO receptors	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	27	REAC	REAC:R-HSA-9711097	4.417707541500119e-35	19	0.30804819104761916	19	Cellular response to starvation	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	27	REAC	REAC:R-HSA-168273	5.488934085546458e-35	20	0.3224130756577867	17	Influenza Viral RNA Transcription and Replication	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	27	GO:BP	GO:0006412	4.510305966474959e-34	2	0.19125614496004922	2	translation	GO:0002181	-	-
+M1	humanbase	0.2	network_modules	27	REAC	REAC:R-HSA-168255	2.4587279166273772e-33	21	0.29989028410915297	20	Influenza Infection	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	27	REAC	REAC:R-HSA-72766	3.552796257573984e-33	22	0.24931657645851013	23	Translation	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	27	REAC	REAC:R-HSA-6791226	2.538041258891467e-31	23	0.2740130790284589	22	Major pathway of rRNA processing in the nucleolus and cytosol	-	-	REAC:R-HSA-156842
+M1	humanbase	0.2	network_modules	28	GO:BP	GO:0006281	5.0308302361591795e-15	1	0.11863210239943585	2	DNA repair	GO:0006281	-	-
+M1	humanbase	0.2	network_modules	28	REAC	REAC:R-HSA-73894	2.1950813693988205e-13	1	0.13570955527293554	9	DNA Repair	-	-	REAC:R-HSA-9675135
+M1	humanbase	0.2	network_modules	28	GO:BP	GO:0006974	1.432498992503995e-12	2	0.09800700984342214	6	DNA damage response	GO:0006281	-	-
+M1	humanbase	0.2	network_modules	28	REAC	REAC:R-HSA-9675135	2.8516165839180834e-12	2	0.20274415341578492	1	Diseases of DNA repair	-	-	REAC:R-HSA-9675135
+M1	humanbase	0.2	network_modules	28	GO:BP	GO:0006261	4.908623198455918e-11	3	0.13266410458288475	1	DNA-templated DNA replication	GO:0006281	-	-
+M1	humanbase	0.2	network_modules	28	GO:BP	GO:0051052	3.9202694728879384e-10	4	0.09857607615615752	5	regulation of DNA metabolic process	GO:0006281	-	-
+M1	humanbase	0.2	network_modules	28	GO:BP	GO:0006260	4.588351263153944e-10	5	0.11282684441127007	3	DNA replication	GO:0006281	-	-
+M1	humanbase	0.2	network_modules	28	REAC	REAC:R-HSA-5685942	3.691038104864022e-9	3	0.15483529465360765	7	HDR through Homologous Recombination (HRR)	-	-	REAC:R-HSA-9675135
+M1	humanbase	0.2	network_modules	28	KEGG	KEGG:03430	2.7443684564327587e-8	1	0.20583852552402104	1	Mismatch repair	-	KEGG:03430	-
+M1	humanbase	0.2	network_modules	28	REAC	REAC:R-HSA-9709570	4.2270919087812275e-8	4	0.169510968182847	2	Impaired BRCA2 binding to RAD51	-	-	REAC:R-HSA-9675135
+M1	humanbase	0.2	network_modules	28	REAC	REAC:R-HSA-5685938	6.430327004316853e-8	5	0.16467380698114387	3	HDR through Single Strand Annealing (SSA)	-	-	REAC:R-HSA-9675135
+M1	humanbase	0.2	network_modules	28	REAC	REAC:R-HSA-5693616	1.1532538922986033e-7	6	0.15810094173244946	4	Presynaptic phase of homologous DNA pairing and strand exchange	-	-	REAC:R-HSA-9675135
+M1	humanbase	0.2	network_modules	28	REAC	REAC:R-HSA-9701190	1.3862223060959346e-7	7	0.15606967916319622	5	Defective homologous recombination repair (HRR) due to BRCA2 loss of function	-	-	REAC:R-HSA-9675135
+M1	humanbase	0.2	network_modules	28	REAC	REAC:R-HSA-9675136	1.3862223060959346e-7	8	0.15606967916319622	6	Diseases of DNA Double-Strand Break Repair	-	-	REAC:R-HSA-9675135
+M1	humanbase	0.2	network_modules	28	REAC	REAC:R-HSA-5693579	1.9741765557569025e-7	9	0.1522186099215365	8	Homologous DNA Pairing and Strand Exchange	-	-	REAC:R-HSA-9675135
+M1	humanbase	0.2	network_modules	28	REAC	REAC:R-HSA-5693532	7.227151608465831e-7	10	0.10543696232126801	12	DNA Double-Strand Break Repair	-	-	REAC:R-HSA-9675135
+M1	humanbase	0.2	network_modules	28	REAC	REAC:R-HSA-69620	8.629423589106899e-7	11	0.09373534972403465	14	Cell Cycle Checkpoints	-	-	REAC:R-HSA-9675135
+M1	humanbase	0.2	network_modules	28	GO:BP	GO:0071897	9.103775396167414e-7	6	0.10080530311796106	4	DNA biosynthetic process	GO:0006281	-	-
+M1	humanbase	0.2	network_modules	28	REAC	REAC:R-HSA-5693567	1.5528017729013105e-6	12	0.10793343069465805	11	HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA)	-	-	REAC:R-HSA-9675135
+M1	humanbase	0.2	network_modules	28	REAC	REAC:R-HSA-6804756	1.7959020851755413e-6	13	0.11637708984459316	10	Regulation of TP53 Activity through Phosphorylation	-	-	REAC:R-HSA-9675135
+M1	humanbase	0.2	network_modules	28	GO:BP	GO:0051276	1.8081480451908355e-6	7	0.07413171697964854	7	chromosome organization	GO:0006281	-	-
+M1	humanbase	0.2	network_modules	28	REAC	REAC:R-HSA-5693538	2.301461317678128e-6	14	0.10526683919286792	13	Homology Directed Repair	-	-	REAC:R-HSA-9675135
+M1	humanbase	0.2	network_modules	29	GO:BP	GO:0000278	8.383316724452175e-33	1	0.17120678375041498	14	mitotic cell cycle	GO:0140014	-	-
+M1	humanbase	0.2	network_modules	29	GO:BP	GO:1903047	1.2405568407239506e-30	2	0.1729186064196472	11	mitotic cell cycle process	GO:0140014	-	-
+M1	humanbase	0.2	network_modules	29	GO:BP	GO:0140014	3.6334719626017044e-27	3	0.20663310674027674	1	mitotic nuclear division	GO:0140014	-	-
+M1	humanbase	0.2	network_modules	29	GO:BP	GO:0000280	4.2413407166203375e-26	4	0.18082938518469308	8	nuclear division	GO:0140014	-	-
+M1	humanbase	0.2	network_modules	29	GO:BP	GO:0007059	5.536529440036939e-25	5	0.1781356519878464	9	chromosome segregation	GO:0140014	-	-
+M1	humanbase	0.2	network_modules	29	GO:BP	GO:0048285	8.051652326206551e-25	6	0.1702291244958216	15	organelle fission	GO:0140014	-	-
+M1	humanbase	0.2	network_modules	29	GO:BP	GO:0098813	2.0121953051147277e-24	7	0.18807308906997494	5	nuclear chromosome segregation	GO:0140014	-	-
+M1	humanbase	0.2	network_modules	29	GO:BP	GO:0000070	2.1898292648597639e-23	8	0.2054765047284887	2	mitotic sister chromatid segregation	GO:0140014	-	-
+M1	humanbase	0.2	network_modules	29	GO:BP	GO:0000819	2.3989382956632973e-23	9	0.19473210213759368	3	sister chromatid segregation	GO:0140014	-	-
+M1	humanbase	0.2	network_modules	29	GO:BP	GO:0010564	2.6865831940237144e-23	10	0.14827148843377927	19	regulation of cell cycle process	GO:0140014	-	-
+M1	humanbase	0.2	network_modules	29	GO:BP	GO:0051276	1.6413586323141185e-20	11	0.1422846428759288	21	chromosome organization	GO:0140014	-	-
+M1	humanbase	0.2	network_modules	29	GO:BP	GO:0007346	1.4172881243745752e-18	12	0.14206701441938716	22	regulation of mitotic cell cycle	GO:0140014	-	-
+M1	humanbase	0.2	network_modules	29	GO:BP	GO:0044772	6.24912050810647e-17	13	0.13891625780923125	23	mitotic cell cycle phase transition	GO:0140014	-	-
+M1	humanbase	0.2	network_modules	29	GO:BP	GO:0007088	1.9536242958362604e-16	14	0.18677119184009106	6	regulation of mitotic nuclear division	GO:0140014	-	-
+M1	humanbase	0.2	network_modules	29	GO:BP	GO:1901990	4.599349553897977e-16	15	0.14306811858000507	20	regulation of mitotic cell cycle phase transition	GO:0140014	-	-
+M1	humanbase	0.2	network_modules	29	GO:BP	GO:0051783	1.0626936861689894e-15	16	0.1758168545965345	10	regulation of nuclear division	GO:0140014	-	-
+M1	humanbase	0.2	network_modules	29	GO:BP	GO:0051983	1.934013889084362e-15	17	0.17206318954203081	12	regulation of chromosome segregation	GO:0140014	-	-
+M1	humanbase	0.2	network_modules	29	GO:BP	GO:0044770	5.633136463538644e-15	18	0.1223133460348183	26	cell cycle phase transition	GO:0140014	-	-
+M1	humanbase	0.2	network_modules	29	GO:BP	GO:0050000	1.6011745855027388e-14	19	0.1714190998414255	13	chromosome localization	GO:0140014	-	-
+M1	humanbase	0.2	network_modules	29	GO:BP	GO:1901987	6.056169411126269e-14	20	0.12305441037647352	25	regulation of cell cycle phase transition	GO:0140014	-	-
+M1	humanbase	0.2	network_modules	29	GO:BP	GO:0051310	2.0544986288466559e-13	21	0.1679359582644312	16	metaphase chromosome alignment	GO:0140014	-	-
+M1	humanbase	0.2	network_modules	29	GO:BP	GO:0033045	3.019855538834808e-13	22	0.1652535889101845	17	regulation of sister chromatid segregation	GO:0140014	-	-
+M1	humanbase	0.2	network_modules	29	GO:BP	GO:1905818	3.033921497029381e-13	23	0.18108544256171832	7	regulation of chromosome separation	GO:0140014	-	-
+M1	humanbase	0.2	network_modules	29	GO:BP	GO:0033044	3.929437858304462e-13	24	0.1332739718442307	24	regulation of chromosome organization	GO:0140014	-	-
+M1	humanbase	0.2	network_modules	29	REAC	REAC:R-HSA-68877	4.182202949339882e-13	1	0.15699581110897856	1	Mitotic Prometaphase	-	-	REAC:R-HSA-68877
+M1	humanbase	0.2	network_modules	29	GO:BP	GO:0051303	4.95107695382855e-13	25	0.16185832175723713	18	establishment of chromosome localization	GO:0140014	-	-
+M1	humanbase	0.2	network_modules	29	GO:BP	GO:0033047	7.347654503968481e-13	26	0.19353563802102333	4	regulation of mitotic sister chromatid segregation	GO:0140014	-	-
+M1	humanbase	0.2	network_modules	30	REAC	REAC:R-HSA-5663202	0.0012877829019048432	1	0.06594918845606564	2	Diseases of signal transduction by growth factor receptors and second messengers	-	-	REAC:R-HSA-6802957
+M1	humanbase	0.2	network_modules	30	REAC	REAC:R-HSA-6802957	0.001758721464672206	2	0.09033738626217783	1	Oncogenic MAPK signaling	-	-	REAC:R-HSA-6802957
+M1	humanbase	0.2	network_modules	31	GO:BP	GO:0009060	5.08541706529895e-40	1	0.3013907073685981	1	aerobic respiration	GO:0009060	-	-
+M1	humanbase	0.2	network_modules	31	GO:BP	GO:0045333	4.5382339353367756e-38	2	0.27915040452274664	5	cellular respiration	GO:0009060	-	-
+M1	humanbase	0.2	network_modules	31	REAC	REAC:R-HSA-1428517	4.0052286372154746e-36	1	0.29841089122852205	1	Aerobic respiration and respiratory electron transport	-	-	REAC:R-HSA-1428517
+M1	humanbase	0.2	network_modules	31	GO:BP	GO:0015980	2.6423798391381156e-34	3	0.23978055347626645	11	energy derivation by oxidation of organic compounds	GO:0009060	-	-
+M1	humanbase	0.2	network_modules	31	KEGG	KEGG:05415	1.7844853756382235e-33	1	0.29398236926991844	2	Diabetic cardiomyopathy	-	KEGG:00190	-
+M1	humanbase	0.2	network_modules	31	GO:BP	GO:0006119	2.2220105619650394e-32	4	0.2795481256083674	4	oxidative phosphorylation	GO:0009060	-	-
+M1	humanbase	0.2	network_modules	31	KEGG	KEGG:00190	2.6424206935324995e-32	2	0.3224976799961072	1	Oxidative phosphorylation	-	KEGG:00190	-
+M1	humanbase	0.2	network_modules	31	GO:BP	GO:0006091	2.0221426476703855e-29	5	0.19528971068149917	12	generation of precursor metabolites and energy	GO:0009060	-	-
+M1	humanbase	0.2	network_modules	31	GO:BP	GO:0015986	2.880545593371413e-27	6	0.291508744442588	2	proton motive force-driven ATP synthesis	GO:0009060	-	-
+M1	humanbase	0.2	network_modules	31	KEGG	KEGG:05208	9.042731658251571e-27	3	0.24800836058836367	3	Chemical carcinogenesis - reactive oxygen species	-	KEGG:00190	-
+M1	humanbase	0.2	network_modules	31	GO:BP	GO:0042776	6.052492359279777e-26	7	0.28986296019687274	3	proton motive force-driven mitochondrial ATP synthesis	GO:0009060	-	-
+M1	humanbase	0.2	network_modules	31	GO:BP	GO:0006754	2.541467853635407e-25	8	0.26002958443224233	6	ATP biosynthetic process	GO:0009060	-	-
+M1	humanbase	0.2	network_modules	31	GO:BP	GO:0009145	3.9230080625697544e-25	9	0.25711026134935117	7	purine nucleoside triphosphate biosynthetic process	GO:0009060	-	-
+M1	humanbase	0.2	network_modules	31	GO:BP	GO:0009206	3.9230080625697544e-25	10	0.25711026134935117	8	purine ribonucleoside triphosphate biosynthetic process	GO:0009060	-	-
+M1	humanbase	0.2	network_modules	31	KEGG	KEGG:05012	8.120334410301834e-25	4	0.22503847495350665	5	Parkinson disease	-	KEGG:00190	-
+M1	humanbase	0.2	network_modules	31	GO:BP	GO:0009201	1.110601710136314e-24	11	0.2502075944327583	9	ribonucleoside triphosphate biosynthetic process	GO:0009060	-	-
+M1	humanbase	0.2	network_modules	31	KEGG	KEGG:05020	1.4083506388016465e-24	5	0.22233779782391738	6	Prion disease	-	KEGG:00190	-
+M1	humanbase	0.2	network_modules	31	KEGG	KEGG:04714	1.688475817491036e-24	6	0.23112106439985175	4	Thermogenesis	-	KEGG:00190	-
+M1	humanbase	0.2	network_modules	31	GO:BP	GO:0009142	3.587488579827907e-24	12	0.2425911391708749	10	nucleoside triphosphate biosynthetic process	GO:0009060	-	-
+M1	humanbase	0.2	network_modules	31	KEGG	KEGG:05016	2.5420206404072206e-23	7	0.20853267046539126	7	Huntington disease	-	KEGG:00190	-
+M1	humanbase	0.2	network_modules	32	REAC	REAC:R-HSA-6798695	0.002732901046465198	1	0.06022279948928958	1	Neutrophil degranulation	-	-	REAC:R-HSA-6798695
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0006954	2.2137361816030212e-16	1	0.12380943026098529	11	inflammatory response	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	KEGG	KEGG:04064	2.496491429821829e-14	1	0.20034772438066217	1	NF-kappa B signaling pathway	-	KEGG:04064	-
+M1	humanbase	0.2	network_modules	34	KEGG	KEGG:04668	9.92826893274026e-14	2	0.18970309558151396	2	TNF signaling pathway	-	KEGG:04064	-
+M1	humanbase	0.2	network_modules	34	REAC	REAC:R-HSA-449147	2.099692264395354e-12	1	0.12314700337959465	2	Signaling by Interleukins	-	-	REAC:R-HSA-6783783
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0032496	8.309631531195828e-12	2	0.1338405817658685	7	response to lipopolysaccharide	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0071222	1.010095423779776e-11	3	0.1426721092480637	5	cellular response to lipopolysaccharide	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	REAC	REAC:R-HSA-6783783	1.0927873949175666e-11	2	0.2118116936754927	1	Interleukin-10 signaling	-	-	REAC:R-HSA-6783783
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0071219	2.3136580615594523e-11	4	0.13759622242250213	6	cellular response to molecule of bacterial origin	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0002237	2.422725599622261e-11	5	0.12804248162994594	9	response to molecule of bacterial origin	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0071216	1.0328752413976424e-10	6	0.12877933818233425	8	cellular response to biotic stimulus	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0001817	1.1416116771597916e-10	7	0.09563184451379886	14	regulation of cytokine production	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0001816	1.2714390371220892e-10	8	0.09527527326602458	15	cytokine production	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0033993	1.1932520304127372e-9	9	0.09434439312232572	17	response to lipid	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	KEGG	KEGG:05167	2.639311000531186e-9	3	0.12948940443676532	5	Kaposi sarcoma-associated herpesvirus infection	-	KEGG:04064	-
+M1	humanbase	0.2	network_modules	34	KEGG	KEGG:05417	8.339540298828872e-9	4	0.12241744143751207	6	Lipid and atherosclerosis	-	KEGG:04064	-
+M1	humanbase	0.2	network_modules	34	KEGG	KEGG:05134	8.967187611877991e-9	5	0.16660868310550203	3	Legionellosis	-	KEGG:04064	-
+M1	humanbase	0.2	network_modules	34	KEGG	KEGG:04657	1.7984404435848324e-8	6	0.144305092301809	4	IL-17 signaling pathway	-	KEGG:04064	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0034097	1.9366930283987252e-8	10	0.08452717385144928	23	response to cytokine	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:1901652	1.9366930283987252e-8	11	0.08452717385144928	24	response to peptide	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0043069	2.1829816812642558e-8	12	0.084118368405065	25	negative regulation of programmed cell death	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0001819	1.4760244536141538e-7	13	0.08716799512561338	19	positive regulation of cytokine production	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0071396	1.7196343062402629e-7	14	0.08653954604924236	20	cellular response to lipid	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0043066	1.7669747047459245e-7	15	0.07975240230740781	28	negative regulation of apoptotic process	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0097529	2.184705034315347e-7	16	0.10190789447870283	12	myeloid leukocyte migration	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0010575	2.984167648130062e-7	17	0.16353174858183692	1	positive regulation of vascular endothelial growth factor production	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0010574	4.682881039804778e-7	18	0.15784132903768272	2	regulation of vascular endothelial growth factor production	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0009617	4.747717402615633e-7	19	0.0824272404993436	26	response to bacterium	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0030334	5.313437617841091e-7	20	0.07356892771268375	33	regulation of cell migration	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0030335	5.756301057151423e-7	21	0.0816597734529593	27	positive regulation of cell migration	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0071345	6.169630013048001e-7	22	0.07816200081437435	31	cellular response to cytokine stimulus	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:1901701	6.404209830029718e-7	23	0.07297141464508565	34	cellular response to oxygen-containing compound	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0007249	6.62813327411287e-7	24	0.08970496778015237	18	canonical NF-kappaB signal transduction	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:2000147	9.807719859641616e-7	25	0.07955691200855497	29	positive regulation of cell motility	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0008625	1.0324665908697048e-6	26	0.1257041325553233	10	extrinsic apoptotic signaling pathway via death domain receptors	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:1902041	1.051482080576076e-6	27	0.1479929982924096	3	regulation of extrinsic apoptotic signaling pathway via death domain receptors	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0010573	1.051482080576076e-6	28	0.1479929982924096	4	vascular endothelial growth factor production	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	KEGG	KEGG:05146	1.1011501035935798e-6	7	0.12106888238650965	7	Amoebiasis	-	KEGG:04064	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0040017	1.2365860880714878e-6	29	0.07865136505679864	30	positive regulation of locomotion	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0050727	1.329011904493969e-6	30	0.08638919527538834	21	regulation of inflammatory response	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	KEGG	KEGG:04659	1.4994118111958134e-6	8	0.1184789540300722	8	Th17 cell differentiation	-	KEGG:04064	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0050900	1.5834632870948195e-6	31	0.08556642451120645	22	leukocyte migration	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:2001234	2.7479645776936937e-6	32	0.09488037989000016	16	negative regulation of apoptotic signaling pathway	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0019221	3.4540099044944985e-6	33	0.07796411041775497	32	cytokine-mediated signaling pathway	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	GO:BP	GO:0097530	5.409660916957582e-6	34	0.09930537205421693	13	granulocyte migration	GO:0071222	-	-
+M1	humanbase	0.2	network_modules	34	KEGG	KEGG:04621	7.650706756621827e-6	9	0.09817722602853254	9	NOD-like receptor signaling pathway	-	KEGG:04064	-
+M1	humanbase	0.2	network_modules	35	GO:BP	GO:0051607	4.35914528185561e-38	1	0.2724710064947304	1	defense response to virus	GO:0051607	-	-
+M1	humanbase	0.2	network_modules	35	GO:BP	GO:0009615	3.5101799987041924e-37	2	0.2399457854772974	3	response to virus	GO:0051607	-	-
+M1	humanbase	0.2	network_modules	35	REAC	REAC:R-HSA-909733	1.0723682598555649e-29	1	0.35046086396223114	1	Interferon alpha/beta signaling	-	-	REAC:R-HSA-909733
+M1	humanbase	0.2	network_modules	35	REAC	REAC:R-HSA-913531	1.3620878874539499e-27	2	0.23415484221820496	2	Interferon Signaling	-	-	REAC:R-HSA-909733
+M1	humanbase	0.2	network_modules	35	GO:BP	GO:0045087	2.265289104251961e-25	3	0.1535331092435484	10	innate immune response	GO:0051607	-	-
+M1	humanbase	0.2	network_modules	35	GO:BP	GO:0048525	2.3993723430952058e-20	4	0.23273928971146157	4	negative regulation of viral process	GO:0051607	-	-
+M1	humanbase	0.2	network_modules	35	GO:BP	GO:0050792	3.52531713185813e-18	5	0.1844861353877843	7	regulation of viral process	GO:0051607	-	-
+M1	humanbase	0.2	network_modules	35	GO:BP	GO:0045071	2.440283678197821e-17	6	0.24112255304115043	2	negative regulation of viral genome replication	GO:0051607	-	-
+M1	humanbase	0.2	network_modules	35	GO:BP	GO:0034097	1.8273381239179293e-16	7	0.12339027331174719	14	response to cytokine	GO:0051607	-	-
+M1	humanbase	0.2	network_modules	35	GO:BP	GO:1901652	1.8273381239179293e-16	8	0.12339027331174719	15	response to peptide	GO:0051607	-	-
+M1	humanbase	0.2	network_modules	35	KEGG	KEGG:05164	4.756998448027367e-16	1	0.21492990556612995	1	Influenza A	-	KEGG:05164	-
+M1	humanbase	0.2	network_modules	35	GO:BP	GO:0016032	1.2612929822408804e-15	9	0.1373518817799775	12	viral process	GO:0051607	-	-
+M1	humanbase	0.2	network_modules	35	GO:BP	GO:1903900	1.312568011856614e-15	10	0.17376873917926858	9	regulation of viral life cycle	GO:0051607	-	-
+M1	humanbase	0.2	network_modules	35	GO:BP	GO:0045069	4.08052239946272e-15	11	0.19705209450323505	6	regulation of viral genome replication	GO:0051607	-	-
+M1	humanbase	0.2	network_modules	35	GO:BP	GO:0002831	4.4395549481385415e-15	12	0.1265126817854053	13	regulation of response to biotic stimulus	GO:0051607	-	-
+M1	humanbase	0.2	network_modules	35	GO:BP	GO:0019079	1.0099092046649935e-14	13	0.17400781200664772	8	viral genome replication	GO:0051607	-	-
+M1	humanbase	0.2	network_modules	35	GO:BP	GO:0031347	1.0900566195551558e-14	14	0.11429641978961537	16	regulation of defense response	GO:0051607	-	-
+M1	humanbase	0.2	network_modules	35	KEGG	KEGG:05160	1.871487811843663e-14	2	0.20369181261118116	2	Hepatitis C	-	KEGG:05164	-
+M1	humanbase	0.2	network_modules	35	GO:BP	GO:0019058	1.1266941267322001e-13	15	0.13851976005500374	11	viral life cycle	GO:0051607	-	-
+M1	humanbase	0.2	network_modules	35	GO:BP	GO:0140374	1.2868159900908595e-13	16	0.21066791159608592	5	antiviral innate immune response	GO:0051607	-	-
+M1	humanbase	0.2	network_modules	35	REAC	REAC:R-HSA-1169410	1.6904639573002493e-11	3	0.15502639007882515	3	Antiviral mechanism by IFN-stimulated genes	-	-	REAC:R-HSA-909733
+M1	humanbase	0.2	network_modules	36	GO:BP	GO:0008380	1.7364808939290936e-11	1	0.11277218869347595	1	RNA splicing	GO:0008380	-	-
+M1	humanbase	0.2	network_modules	36	GO:BP	GO:0006397	4.20162088611994e-8	2	0.0949490297181598	4	mRNA processing	GO:0008380	-	-
+M1	humanbase	0.2	network_modules	36	GO:BP	GO:0000377	9.219695870611533e-8	3	0.09702434264874155	2	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	GO:0008380	-	-
+M1	humanbase	0.2	network_modules	36	GO:BP	GO:0000398	9.219695870611533e-8	4	0.09702434264874155	3	mRNA splicing, via spliceosome	GO:0008380	-	-
+M1	humanbase	0.2	network_modules	38	GO:BP	GO:0032007	7.954349314010176e-4	1	0.09496476202107583	1	negative regulation of TOR signaling	GO:0032007	-	-
+M1	humanbase	0.2	network_modules	38	KEGG	KEGG:04218	8.297518437866668e-4	1	0.08934832342064386	1	Cellular senescence	-	KEGG:04218	-
+M1	humanbase	0.2	network_modules	38	GO:BP	GO:0032006	0.0014932209388451043	2	0.07675423550255381	2	regulation of TOR signaling	GO:0032007	-	-
+M1	humanbase	0.2	network_modules	39	GO:BP	GO:0008380	1.3432542685554187e-5	1	0.07860116788574177	1	RNA splicing	GO:0008380	-	-
+M1	humanbase	0.2	network_modules	40	REAC	REAC:R-HSA-3108232	7.936442819047421e-13	1	0.16248873550234294	3	SUMO E3 ligases SUMOylate target proteins	-	-	REAC:R-HSA-3108232
+M1	humanbase	0.2	network_modules	40	REAC	REAC:R-HSA-2990846	1.2486397768882563e-12	2	0.15950873439746946	4	SUMOylation	-	-	REAC:R-HSA-3108232
+M1	humanbase	0.2	network_modules	40	REAC	REAC:R-HSA-3232118	4.19252152753462e-9	3	0.23732256636214624	1	SUMOylation of transcription factors	-	-	REAC:R-HSA-3108232
+M1	humanbase	0.2	network_modules	40	REAC	REAC:R-HSA-3899300	9.635325448685284e-7	4	0.1554600221586241	5	SUMOylation of transcription cofactors	-	-	REAC:R-HSA-3108232
+M1	humanbase	0.2	network_modules	40	REAC	REAC:R-HSA-4090294	3.435072708797994e-6	5	0.17032162720679644	2	SUMOylation of intracellular receptors	-	-	REAC:R-HSA-3108232
+M1	humanbase	0.2	network_modules	40	REAC	REAC:R-HSA-5633007	1.0089275188409282e-5	6	0.1009524947661805	10	Regulation of TP53 Activity	-	-	REAC:R-HSA-3108232
+M1	humanbase	0.2	network_modules	40	GO:BP	GO:0000122	1.3001036458309782e-5	1	0.06623497336702204	3	negative regulation of transcription by RNA polymerase II	GO:0000122	-	-
+M1	humanbase	0.2	network_modules	40	GO:BP	GO:0006974	1.4544207929033649e-5	2	0.06585566775981995	4	DNA damage response	GO:0000122	-	-
+M1	humanbase	0.2	network_modules	40	GO:BP	GO:0080135	2.036152112843701e-5	3	0.0728566429094587	2	regulation of cellular response to stress	GO:0000122	-	-
+M1	humanbase	0.2	network_modules	40	REAC	REAC:R-HSA-6804757	2.964011793841753e-5	7	0.1380562318205537	7	Regulation of TP53 Degradation	-	-	REAC:R-HSA-3108232
+M1	humanbase	0.2	network_modules	40	REAC	REAC:R-HSA-6806003	3.419283172330883e-5	8	0.13609469366337779	8	Regulation of TP53 Expression and Degradation	-	-	REAC:R-HSA-3108232
+M1	humanbase	0.2	network_modules	40	REAC	REAC:R-HSA-3700989	3.8629796609474456e-5	9	0.08040234850741917	11	Transcriptional Regulation by TP53	-	-	REAC:R-HSA-3108232
+M1	humanbase	0.2	network_modules	40	REAC	REAC:R-HSA-383280	5.82474862501789e-5	10	0.1289696207929954	9	Nuclear Receptor transcription pathway	-	-	REAC:R-HSA-3108232
+M1	humanbase	0.2	network_modules	40	GO:BP	GO:0018205	6.546506552047451e-5	4	0.0902443727789094	1	peptidyl-lysine modification	GO:0000122	-	-
+M1	humanbase	0.2	network_modules	40	KEGG	KEGG:01522	6.974586551275855e-5	1	0.10494625314200527	1	Endocrine resistance	-	KEGG:01522	-
+M1	humanbase	0.2	network_modules	40	REAC	REAC:R-HSA-6804760	1.1131216529185564e-4	11	0.1531297778015592	6	Regulation of TP53 Activity through Methylation	-	-	REAC:R-HSA-3108232
+M1	humanbase	0.2	network_modules	42	REAC	REAC:R-HSA-446203	0.001158162316880202	1	0.07032858448701985	1	Asparagine N-linked glycosylation	-	-	REAC:R-HSA-446203
+M1	humanbase	0.2	network_modules	46	GO:BP	GO:0006289	0.0012635627806269305	1	0.09216124290569494	1	nucleotide-excision repair	GO:0006289	-	-
+M1	humanbase	0.2	network_modules	46	KEGG	KEGG:03083	0.00440913134894542	1	0.0863674724531169	1	Polycomb repressive complex	-	KEGG:03083	-
+M1	humanbase	0.2	network_modules	47	REAC	REAC:R-HSA-4086400	5.157080390369552e-9	1	0.1497988189958174	2	PCP/CE pathway	-	-	REAC:R-HSA-4086400
+M1	humanbase	0.2	network_modules	47	REAC	REAC:R-HSA-162909	9.031247937136295e-8	2	0.12650304438056775	20	Host Interactions of HIV factors	-	-	REAC:R-HSA-4086400
+M1	humanbase	0.2	network_modules	47	REAC	REAC:R-HSA-350562	1.0247965571066241e-7	3	0.15779988447096252	1	Regulation of ornithine decarboxylase (ODC)	-	-	REAC:R-HSA-4086400
+M1	humanbase	0.2	network_modules	47	REAC	REAC:R-HSA-351202	2.6168555311339074e-7	4	0.1475046690138037	3	Metabolism of polyamines	-	-	REAC:R-HSA-4086400
+M1	humanbase	0.2	network_modules	47	REAC	REAC:R-HSA-3858494	2.809561152764691e-7	5	0.11804068249076037	22	Beta-catenin independent WNT signaling	-	-	REAC:R-HSA-4086400
+M1	humanbase	0.2	network_modules	47	REAC	REAC:R-HSA-5676590	2.961964476926707e-7	6	0.14618315630982	4	NIK-->noncanonical NF-kB signaling	-	-	REAC:R-HSA-4086400
+M1	humanbase	0.2	network_modules	47	REAC	REAC:R-HSA-5607761	3.345080801860655e-7	7	0.1448942614774712	5	Dectin-1 mediated noncanonical NF-kB signaling	-	-	REAC:R-HSA-4086400
+M1	humanbase	0.2	network_modules	47	GO:BP	GO:0046032	5.915790960495847e-7	1	0.12756118169650504	1	ADP catabolic process	GO:0046032	-	-
+M1	humanbase	0.2	network_modules	47	GO:BP	GO:0006096	5.915790960495847e-7	2	0.12756118169650504	2	glycolytic process	GO:0046032	-	-
+M1	humanbase	0.2	network_modules	47	GO:BP	GO:0046031	7.201009154729156e-7	3	0.1257421600027756	3	ADP metabolic process	GO:0046032	-	-
+M1	humanbase	0.2	network_modules	47	GO:BP	GO:0009181	7.201009154729156e-7	4	0.1257421600027756	4	purine ribonucleoside diphosphate catabolic process	GO:0046032	-	-
+M1	humanbase	0.2	network_modules	47	GO:BP	GO:0009137	7.201009154729156e-7	5	0.1257421600027756	5	purine nucleoside diphosphate catabolic process	GO:0046032	-	-
+M1	humanbase	0.2	network_modules	47	GO:BP	GO:0019364	8.71675494966692e-7	6	0.12399430798462927	6	pyridine nucleotide catabolic process	GO:0046032	-	-
+M1	humanbase	0.2	network_modules	47	GO:BP	GO:0009179	8.71675494966692e-7	7	0.12399430798462927	7	purine ribonucleoside diphosphate metabolic process	GO:0046032	-	-
+M1	humanbase	0.2	network_modules	47	REAC	REAC:R-HSA-8948751	9.143808878793901e-7	8	0.13456394395662177	8	Regulation of PTEN stability and activity	-	-	REAC:R-HSA-4086400
+M1	humanbase	0.2	network_modules	47	GO:BP	GO:0009135	9.57127518764891e-7	8	0.12314562368583332	8	purine nucleoside diphosphate metabolic process	GO:0046032	-	-
+M1	humanbase	0.2	network_modules	47	GO:BP	GO:0009191	9.57127518764891e-7	9	0.12314562368583332	9	ribonucleoside diphosphate catabolic process	GO:0046032	-	-
+M1	humanbase	0.2	network_modules	47	KEGG	KEGG:03050	1.0880327167068758e-6	1	0.15256495051139393	1	Proteasome	-	KEGG:03050	-
+M1	humanbase	0.2	network_modules	47	GO:BP	GO:0072526	1.1495957599582197e-6	10	0.12149606997179685	10	pyridine-containing compound catabolic process	GO:0046032	-	-
+M1	humanbase	0.2	network_modules	47	GO:BP	GO:0009134	1.4996322465945008e-6	11	0.11913395816743436	11	nucleoside diphosphate catabolic process	GO:0046032	-	-
+M1	humanbase	0.2	network_modules	47	GO:BP	GO:0009185	1.9365493853608283e-6	12	0.11689589124876458	12	ribonucleoside diphosphate metabolic process	GO:0046032	-	-
+M1	humanbase	0.2	network_modules	47	REAC	REAC:R-HSA-9755511	2.262721646245455e-6	9	0.11273489255007885	23	KEAP1-NFE2L2 pathway	-	-	REAC:R-HSA-4086400
+M1	humanbase	0.2	network_modules	47	REAC	REAC:R-HSA-8852276	2.3980920931959793e-6	10	0.12518690573199973	21	The role of GTSE1 in G2/M progression after G2 checkpoint	-	-	REAC:R-HSA-4086400
+M1	humanbase	0.2	network_modules	47	GO:BP	GO:0009154	2.9052113452335546e-6	13	0.11341313055928201	13	purine ribonucleotide catabolic process	GO:0046032	-	-
+M1	humanbase	0.2	network_modules	47	GO:BP	GO:0009261	3.3943195202240067e-6	14	0.11209871506716759	14	ribonucleotide catabolic process	GO:0046032	-	-
+M1	humanbase	0.2	network_modules	47	GO:BP	GO:0009132	3.664031345153033e-6	15	0.11145715821938078	15	nucleoside diphosphate metabolic process	GO:0046032	-	-
+M1	humanbase	0.2	network_modules	47	REAC	REAC:R-HSA-1236978	4.361390889241421e-6	11	0.1375546544204784	6	Cross-presentation of soluble exogenous antigens (endosomes)	-	-	REAC:R-HSA-4086400
+M1	humanbase	0.2	network_modules	47	GO:BP	GO:0006090	4.5851727793580885e-6	16	0.10959182432185598	16	pyruvate metabolic process	GO:0046032	-	-
+M1	humanbase	0.2	network_modules	47	REAC	REAC:R-HSA-211733	4.944040445810611e-6	12	0.13609930628056582	7	Regulation of activated PAK-2p34 by proteasome mediated degradation	-	-	REAC:R-HSA-4086400
+M1	humanbase	0.2	network_modules	47	GO:BP	GO:0006195	5.696165076757181e-6	17	0.10781023519677617	17	purine nucleotide catabolic process	GO:0046032	-	-
+M1	humanbase	0.2	network_modules	47	REAC	REAC:R-HSA-349425	6.303248811159038e-6	13	0.13331345196725425	9	Autodegradation of the E3 ubiquitin ligase COP1	-	-	REAC:R-HSA-4086400
+M1	humanbase	0.2	network_modules	47	REAC	REAC:R-HSA-69601	6.303248811159038e-6	14	0.13331345196725425	10	Ubiquitin Mediated Degradation of Phosphorylated Cdc25A	-	-	REAC:R-HSA-4086400
+M1	humanbase	0.2	network_modules	47	REAC	REAC:R-HSA-69613	6.303248811159038e-6	15	0.13331345196725425	11	p53-Independent G1/S DNA damage checkpoint	-	-	REAC:R-HSA-4086400
+M1	humanbase	0.2	network_modules	47	REAC	REAC:R-HSA-9762114	6.303248811159038e-6	16	0.13331345196725425	12	GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2	-	-	REAC:R-HSA-4086400
+M1	humanbase	0.2	network_modules	47	REAC	REAC:R-HSA-180534	6.303248811159038e-6	17	0.13331345196725425	13	Vpu mediated degradation of CD4	-	-	REAC:R-HSA-4086400
+M1	humanbase	0.2	network_modules	47	REAC	REAC:R-HSA-75815	6.303248811159038e-6	18	0.13331345196725425	14	Ubiquitin-dependent degradation of Cyclin D	-	-	REAC:R-HSA-4086400
+M1	humanbase	0.2	network_modules	47	REAC	REAC:R-HSA-69610	6.303248811159038e-6	19	0.13331345196725425	15	p53-Independent DNA Damage Response	-	-	REAC:R-HSA-4086400
+M1	humanbase	0.2	network_modules	47	REAC	REAC:R-HSA-9604323	7.090584690078169e-6	20	0.13197900786254396	16	Negative regulation of NOTCH4 signaling	-	-	REAC:R-HSA-4086400
+M1	humanbase	0.2	network_modules	47	REAC	REAC:R-HSA-169911	7.090584690078169e-6	21	0.13197900786254396	17	Regulation of Apoptosis	-	-	REAC:R-HSA-4086400
+M1	humanbase	0.2	network_modules	47	REAC	REAC:R-HSA-180585	7.090584690078169e-6	22	0.13197900786254396	18	Vif-mediated degradation of APOBEC3G	-	-	REAC:R-HSA-4086400
+M1	humanbase	0.2	network_modules	47	KEGG	KEGG:05016	7.321367018561785e-6	2	0.09140490609827531	2	Huntington disease	-	KEGG:03050	-
+M1	humanbase	0.2	network_modules	47	REAC	REAC:R-HSA-450408	7.957453838302966e-6	23	0.13068114077066312	19	AUF1 (hnRNP D0) binds and destabilizes mRNA	-	-	REAC:R-HSA-4086400
+M1	humanbase	0.2	network_modules	48	KEGG	KEGG:00010	2.3604930926855733e-5	1	0.13295710333709698	2	Glycolysis / Gluconeogenesis	-	KEGG:00010	-
+M1	humanbase	0.2	network_modules	48	KEGG	KEGG:01230	3.8966507015434736e-5	2	0.1261337057773862	3	Biosynthesis of amino acids	-	KEGG:00010	-
+M1	humanbase	0.2	network_modules	48	KEGG	KEGG:00051	6.29224129379465e-5	3	0.15079931658062773	1	Fructose and mannose metabolism	-	KEGG:00010	-
+M1	humanbase	0.2	network_modules	48	GO:BP	GO:0061621	6.996726172827657e-5	1	0.1609657192129971	1	canonical glycolysis	GO:0061621	-	-
+M1	humanbase	0.2	network_modules	48	GO:BP	GO:0061718	6.996726172827657e-5	2	0.1609657192129971	2	glucose catabolic process to pyruvate	GO:0061621	-	-
+M1	humanbase	0.2	network_modules	48	GO:BP	GO:0006735	6.996726172827657e-5	3	0.1609657192129971	3	NADH regeneration	GO:0061621	-	-
+M1	humanbase	0.2	network_modules	48	GO:BP	GO:0061615	9.134178703526024e-5	4	0.156071927886988	4	glycolytic process through fructose-6-phosphate	GO:0061621	-	-
+M1	humanbase	0.2	network_modules	48	GO:BP	GO:0061620	9.134178703526024e-5	5	0.156071927886988	5	glycolytic process through glucose-6-phosphate	GO:0061621	-	-
+M1	humanbase	0.2	network_modules	48	REAC	REAC:R-HSA-70171	1.3723110281274776e-4	1	0.11799355022452658	1	Glycolysis	-	-	REAC:R-HSA-70171
+M1	humanbase	0.2	network_modules	48	GO:BP	GO:0006007	1.482567488927768e-4	6	0.1474632288796926	6	glucose catabolic process	GO:0061621	-	-
+M1	humanbase	0.2	network_modules	48	GO:BP	GO:0019677	1.482567488927768e-4	7	0.1474632288796926	7	NAD catabolic process	GO:0061621	-	-
+M1	humanbase	0.2	network_modules	51	KEGG	KEGG:03250	5.698867647872245e-4	1	0.1130377836349035	1	Viral life cycle - HIV-1	-	KEGG:03250	-
+M1	humanbase	0.2	network_modules	51	GO:BP	GO:0016071	7.184166684201934e-4	1	0.060790856660255486	1	mRNA metabolic process	GO:0016071	-	-
+M1	humanbase	0.2	network_modules	55	REAC	REAC:R-HSA-352230	3.8585362791100935e-6	1	0.1678643713834265	1	Amino acid transport across the plasma membrane	-	-	REAC:R-HSA-352230
+M1	humanbase	0.2	network_modules	55	GO:BP	GO:0000101	7.409866752885943e-6	1	0.2099440838649764	1	sulfur amino acid transport	GO:0000101	-	-
+M1	humanbase	0.2	network_modules	55	GO:BP	GO:1902475	1.252850079711148e-4	2	0.11675781131169478	2	L-alpha-amino acid transmembrane transport	GO:0000101	-	-
+M1	humanbase	0.2	network_modules	55	GO:BP	GO:0015807	4.5157946856668553e-4	3	0.1023591473187153	3	L-amino acid transport	GO:0000101	-	-
+M1	humanbase	0.2	network_modules	55	GO:BP	GO:0003333	8.860611430604533e-4	4	0.09538020569577485	4	amino acid transmembrane transport	GO:0000101	-	-
+M1	humanbase	0.2	network_modules	56	KEGG	KEGG:04215	6.137938028015319e-5	1	0.15172177707560874	1	Apoptosis - multiple species	-	KEGG:04215	-
+M1	humanbase	0.2	network_modules	56	KEGG	KEGG:01521	7.178081048378014e-5	2	0.11865624698504694	2	EGFR tyrosine kinase inhibitor resistance	-	KEGG:04215	-
+M1	humanbase	0.2	network_modules	56	GO:BP	GO:0001836	7.818007758993762e-5	1	0.12036321642522019	1	release of cytochrome c from mitochondria	GO:0001836	-	-
+M1	humanbase	0.2	network_modules	56	REAC	REAC:R-HSA-111453	2.4002782571709713e-4	1	0.20308479792044035	1	BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members	-	-	REAC:R-HSA-111453
+M1	humanbase	0.2	network_modules	56	KEGG	KEGG:05170	5.480400612447977e-4	3	0.08366767250871841	3	Human immunodeficiency virus 1 infection	-	KEGG:04215	-
+M1	humanbase	0.2	network_modules	63	GO:BP	GO:0048014	8.466736746244199e-6	1	0.31596367634387357	1	Tie signaling pathway	GO:0048014	-	-
+M1	humanbase	0.2	network_modules	63	GO:BP	GO:0030198	1.1903664135662856e-5	2	0.0906215077341918	2	extracellular matrix organization	GO:0048014	-	-
+M1	humanbase	0.2	network_modules	63	GO:BP	GO:0043062	1.2304473891974959e-5	3	0.09041077847346694	3	extracellular structure organization	GO:0048014	-	-
+M1	humanbase	0.2	network_modules	64	REAC	REAC:R-HSA-191650	7.609574657788746e-4	1	0.3427613847547913	1	Regulation of gap junction activity	-	-	REAC:R-HSA-191650
+M1	humanbase	0.2	network_modules	64	GO:BP	GO:0021816	0.003276358997535711	1	0.282641522315189	1	extension of a leading process involved in cell motility in cerebral cortex radial glia guided migration	GO:0021816	-	-
+M1	humanbase	0.2	network_modules	64	GO:BP	GO:0021815	0.003276358997535711	2	0.282641522315189	2	modulation of microtubule cytoskeleton involved in cerebral cortex radial glia guided migration	GO:0021816	-	-
+M1	humanbase	0.2	network_modules	65	GO:BP	GO:0000209	4.110120819528455e-17	1	0.1731183217038873	1	protein polyubiquitination	GO:0000209	-	-
+M1	humanbase	0.2	network_modules	65	GO:BP	GO:0016567	3.8922850965980614e-16	2	0.13206966513983726	3	protein ubiquitination	GO:0000209	-	-
+M1	humanbase	0.2	network_modules	65	GO:BP	GO:0032446	3.4676094166988562e-15	3	0.12350608378315531	4	protein modification by small protein conjugation	GO:0000209	-	-
+M1	humanbase	0.2	network_modules	65	GO:BP	GO:0070647	2.7140172101507894e-14	4	0.11583646451932327	5	protein modification by small protein conjugation or removal	GO:0000209	-	-
+M1	humanbase	0.2	network_modules	65	GO:BP	GO:0043687	8.321018422520407e-14	5	0.11180958408581311	6	post-translational protein modification	GO:0000209	-	-
+M1	humanbase	0.2	network_modules	65	GO:BP	GO:0070534	2.5454013882394126e-8	6	0.16028084052434544	2	protein K63-linked ubiquitination	GO:0000209	-	-
+M1	humanbase	0.2	network_modules	65	REAC	REAC:R-HSA-983168	7.520094306114725e-8	1	0.11282201699399669	1	Antigen processing: Ubiquitination & Proteasome degradation	-	-	REAC:R-HSA-983168
+M1	humanbase	0.2	network_modules	69	KEGG	KEGG:04141	2.295777947141417e-13	1	0.1957043524763009	1	Protein processing in endoplasmic reticulum	-	KEGG:04141	-
+M1	humanbase	0.2	network_modules	69	REAC	REAC:R-HSA-446203	1.1116171270802958e-6	1	0.10393201287679411	1	Asparagine N-linked glycosylation	-	-	REAC:R-HSA-446203
+M1	humanbase	0.2	network_modules	69	GO:BP	GO:0006487	2.6611094552432165e-6	1	0.1352084427824621	1	protein N-linked glycosylation	GO:0006487	-	-
+M1	humanbase	0.2	network_modules	69	KEGG	KEGG:00510	3.886791850312001e-6	2	0.15890562810456282	2	N-Glycan biosynthesis	-	KEGG:04141	-
+M1	humanbase	0.2	network_modules	70	GO:BP	GO:0010508	0.005813063223318468	1	0.07644921745767579	1	positive regulation of autophagy	GO:0010508	-	-
+M1	humanbase	0.2	network_modules	72	REAC	REAC:R-HSA-381340	7.621161968392078e-35	1	0.4236946265723214	1	Transcriptional regulation of white adipocyte differentiation	-	-	REAC:R-HSA-381340
+M1	humanbase	0.2	network_modules	72	REAC	REAC:R-HSA-9843745	7.621161968392078e-35	2	0.4236946265723214	2	Adipogenesis	-	-	REAC:R-HSA-381340
+M1	humanbase	0.2	network_modules	72	GO:BP	GO:0032968	2.4510611917482818e-33	1	0.47035312576106575	1	positive regulation of transcription elongation by RNA polymerase II	GO:0032968	-	-
+M1	humanbase	0.2	network_modules	72	GO:BP	GO:0060261	3.2232430316671966e-32	2	0.43921211155216383	2	positive regulation of transcription initiation by RNA polymerase II	GO:0032968	-	-
+M1	humanbase	0.2	network_modules	72	REAC	REAC:R-HSA-1989781	4.963355933683101e-32	3	0.3623514657609864	3	PPARA activates gene expression	-	-	REAC:R-HSA-381340
+M1	humanbase	0.2	network_modules	74	GO:BP	GO:0099514	3.7666768263237806e-13	1	0.32910914712048495	1	synaptic vesicle cytoskeletal transport	GO:0099514	-	-
+M1	humanbase	0.2	network_modules	74	GO:BP	GO:0099517	3.7666768263237806e-13	2	0.32910914712048495	2	synaptic vesicle transport along microtubule	GO:0099514	-	-
+M1	humanbase	0.2	network_modules	74	GO:BP	GO:0048490	3.7666768263237806e-13	3	0.32910914712048495	3	anterograde synaptic vesicle transport	GO:0099514	-	-
+M1	humanbase	0.2	network_modules	74	GO:BP	GO:0048489	4.9829452311190094e-11	4	0.24236751058912684	4	synaptic vesicle transport	GO:0099514	-	-
+M1	humanbase	0.2	network_modules	74	GO:BP	GO:0048753	1.783570532657568e-10	5	0.22268954908610308	5	pigment granule organization	GO:0099514	-	-
+M1	humanbase	0.2	network_modules	74	GO:BP	GO:0032438	1.783570532657568e-10	6	0.22268954908610308	6	melanosome organization	GO:0099514	-	-
+M1	humanbase	0.2	network_modules	74	GO:BP	GO:0097479	2.159795004518456e-10	7	0.21984615066816623	7	synaptic vesicle localization	GO:0099514	-	-
+M1	humanbase	0.2	network_modules	74	GO:BP	GO:0008089	3.119256240847987e-10	8	0.2144655785631956	8	anterograde axonal transport	GO:0099514	-	-
+M1	humanbase	0.2	network_modules	74	GO:BP	GO:0047496	3.119256240847987e-10	9	0.2144655785631956	9	vesicle transport along microtubule	GO:0099514	-	-
+M1	humanbase	0.2	network_modules	74	GO:BP	GO:0010970	7.056779786525856e-10	10	0.14705982897922473	11	transport along microtubule	GO:0099514	-	-
+M1	humanbase	0.2	network_modules	74	GO:BP	GO:0098930	2.0238045164753704e-9	11	0.18870521908113555	10	axonal transport	GO:0099514	-	-
+M1	humanbase	0.2	network_modules	77	KEGG	KEGG:04550	0.0026750887398617608	1	0.08850700559822199	1	Signaling pathways regulating pluripotency of stem cells	-	KEGG:04550	-
+M1	humanbase	0.2	network_modules	79	GO:BP	GO:0044283	8.738789631538896e-17	1	0.1442510159941344	5	small molecule biosynthetic process	GO:0006695	-	-
+M1	humanbase	0.2	network_modules	79	REAC	REAC:R-HSA-8957322	1.4684639278789116e-16	1	0.2161859351414718	3	Metabolism of steroids	-	-	REAC:R-HSA-191273
+M1	humanbase	0.2	network_modules	79	GO:BP	GO:0008610	7.09215924262488e-15	2	0.12538383432729683	6	lipid biosynthetic process	GO:0006695	-	-
+M1	humanbase	0.2	network_modules	79	GO:BP	GO:0006695	1.915284210596076e-14	3	0.2625969698580344	1	cholesterol biosynthetic process	GO:0006695	-	-
+M1	humanbase	0.2	network_modules	79	GO:BP	GO:1902653	1.915284210596076e-14	4	0.2625969698580344	2	secondary alcohol biosynthetic process	GO:0006695	-	-
+M1	humanbase	0.2	network_modules	79	GO:BP	GO:0016126	4.6094985690662384e-14	5	0.25101747108910594	3	sterol biosynthetic process	GO:0006695	-	-
+M1	humanbase	0.2	network_modules	79	REAC	REAC:R-HSA-191273	4.9421735711486394e-14	2	0.32563498875639946	1	Cholesterol biosynthesis	-	-	REAC:R-HSA-191273
+M1	humanbase	0.2	network_modules	79	REAC	REAC:R-HSA-1655829	1.8728945872279416e-13	3	0.25546602882645664	2	Regulation of cholesterol biosynthesis by SREBP (SREBF)	-	-	REAC:R-HSA-191273
+M1	humanbase	0.2	network_modules	79	GO:BP	GO:0008203	3.264103264995475e-13	6	0.19611648136118776	4	cholesterol metabolic process	GO:0006695	-	-
+M1	humanbase	0.2	network_modules	87	REAC	REAC:R-HSA-9754119	0.002726919122012445	1	0.2691978540546046	1	Drug-mediated inhibition of CDK4/CDK6 activity	-	-	REAC:R-HSA-9754119
+M1	humanbase	0.2	network_modules	91	KEGG	KEGG:01521	5.469179237278694e-11	1	0.21519855482929443	1	EGFR tyrosine kinase inhibitor resistance	-	KEGG:01521	-
+M1	humanbase	0.2	network_modules	91	REAC	REAC:R-HSA-9006934	7.825635152135124e-11	1	0.12287199936184627	8	Signaling by Receptor Tyrosine Kinases	-	-	REAC:R-HSA-2219530
+M1	humanbase	0.2	network_modules	91	KEGG	KEGG:04151	1.3680873383566781e-8	2	0.12208266164735079	7	PI3K-Akt signaling pathway	-	KEGG:01521	-
+M1	humanbase	0.2	network_modules	91	GO:BP	GO:0007169	7.40399689242525e-8	1	0.0941515718761029	3	cell surface receptor protein tyrosine kinase signaling pathway	GO:0051897	-	-
+M1	humanbase	0.2	network_modules	91	KEGG	KEGG:04510	1.1135838909600277e-7	3	0.1313135414383623	5	Focal adhesion	-	KEGG:01521	-
+M1	humanbase	0.2	network_modules	91	KEGG	KEGG:05205	1.2519668172100968e-7	4	0.13026959950452907	6	Proteoglycans in cancer	-	KEGG:01521	-
+M1	humanbase	0.2	network_modules	91	KEGG	KEGG:05223	2.1263558481453565e-7	5	0.1682582882489564	2	Non-small cell lung cancer	-	KEGG:01521	-
+M1	humanbase	0.2	network_modules	91	REAC	REAC:R-HSA-2219530	4.318856062508552e-7	2	0.16374493048953942	3	Constitutive Signaling by Aberrant PI3K in Cancer	-	-	REAC:R-HSA-2219530
+M1	humanbase	0.2	network_modules	91	KEGG	KEGG:04012	5.458272901421209e-7	6	0.1552480143616031	3	ErbB signaling pathway	-	KEGG:01521	-
+M1	humanbase	0.2	network_modules	91	GO:BP	GO:0043491	1.657364285197014e-6	2	0.10270625213056003	2	phosphatidylinositol 3-kinase/protein kinase B signal transduction	GO:0051897	-	-
+M1	humanbase	0.2	network_modules	91	GO:BP	GO:0051897	2.428247427134824e-6	3	0.1135689546517077	1	positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	GO:0051897	-	-
+M1	humanbase	0.2	network_modules	91	KEGG	KEGG:04010	2.5770005856849748e-6	7	0.10539489364990623	8	MAPK signaling pathway	-	KEGG:01521	-
+M1	humanbase	0.2	network_modules	91	REAC	REAC:R-HSA-2219528	3.618828421282576e-6	3	0.13664791026086562	5	PI3K/AKT Signaling in Cancer	-	-	REAC:R-HSA-2219530
+M1	humanbase	0.2	network_modules	91	REAC	REAC:R-HSA-6811558	3.618828421282576e-6	4	0.13664791026086562	6	PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling	-	-	REAC:R-HSA-2219530
+M1	humanbase	0.2	network_modules	91	REAC	REAC:R-HSA-1227986	5.308154050476657e-6	5	0.16255803292175477	4	Signaling by ERBB2	-	-	REAC:R-HSA-2219530
+M1	humanbase	0.2	network_modules	91	REAC	REAC:R-HSA-199418	5.642835146507954e-6	6	0.13148117687985772	7	Negative regulation of the PI3K/AKT network	-	-	REAC:R-HSA-2219530
+M1	humanbase	0.2	network_modules	91	REAC	REAC:R-HSA-1251932	7.099789440993486e-6	7	0.3349591358633367	1	PLCG1 events in ERBB2 signaling	-	-	REAC:R-HSA-2219530
+M1	humanbase	0.2	network_modules	91	GO:BP	GO:0007167	7.65844759452921e-6	4	0.07323756374553499	4	enzyme-linked receptor protein signaling pathway	GO:0051897	-	-
+M1	humanbase	0.2	network_modules	91	REAC	REAC:R-HSA-1250196	8.332624335153239e-6	8	0.20944491201331264	2	SHC1 events in ERBB2 signaling	-	-	REAC:R-HSA-2219530
+M1	humanbase	0.2	network_modules	91	KEGG	KEGG:05218	1.3379501905273046e-5	8	0.13952432453107905	4	Melanoma	-	KEGG:01521	-
+M1	humanbase	0.2	network_modules	92	REAC	REAC:R-HSA-9013148	1.4132943962836676e-6	1	0.12501722804160367	2	CDC42 GTPase cycle	-	-	REAC:R-HSA-9013148
+M1	humanbase	0.2	network_modules	92	REAC	REAC:R-HSA-9012999	6.342857152222544e-6	2	0.09094751166295083	3	RHO GTPase cycle	-	-	REAC:R-HSA-9013148
+M1	humanbase	0.2	network_modules	92	REAC	REAC:R-HSA-9013406	1.3559380831447366e-5	3	0.1467944479242039	1	RHOQ GTPase cycle	-	-	REAC:R-HSA-9013148
+M1	humanbase	0.2	network_modules	92	KEGG	KEGG:05211	1.0473033966466687e-4	1	0.1373091288444463	1	Renal cell carcinoma	-	KEGG:05211	-
+M1	humanbase	0.2	network_modules	94	REAC	REAC:R-HSA-162599	5.585222707231579e-4	1	0.09879096358500576	1	Late Phase of HIV Life Cycle	-	-	REAC:R-HSA-162599
+M1	humanbase	0.2	network_modules	94	REAC	REAC:R-HSA-162587	8.879338673780372e-4	2	0.09389253147836332	2	HIV Life Cycle	-	-	REAC:R-HSA-162599
+M1	humanbase	0.2	network_modules	96	GO:BP	GO:0001682	6.745833686919226e-4	1	0.18524419362516745	1	tRNA 5'-leader removal	GO:0001682	-	-
+M1	humanbase	0.2	network_modules	101	REAC	REAC:R-HSA-5389840	2.6267798908150393e-10	1	0.19398584190165724	1	Mitochondrial translation elongation	-	-	REAC:R-HSA-5389840
+M1	humanbase	0.2	network_modules	101	REAC	REAC:R-HSA-5419276	2.6267798908150393e-10	2	0.19398584190165724	2	Mitochondrial translation termination	-	-	REAC:R-HSA-5389840
+M1	humanbase	0.2	network_modules	101	REAC	REAC:R-HSA-5368286	2.6267798908150393e-10	3	0.19398584190165724	3	Mitochondrial translation initiation	-	-	REAC:R-HSA-5389840
+M1	humanbase	0.2	network_modules	102	GO:BP	GO:0098609	1.101713051792516e-6	1	0.07992223120322006	2	cell-cell adhesion	GO:0045216	-	-
+M1	humanbase	0.2	network_modules	102	REAC	REAC:R-HSA-2122948	1.1173791930030187e-6	1	0.1895276425217482	1	Activated NOTCH1 Transmits Signal to the Nucleus	-	-	REAC:R-HSA-2122948
+M1	humanbase	0.2	network_modules	102	GO:BP	GO:0045216	3.6204984457703164e-6	2	0.10834237566251768	1	cell-cell junction organization	GO:0045216	-	-
+M1	humanbase	0.2	network_modules	102	KEGG	KEGG:04330	5.297393529678198e-6	1	0.1534886605911722	1	Notch signaling pathway	-	KEGG:04330	-
+M1	humanbase	0.2	network_modules	102	REAC	REAC:R-HSA-9012852	1.101423424868488e-5	2	0.15137289002215365	2	Signaling by NOTCH3	-	-	REAC:R-HSA-2122948
+M1	humanbase	0.2	network_modules	102	REAC	REAC:R-HSA-2644606	2.661946659535954e-5	3	0.13845276650540414	3	Constitutive Signaling by NOTCH1 PEST Domain Mutants	-	-	REAC:R-HSA-2122948
+M1	humanbase	0.2	network_modules	102	REAC	REAC:R-HSA-2644603	2.661946659535954e-5	4	0.13845276650540414	4	Signaling by NOTCH1 in Cancer	-	-	REAC:R-HSA-2122948
+M1	humanbase	0.2	network_modules	102	REAC	REAC:R-HSA-2894858	2.661946659535954e-5	5	0.13845276650540414	5	Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer	-	-	REAC:R-HSA-2122948
+M1	humanbase	0.2	network_modules	102	REAC	REAC:R-HSA-2894862	2.661946659535954e-5	6	0.13845276650540414	6	Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants	-	-	REAC:R-HSA-2122948
+M1	humanbase	0.2	network_modules	102	REAC	REAC:R-HSA-2644602	2.661946659535954e-5	7	0.13845276650540414	7	Signaling by NOTCH1 PEST Domain Mutants in Cancer	-	-	REAC:R-HSA-2122948
+M1	humanbase	0.2	network_modules	107	REAC	REAC:R-HSA-5218900	7.193066989050975e-10	1	0.36195621341309914	3	CASP8 activity is inhibited	-	-	REAC:R-HSA-5218900
+M1	humanbase	0.2	network_modules	107	REAC	REAC:R-HSA-69416	7.193066989050975e-10	2	0.36195621341309914	4	Dimerization of procaspase-8	-	-	REAC:R-HSA-5218900
+M1	humanbase	0.2	network_modules	107	REAC	REAC:R-HSA-3371378	7.193066989050975e-10	3	0.36195621341309914	5	Regulation by c-FLIP	-	-	REAC:R-HSA-5218900
+M1	humanbase	0.2	network_modules	107	REAC	REAC:R-HSA-5218859	1.2558875546305814e-9	4	0.20856117083299744	14	Regulated Necrosis	-	-	REAC:R-HSA-5218900
+M1	humanbase	0.2	network_modules	107	REAC	REAC:R-HSA-5675482	2.6426604061835744e-9	5	0.24556484700777617	11	Regulation of necroptotic cell death	-	-	REAC:R-HSA-5218900
+M1	humanbase	0.2	network_modules	107	REAC	REAC:R-HSA-5213460	2.6426604061835744e-9	6	0.24556484700777617	12	RIPK1-mediated regulated necrosis	-	-	REAC:R-HSA-5218900
+M1	humanbase	0.2	network_modules	107	REAC	REAC:R-HSA-140534	8.525993775446045e-9	7	0.29508746545026604	9	Caspase activation via Death Receptors in the presence of ligand	-	-	REAC:R-HSA-5218900
+M1	humanbase	0.2	network_modules	107	REAC	REAC:R-HSA-75157	1.0426586134058328e-8	8	0.4099491932600253	1	FasL/ CD95L signaling	-	-	REAC:R-HSA-5218900
+M1	humanbase	0.2	network_modules	107	REAC	REAC:R-HSA-9013957	3.1245358792313065e-8	9	0.37408464568341515	2	TLR3-mediated TICAM1-dependent programmed cell death	-	-	REAC:R-HSA-5218900
+M1	humanbase	0.2	network_modules	107	REAC	REAC:R-HSA-9693928	7.282565725458287e-8	10	0.34619985140643494	6	Defective RIPK1-mediated regulated necrosis	-	-	REAC:R-HSA-5218900
+M1	humanbase	0.2	network_modules	107	REAC	REAC:R-HSA-75158	1.4549112613660312e-7	11	0.323713798413934	7	TRAIL  signaling	-	-	REAC:R-HSA-5218900
+M1	humanbase	0.2	network_modules	107	REAC	REAC:R-HSA-5357769	1.492382181045306e-7	12	0.22787844229331938	13	Caspase activation via extrinsic apoptotic signalling pathway	-	-	REAC:R-HSA-5218900
+M1	humanbase	0.2	network_modules	107	GO:BP	GO:0097527	2.1537080866477697e-7	1	0.30808157498845967	1	necroptotic signaling pathway	GO:0097527	-	-
+M1	humanbase	0.2	network_modules	107	KEGG	KEGG:04210	2.3037125448094334e-7	1	0.14174557454817557	1	Apoptosis	-	KEGG:04210	-
+M1	humanbase	0.2	network_modules	107	REAC	REAC:R-HSA-2562578	2.6159599632829064e-7	13	0.3050810115156389	8	TRIF-mediated programmed cell death	-	-	REAC:R-HSA-5218900
+M1	humanbase	0.2	network_modules	107	GO:BP	GO:0070266	6.391364878218132e-7	2	0.19159043091926514	2	necroptotic process	GO:0097527	-	-
+M1	humanbase	0.2	network_modules	107	REAC	REAC:R-HSA-933543	1.4779330932175212e-6	14	0.25344565688490506	10	NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10	-	-	REAC:R-HSA-5218900
+M1	humanbase	0.2	network_modules	107	GO:BP	GO:0097300	1.5852145388821332e-6	3	0.17557185995528032	3	programmed necrotic cell death	GO:0097527	-	-
+M1	humanbase	0.2	network_modules	109	KEGG	KEGG:04722	8.150479270087941e-5	1	0.11478864257436384	1	Neurotrophin signaling pathway	-	KEGG:04722	-
+M1	humanbase	0.2	network_modules	109	REAC	REAC:R-HSA-72163	5.077932913737293e-4	1	0.08704817768763991	1	mRNA Splicing - Major Pathway	-	-	REAC:R-HSA-72163
+M1	humanbase	0.2	network_modules	119	GO:BP	GO:0048239	0.002136057581726714	1	0.316051741641375	1	negative regulation of DNA recombination at telomere	GO:0048239	-	-
+M1	humanbase	0.2	network_modules	119	GO:BP	GO:0072695	0.002136057581726714	2	0.316051741641375	2	regulation of DNA recombination at telomere	GO:0048239	-	-
+M1	humanbase	0.2	network_modules	120	KEGG	KEGG:05142	5.120777188801119e-4	1	0.11153787533717664	1	Chagas disease	-	KEGG:05142	-
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-73728	1.1194561986129138e-33	1	0.46961354834884833	1	RNA Polymerase I Promoter Opening	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-5334118	2.0862657986401626e-33	2	0.4621548267606763	2	DNA methylation	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-5625886	3.802657933141501e-33	3	0.4550367939498407	3	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-3214815	4.982244205980445e-33	4	0.403190145235967	11	HDACs deacetylate histones	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-427359	5.093787961854131e-33	5	0.45159754959798826	4	SIRT1 negatively regulates rRNA expression	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-68616	6.789353010432105e-33	6	0.4482342243322064	5	Assembly of the ORC complex at the origin of replication	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-9821002	1.1890328427072623e-32	7	0.4417244328371181	6	Chromatin modifications during the maternal to zygotic transition (MZT)	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-212300	2.0451526867009541e-32	8	0.4354869551038451	7	PRC2 methylates histones and DNA	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-9710421	2.0451526867009541e-32	9	0.4354869551038451	8	Defective pyroptosis	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-2299718	2.0451526867009541e-32	10	0.4354869551038451	9	Condensation of Prophase Chromosomes	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-427389	4.4709194151267166e-32	11	0.4266012989586185	10	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-9610379	1.8567097945306547e-31	12	0.3673029545784684	20	HCMV Late Events	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-912446	5.97428439839857e-31	13	0.3980874108497677	12	Meiotic recombination	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-9616222	9.196625493462198e-31	14	0.39348408184307115	13	Transcriptional regulation of granulopoiesis	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	KEGG	KEGG:05322	9.99504348006672e-31	1	0.35670484491496246	1	Systemic lupus erythematosus	-	KEGG:05322	-
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-5250924	1.1364086435408566e-30	15	0.3912405964581733	14	B-WICH complex positively regulates rRNA expression	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-201722	1.4005631039078171e-30	16	0.3890344570161419	15	Formation of the beta-catenin:TCF transactivating complex	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-73772	1.4005631039078171e-30	17	0.3890344570161419	16	RNA Polymerase I Promoter Escape	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-1912408	2.1112316392039982e-30	18	0.38473014303605085	17	Pre-NOTCH Transcription and Translation	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-5625740	2.5825795409125377e-30	19	0.38263002814424596	18	RHO GTPases activate PKNs	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-8936459	3.8372202404018275e-30	20	0.37852930080302616	19	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-9609690	5.792103626624996e-30	21	0.3355865584954464	27	HCMV Early Events	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-3214847	1.333489380237882e-29	22	0.3282464999462587	28	HATs acetylate histones	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-5578749	1.4321514794508883e-29	23	0.36513530996784277	21	Transcriptional regulation by small RNAs	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-9645723	1.7146522855080136e-29	24	0.36333368574983277	22	Diseases of programmed cell death	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-5250913	2.0489835395064193e-29	25	0.3615579883375905	23	Positive epigenetic regulation of rRNA expression	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-427413	2.4439561163721156e-29	26	0.3598075995004544	24	NoRC negatively regulates rRNA expression	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-5250941	4.102775333610109e-29	27	0.35470240381307466	25	Negative epigenetic regulation of rRNA expression	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	122	REAC	REAC:R-HSA-1912422	4.102775333610109e-29	28	0.35470240381307466	26	Pre-NOTCH Expression and Processing	-	-	REAC:R-HSA-73728
+M1	humanbase	0.2	network_modules	129	KEGG	KEGG:03022	1.077180136050836e-5	1	0.18193604504354804	1	Basal transcription factors	-	KEGG:03022	-
+M1	humanbase	0.2	network_modules	129	REAC	REAC:R-HSA-76042	3.966699816745305e-5	1	0.1685469656268958	1	RNA Polymerase II Transcription Initiation And Promoter Clearance	-	-	REAC:R-HSA-76042
+M1	humanbase	0.2	network_modules	129	REAC	REAC:R-HSA-167161	3.966699816745305e-5	2	0.1685469656268958	2	HIV Transcription Initiation	-	-	REAC:R-HSA-76042
+M1	humanbase	0.2	network_modules	129	REAC	REAC:R-HSA-167162	3.966699816745305e-5	3	0.1685469656268958	3	RNA Polymerase II HIV Promoter Escape	-	-	REAC:R-HSA-76042
+M1	humanbase	0.2	network_modules	129	REAC	REAC:R-HSA-73776	3.966699816745305e-5	4	0.1685469656268958	4	RNA Polymerase II Promoter Escape	-	-	REAC:R-HSA-76042
+M1	humanbase	0.2	network_modules	129	REAC	REAC:R-HSA-75953	3.966699816745305e-5	5	0.1685469656268958	5	RNA Polymerase II Transcription Initiation	-	-	REAC:R-HSA-76042
+M1	humanbase	0.2	network_modules	129	REAC	REAC:R-HSA-73779	3.966699816745305e-5	6	0.1685469656268958	6	RNA Polymerase II Transcription Pre-Initiation And Promoter Opening	-	-	REAC:R-HSA-76042
+M1	humanbase	0.2	network_modules	133	KEGG	KEGG:05208	1.3097132969396826e-7	1	0.13805977058014765	4	Chemical carcinogenesis - reactive oxygen species	-	KEGG:05204	-
+M1	humanbase	0.2	network_modules	133	KEGG	KEGG:05204	6.883219474590441e-7	2	0.18181426626818742	1	Chemical carcinogenesis - DNA adducts	-	KEGG:05204	-
+M1	humanbase	0.2	network_modules	133	KEGG	KEGG:00980	1.1433504761227612e-6	3	0.17275362180540674	2	Metabolism of xenobiotics by cytochrome P450	-	KEGG:05204	-
+M1	humanbase	0.2	network_modules	133	GO:BP	GO:0018916	1.2688031732769387e-6	1	0.4199021537723215	1	nitrobenzene metabolic process	GO:0018916	-	-
+M1	humanbase	0.2	network_modules	133	GO:BP	GO:0009753	5.071917508017591e-6	2	0.3635296400309963	2	response to jasmonic acid	GO:0018916	-	-
+M1	humanbase	0.2	network_modules	133	GO:BP	GO:0071395	5.071917508017591e-6	3	0.3635296400309963	3	cellular response to jasmonic acid stimulus	GO:0018916	-	-
+M1	humanbase	0.2	network_modules	133	GO:BP	GO:0042178	5.267216548526685e-6	4	0.21603757505308577	6	xenobiotic catabolic process	GO:0018916	-	-
+M1	humanbase	0.2	network_modules	133	REAC	REAC:R-HSA-156590	1.135286666765274e-5	1	0.19659342677271086	1	Glutathione conjugation	-	-	REAC:R-HSA-156590
+M1	humanbase	0.2	network_modules	133	GO:BP	GO:0070458	1.2671561105371586e-5	5	0.3250467737153748	4	cellular detoxification of nitrogen compound	GO:0018916	-	-
+M1	humanbase	0.2	network_modules	133	GO:BP	GO:0051410	1.2671561105371586e-5	6	0.3250467737153748	5	detoxification of nitrogen compound	GO:0018916	-	-
+M1	humanbase	0.2	network_modules	133	GO:BP	GO:0006631	2.3473623743489324e-5	7	0.09145688293055708	9	fatty acid metabolic process	GO:0018916	-	-
+M1	humanbase	0.2	network_modules	133	KEGG	KEGG:00480	3.178378372572061e-5	4	0.15886702760234958	3	Glutathione metabolism	-	KEGG:05204	-
+M1	humanbase	0.2	network_modules	133	GO:BP	GO:0033559	5.660802777990626e-5	8	0.12040394705996728	8	unsaturated fatty acid metabolic process	GO:0018916	-	-
+M1	humanbase	0.2	network_modules	133	GO:BP	GO:0006749	6.338209985111126e-5	9	0.16042383531016266	7	glutathione metabolic process	GO:0018916	-	-
+M1	humanbase	0.2	network_modules	134	GO:BP	GO:0010560	0.001249644959466613	1	0.16599808314375786	1	positive regulation of glycoprotein biosynthetic process	GO:0010560	-	-
+M1	humanbase	0.2	network_modules	135	REAC	REAC:R-HSA-3814836	4.196456612751151e-4	1	0.3920345589579044	1	Glycogen storage disease type XV (GYG1)	-	-	REAC:R-HSA-3814836
+M1	humanbase	0.2	network_modules	135	REAC	REAC:R-HSA-3828062	4.196456612751151e-4	2	0.3920345589579044	2	Glycogen storage disease type 0 (muscle GYS1)	-	-	REAC:R-HSA-3814836
+M1	humanbase	0.2	network_modules	136	REAC	REAC:R-HSA-6809371	3.5092568638648223e-9	1	0.16336402483421061	1	Formation of the cornified envelope	-	-	REAC:R-HSA-6809371
+M1	humanbase	0.2	network_modules	136	REAC	REAC:R-HSA-6805567	2.2675622218378056e-7	2	0.12423012055815046	2	Keratinization	-	-	REAC:R-HSA-6809371
+M1	humanbase	0.2	network_modules	136	GO:BP	GO:0045104	6.110310383387827e-7	1	0.14729108800305574	1	intermediate filament cytoskeleton organization	GO:0045104	-	-
+M1	humanbase	0.2	network_modules	138	GO:BP	GO:0006457	5.262711644883139e-10	1	0.14635931239466982	1	protein folding	GO:0006457	-	-
+M1	humanbase	0.2	network_modules	138	GO:BP	GO:0051604	1.0680695289374621e-7	2	0.09718952638805113	2	protein maturation	GO:0006457	-	-
+M1	humanbase	0.2	network_modules	138	KEGG	KEGG:04141	8.375166411244475e-6	1	0.11928601224760874	1	Protein processing in endoplasmic reticulum	-	KEGG:04141	-
+M1	humanbase	0.2	network_modules	140	GO:BP	GO:0050851	3.4674535750524775e-13	1	0.18522710942922577	2	antigen receptor-mediated signaling pathway	GO:0050851	-	-
+M1	humanbase	0.2	network_modules	140	GO:BP	GO:0042110	1.2329904970560445e-12	2	0.13689152566013096	4	T cell activation	GO:0050851	-	-
+M1	humanbase	0.2	network_modules	140	GO:BP	GO:0050852	2.04940031556761e-12	3	0.1966827047044078	1	T cell receptor signaling pathway	GO:0050851	-	-
+M1	humanbase	0.2	network_modules	140	GO:BP	GO:0002429	6.551854054333483e-11	4	0.14176521566758285	3	immune response-activating cell surface receptor signaling pathway	GO:0050851	-	-
+M1	humanbase	0.2	network_modules	140	GO:BP	GO:0046649	7.008671807418766e-11	5	0.11440999906161073	6	lymphocyte activation	GO:0050851	-	-
+M1	humanbase	0.2	network_modules	140	REAC	REAC:R-HSA-202433	9.347197264762213e-11	1	0.3046328689724641	1	Generation of second messenger molecules	-	-	REAC:R-HSA-202433
+M1	humanbase	0.2	network_modules	140	GO:BP	GO:0002768	1.4593187497685376e-10	6	0.13597379040532342	5	immune response-regulating cell surface receptor signaling pathway	GO:0050851	-	-
+M1	humanbase	0.2	network_modules	140	GO:BP	GO:0045321	8.080918846994054e-10	7	0.10233757798011542	8	leukocyte activation	GO:0050851	-	-
+M1	humanbase	0.2	network_modules	140	KEGG	KEGG:04658	9.762511249520253e-10	1	0.20300646917187923	1	Th1 and Th2 cell differentiation	-	KEGG:04658	-
+M1	humanbase	0.2	network_modules	140	REAC	REAC:R-HSA-202403	1.531191758723386e-9	2	0.19048572402348193	2	TCR signaling	-	-	REAC:R-HSA-202433
+M1	humanbase	0.2	network_modules	140	KEGG	KEGG:04659	3.1927854999238133e-9	2	0.18641051997573824	2	Th17 cell differentiation	-	KEGG:04658	-
+M1	humanbase	0.2	network_modules	140	GO:BP	GO:0002757	5.917095450659197e-9	8	0.1117201086929723	7	immune response-activating signaling pathway	GO:0050851	-	-
+M1	humanbase	0.2	network_modules	148	REAC	REAC:R-HSA-5617833	1.734706253739416e-5	1	0.11411611919950108	1	Cilium Assembly	-	-	REAC:R-HSA-5617833
+M1	humanbase	0.2	network_modules	149	KEGG	KEGG:03460	9.751726879231983e-6	1	0.17951235595550316	1	Fanconi anemia pathway	-	KEGG:03460	-
+M1	humanbase	0.2	network_modules	150	KEGG	KEGG:04928	5.977135124852373e-4	1	0.10925832697521032	1	Parathyroid hormone synthesis, secretion and action	-	KEGG:04928	-
+M1	humanbase	0.2	network_modules	151	GO:BP	GO:0051085	0.0032499722350439334	1	0.14158387767899894	1	chaperone cofactor-dependent protein refolding	GO:0051085	-	-
+M1	humanbase	0.2	network_modules	154	REAC	REAC:R-HSA-3371599	0.0024265988665318314	1	0.26675898657003766	1	Defective HLCS causes multiple carboxylase deficiency	-	-	REAC:R-HSA-3371599
+M1	humanbase	0.2	network_modules	156	GO:BP	GO:0060602	1.0125129698264172e-5	1	0.3393364062907193	4	branch elongation of an epithelium	GO:0060592	-	-
+M1	humanbase	0.2	network_modules	156	REAC	REAC:R-HSA-2033519	3.9011032059348506e-5	1	0.26651371644118677	1	Activated point mutants of FGFR2	-	-	REAC:R-HSA-2033519
+M1	humanbase	0.2	network_modules	156	GO:BP	GO:0003401	4.2466402269855254e-5	2	0.27686966205164043	5	axis elongation	GO:0060592	-	-
+M1	humanbase	0.2	network_modules	156	REAC	REAC:R-HSA-1839126	3.891935156524451e-4	2	0.18453663061859446	2	FGFR2 mutant receptor activation	-	-	REAC:R-HSA-2033519
+M1	humanbase	0.2	network_modules	156	GO:BP	GO:0060592	7.453716719393749e-4	3	0.3920988599983004	1	mammary gland formation	GO:0060592	-	-
+M1	humanbase	0.2	network_modules	156	GO:BP	GO:0060594	7.453716719393749e-4	4	0.3920988599983004	2	mammary gland specification	GO:0060592	-	-
+M1	humanbase	0.2	network_modules	156	GO:BP	GO:0060595	7.453716719393749e-4	5	0.3920988599983004	3	fibroblast growth factor receptor signaling pathway involved in mammary gland specification	GO:0060592	-	-
+M1	humanbase	0.2	network_modules	160	KEGG	KEGG:03040	0.0010743772835824035	1	0.09747123195342264	1	Spliceosome	-	KEGG:03040	-
+M1	humanbase	0.2	network_modules	162	KEGG	KEGG:01212	0.001268873932591109	1	0.13029087546973778	1	Fatty acid metabolism	-	KEGG:01212	-
+M1	humanbase	0.2	network_modules	165	REAC	REAC:R-HSA-211999	4.9601805843328286e-5	1	0.2603382471740858	1	CYP2E1 reactions	-	-	REAC:R-HSA-211999
+M1	humanbase	0.2	network_modules	165	REAC	REAC:R-HSA-211981	5.284528373176585e-4	2	0.1793444014860522	2	Xenobiotics	-	-	REAC:R-HSA-211999
+M1	humanbase	0.2	network_modules	166	REAC	REAC:R-HSA-8875555	7.546241237176022e-4	1	0.31585093673197046	1	MET activates RAP1 and RAC1	-	-	REAC:R-HSA-8875555
+M1	humanbase	0.2	network_modules	166	REAC	REAC:R-HSA-169893	0.001525271712888384	2	0.26679570071555003	2	Prolonged ERK activation events	-	-	REAC:R-HSA-8875555
+M1	humanbase	0.2	network_modules	168	REAC	REAC:R-HSA-9613354	3.538174087102205e-5	1	0.27663797046372274	1	Lipophagy	-	-	REAC:R-HSA-9613354
+M1	humanbase	0.2	network_modules	168	REAC	REAC:R-HSA-2151209	5.051060091060946e-5	2	0.26234929381831623	2	Activation of PPARGC1A (PGC-1alpha) by phosphorylation	-	-	REAC:R-HSA-9613354
+M1	humanbase	0.2	network_modules	169	KEGG	KEGG:04141	1.9843164724279023e-9	1	0.17729460427147764	1	Protein processing in endoplasmic reticulum	-	KEGG:04141	-
+M1	humanbase	0.2	network_modules	169	REAC	REAC:R-HSA-199977	9.459937120913625e-9	1	0.1670167215760119	3	ER to Golgi Anterograde Transport	-	-	REAC:R-HSA-199977
+M1	humanbase	0.2	network_modules	169	REAC	REAC:R-HSA-948021	3.4343757320387617e-8	2	0.15198786402509526	5	Transport to the Golgi and subsequent modification	-	-	REAC:R-HSA-199977
+M1	humanbase	0.2	network_modules	169	REAC	REAC:R-HSA-204005	1.0726550793506675e-6	3	0.18096810684345999	2	COPII-mediated vesicle transport	-	-	REAC:R-HSA-199977
+M1	humanbase	0.2	network_modules	169	REAC	REAC:R-HSA-446203	1.1014455240405963e-6	4	0.11725316650372508	6	Asparagine N-linked glycosylation	-	-	REAC:R-HSA-199977
+M1	humanbase	0.2	network_modules	169	REAC	REAC:R-HSA-983170	3.871666501867615e-6	5	0.22272897546008283	1	Antigen Presentation: Folding, assembly and peptide loading of class I MHC	-	-	REAC:R-HSA-199977
+M1	humanbase	0.2	network_modules	169	GO:BP	GO:0030968	3.917124504289056e-6	1	0.15735939357698225	1	endoplasmic reticulum unfolded protein response	GO:0030968	-	-
+M1	humanbase	0.2	network_modules	169	REAC	REAC:R-HSA-381119	5.0047528902517635e-6	6	0.15499170256759537	4	Unfolded Protein Response (UPR)	-	-	REAC:R-HSA-199977
+M1	humanbase	0.2	network_modules	174	REAC	REAC:R-HSA-350054	5.034172603361012e-4	1	0.17806137342203324	2	Notch-HLH transcription pathway	-	-	REAC:R-HSA-350054
+M1	humanbase	0.2	network_modules	174	REAC	REAC:R-HSA-2122947	0.002312539505700123	2	0.13826578064370965	3	NOTCH1 Intracellular Domain Regulates Transcription	-	-	REAC:R-HSA-350054
+M1	humanbase	0.2	network_modules	174	REAC	REAC:R-HSA-9022537	0.0031764891873583357	3	0.2576781409088113	1	Loss of MECP2 binding ability to the NCoR/SMRT complex	-	-	REAC:R-HSA-350054
+M1	humanbase	0.2	network_modules	176	GO:BP	GO:0006090	2.63788393787291e-5	1	0.12986151285978098	1	pyruvate metabolic process	GO:0006090	-	-
+M1	humanbase	0.2	network_modules	177	GO:BP	GO:0007059	1.952310412722815e-7	1	0.10941055426961721	1	chromosome segregation	GO:0007059	-	-
+M1	humanbase	0.2	network_modules	177	GO:BP	GO:0051276	1.699684049700301e-4	2	0.07606195458526699	2	chromosome organization	GO:0007059	-	-
+M1	humanbase	0.2	network_modules	178	KEGG	KEGG:04064	0.00505280484570442	1	0.10231888851409128	1	NF-kappa B signaling pathway	-	KEGG:04064	-
+M1	humanbase	0.2	network_modules	185	REAC	REAC:R-HSA-5619060	3.297215910018765e-4	1	0.40806121796608574	1	Defective CP causes aceruloplasminemia (ACERULOP)	-	-	REAC:R-HSA-5619060
+M1	humanbase	0.2	network_modules	185	REAC	REAC:R-HSA-5619049	3.297215910018765e-4	2	0.40806121796608574	2	Defective SLC40A1 causes hemochromatosis 4 (HFE4) (macrophages)	-	-	REAC:R-HSA-5619060
+M1	humanbase	0.2	network_modules	186	REAC	REAC:R-HSA-5689901	6.772874312605154e-8	1	0.23918458003755771	1	Metalloprotease DUBs	-	-	REAC:R-HSA-5689901
+M1	humanbase	0.2	network_modules	186	KEGG	KEGG:03440	7.892995937077012e-7	1	0.23478034018760857	1	Homologous recombination	-	KEGG:03440	-
+M1	humanbase	0.2	network_modules	186	GO:BP	GO:0007095	1.3975188094163902e-5	1	0.19098388140839828	1	mitotic G2 DNA damage checkpoint signaling	GO:0007095	-	-
+M1	humanbase	0.2	network_modules	186	GO:BP	GO:0045739	6.686327478084037e-5	2	0.11647951685163827	5	positive regulation of DNA repair	GO:0007095	-	-
+M1	humanbase	0.2	network_modules	186	GO:BP	GO:0044818	7.859545531966686e-5	3	0.15464203885113992	2	mitotic G2/M transition checkpoint	GO:0007095	-	-
+M1	humanbase	0.2	network_modules	186	REAC	REAC:R-HSA-5693571	1.9541511235916968e-4	2	0.13791697286814825	2	Nonhomologous End-Joining (NHEJ)	-	-	REAC:R-HSA-5689901
+M1	humanbase	0.2	network_modules	186	GO:BP	GO:0010972	1.9935940654397757e-4	4	0.13771186053785367	3	negative regulation of G2/M transition of mitotic cell cycle	GO:0007095	-	-
+M1	humanbase	0.2	network_modules	186	GO:BP	GO:1902750	2.2836229058038969e-4	5	0.13538450563432067	4	negative regulation of cell cycle G2/M phase transition	GO:0007095	-	-
+M1	humanbase	0.2	network_modules	186	REAC	REAC:R-HSA-5693565	3.230079491688515e-4	3	0.12933349169992553	3	Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks	-	-	REAC:R-HSA-5689901
+M1	humanbase	0.2	network_modules	187	REAC	REAC:R-HSA-379716	5.162199105940179e-14	1	0.39534890237559206	1	Cytosolic tRNA aminoacylation	-	-	REAC:R-HSA-379716
+M1	humanbase	0.2	network_modules	187	GO:BP	GO:0006418	9.560932557015519e-13	1	0.3025489218334081	1	tRNA aminoacylation for protein translation	GO:0006418	-	-
+M1	humanbase	0.2	network_modules	187	GO:BP	GO:0043039	1.7012628905275212e-12	2	0.29118832863238925	2	tRNA aminoacylation	GO:0006418	-	-
+M1	humanbase	0.2	network_modules	187	GO:BP	GO:0043038	1.7012628905275212e-12	3	0.29118832863238925	3	amino acid activation	GO:0006418	-	-
+M1	humanbase	0.2	network_modules	188	GO:BP	GO:0071674	1.8637871876650179e-4	1	0.10297065940163336	1	mononuclear cell migration	GO:0071674	-	-
+M1	humanbase	0.2	network_modules	188	GO:BP	GO:0030595	2.5367012423701624e-4	2	0.09968832149989441	2	leukocyte chemotaxis	GO:0071674	-	-
+M1	humanbase	0.2	network_modules	193	GO:BP	GO:0006936	1.656462800337067e-5	1	0.1052745039909529	1	muscle contraction	GO:0006936	-	-
+M1	humanbase	0.2	network_modules	193	GO:BP	GO:0003012	4.321359486290571e-5	2	0.09672154337116916	2	muscle system process	GO:0006936	-	-
+M1	humanbase	0.2	network_modules	195	REAC	REAC:R-HSA-6783310	3.117490199450789e-8	1	0.2519413989678422	1	Fanconi Anemia Pathway	-	-	REAC:R-HSA-6783310
+M1	humanbase	0.2	network_modules	195	KEGG	KEGG:03460	5.7747739207801886e-8	1	0.22504248534045052	1	Fanconi anemia pathway	-	KEGG:03460	-
+M1	humanbase	0.2	network_modules	195	GO:BP	GO:0000712	2.949522158412064e-7	1	0.2975612959392849	5	resolution of meiotic recombination intermediates	GO:0072429	-	-
+M1	humanbase	0.2	network_modules	195	GO:BP	GO:0072429	1.559230472361209e-6	2	0.4327984452304239	1	response to intra-S DNA damage checkpoint signaling	GO:0072429	-	-
+M1	humanbase	0.2	network_modules	195	REAC	REAC:R-HSA-5693568	4.5658454558488285e-6	2	0.21567607986674084	2	Resolution of D-loop Structures through Holliday Junction Intermediates	-	-	REAC:R-HSA-6783310
+M1	humanbase	0.2	network_modules	195	REAC	REAC:R-HSA-5693537	5.15271526478868e-6	3	0.2125333649117973	3	Resolution of D-Loop Structures	-	-	REAC:R-HSA-6783310
+M1	humanbase	0.2	network_modules	195	GO:BP	GO:0072423	1.3626189413929584e-5	3	0.3269522423472795	2	response to DNA damage checkpoint signaling	GO:0072429	-	-
+M1	humanbase	0.2	network_modules	195	GO:BP	GO:0072402	1.3626189413929584e-5	4	0.3269522423472795	3	response to DNA integrity checkpoint signaling	GO:0072429	-	-
+M1	humanbase	0.2	network_modules	195	GO:BP	GO:0072396	1.3626189413929584e-5	5	0.3269522423472795	4	response to cell cycle checkpoint signaling	GO:0072429	-	-
+M1	humanbase	0.2	network_modules	199	KEGG	KEGG:03050	0.0010695267216622132	1	0.13780282029396118	1	Proteasome	-	KEGG:03050	-
+M1	humanbase	0.2	network_modules	199	GO:BP	GO:0032543	0.0021360647998759077	1	0.10048198299343292	1	mitochondrial translation	GO:0032543	-	-
+M1	humanbase	0.2	network_modules	199	GO:BP	GO:0140053	0.005102304606833504	2	0.08964303755201274	2	mitochondrial gene expression	GO:0032543	-	-
+M1	humanbase	0.2	network_modules	199	REAC	REAC:R-HSA-1236978	0.007549750633077669	1	0.11688432544811382	1	Cross-presentation of soluble exogenous antigens (endosomes)	-	-	REAC:R-HSA-1236978
+M1	humanbase	0.2	network_modules	200	GO:BP	GO:1902653	7.675037312383018e-16	1	0.3513735466476884	1	secondary alcohol biosynthetic process	GO:1902653	-	-
+M1	humanbase	0.2	network_modules	200	GO:BP	GO:0006695	7.675037312383018e-16	2	0.3513735466476884	2	cholesterol biosynthetic process	GO:1902653	-	-
+M1	humanbase	0.2	network_modules	200	GO:BP	GO:0016126	1.662899924263699e-15	3	0.3360055391177855	3	sterol biosynthetic process	GO:1902653	-	-
+M1	humanbase	0.2	network_modules	200	REAC	REAC:R-HSA-191273	1.7452713279829036e-14	1	0.41306958584852943	1	Cholesterol biosynthesis	-	-	REAC:R-HSA-191273
+M1	humanbase	0.2	network_modules	200	GO:BP	GO:0008203	5.825775153373636e-13	4	0.23689713256535302	4	cholesterol metabolic process	GO:1902653	-	-
+M1	humanbase	0.2	network_modules	200	GO:BP	GO:1902652	1.2418765864619764e-12	5	0.2261834736718026	5	secondary alcohol metabolic process	GO:1902653	-	-
+M1	humanbase	0.2	network_modules	203	REAC	REAC:R-HSA-201451	3.1019145538839704e-6	1	0.22599631770980075	1	Signaling by BMP	-	-	REAC:R-HSA-201451
+M1	humanbase	0.2	network_modules	203	KEGG	KEGG:04350	3.947295330217641e-5	1	0.14390031253768895	1	TGF-beta signaling pathway	-	KEGG:04350	-
+M1	humanbase	0.2	network_modules	203	GO:BP	GO:0060390	6.232863960338218e-5	1	0.157367501180561	1	regulation of SMAD protein signal transduction	GO:0060390	-	-
+M1	humanbase	0.2	network_modules	203	GO:BP	GO:0060395	2.0534396625568167e-4	2	0.13558124981688008	2	SMAD protein signal transduction	GO:0060390	-	-
+M1	humanbase	0.2	network_modules	203	GO:BP	GO:0003206	3.8651494190130795e-4	3	0.12516157947743672	3	cardiac chamber morphogenesis	GO:0060390	-	-
+M1	humanbase	0.2	network_modules	204	REAC	REAC:R-HSA-6798695	1.5579056664488846e-6	1	0.10121340511873103	1	Neutrophil degranulation	-	-	REAC:R-HSA-6798695
+M1	humanbase	0.2	network_modules	204	GO:BP	GO:0050764	3.502198839777279e-4	1	0.1267372185589977	1	regulation of phagocytosis	GO:0050764	-	-
+M1	humanbase	0.2	network_modules	204	GO:BP	GO:0006959	4.455797399553388e-4	2	0.09392148996756726	2	humoral immune response	GO:0050764	-	-
+M1	humanbase	0.2	network_modules	204	GO:BP	GO:0042742	6.808941761939122e-4	3	0.0897700285664154	3	defense response to bacterium	GO:0050764	-	-
+M1	humanbase	0.2	network_modules	207	GO:BP	GO:0007249	0.001344411952033769	1	0.08343050264328933	1	canonical NF-kappaB signal transduction	GO:0007249	-	-
+M1	humanbase	0.2	network_modules	211	REAC	REAC:R-HSA-5627083	9.833642832243957e-5	1	0.5162321482100574	1	RHO GTPases regulate CFTR trafficking	-	-	REAC:R-HSA-5627083
+M1	humanbase	0.2	network_modules	211	GO:BP	GO:0006622	4.671769968099404e-4	1	0.18526140987785414	1	protein targeting to lysosome	GO:0006622	-	-
+M1	humanbase	0.2	network_modules	211	GO:BP	GO:0006623	0.0016352048640097434	2	0.15091863744597775	2	protein targeting to vacuole	GO:0006622	-	-
+M1	humanbase	0.2	network_modules	211	GO:BP	GO:0045022	0.0019061118938717937	3	0.14713963724018406	3	early endosome to late endosome transport	GO:0006622	-	-
+M1	humanbase	0.2	network_modules	216	REAC	REAC:R-HSA-198765	1.1576432035175585e-4	1	0.4998625429527289	1	Signalling to ERK5	-	-	REAC:R-HSA-198765
+M1	humanbase	0.2	network_modules	218	GO:BP	GO:1990169	1.022038858447273e-26	1	0.8016597238611952	1	stress response to copper ion	GO:1990169	-	-
+M1	humanbase	0.2	network_modules	218	GO:BP	GO:0010273	1.022038858447273e-26	2	0.8016597238611952	2	detoxification of copper ion	GO:1990169	-	-
+M1	humanbase	0.2	network_modules	218	GO:BP	GO:0071294	2.4820943705148065e-25	3	0.7069099221298926	3	cellular response to zinc ion	GO:1990169	-	-
+M1	humanbase	0.2	network_modules	218	GO:BP	GO:0097501	4.715979303978168e-25	4	0.6880342999449427	4	stress response to metal ion	GO:1990169	-	-
+M1	humanbase	0.2	network_modules	218	GO:BP	GO:0071280	4.715979303978168e-25	5	0.6880342999449427	5	cellular response to copper ion	GO:1990169	-	-
+M1	humanbase	0.2	network_modules	218	GO:BP	GO:0061687	1.5005388694475766e-24	6	0.6544106513328862	6	detoxification of inorganic compound	GO:1990169	-	-
+M1	humanbase	0.2	network_modules	218	REAC	REAC:R-HSA-5661231	8.148627344145847e-24	1	0.8526855852368603	1	Metallothioneins bind metals	-	-	REAC:R-HSA-5661231
+M1	humanbase	0.2	network_modules	218	GO:BP	GO:0046688	1.0429569614566978e-23	7	0.599703007035386	7	response to copper ion	GO:1990169	-	-
+M1	humanbase	0.2	network_modules	219	KEGG	KEGG:05202	0.002411015747821077	1	0.10622025871869036	1	Transcriptional misregulation in cancer	-	KEGG:05202	-
+M1	humanbase	0.2	network_modules	220	KEGG	KEGG:00230	0.0015343594431677125	1	0.11747433507388132	1	Purine metabolism	-	KEGG:00230	-
+M1	humanbase	0.2	network_modules	221	GO:BP	GO:0071375	0.004686827030189295	1	0.08747589249261015	1	cellular response to peptide hormone stimulus	GO:0071375	-	-
+M1	humanbase	0.2	network_modules	227	KEGG	KEGG:04662	0.0013859164194320848	1	0.12382485904615775	1	B cell receptor signaling pathway	-	KEGG:04662	-
+M1	humanbase	0.2	network_modules	227	GO:BP	GO:0043408	0.004455089654283258	1	0.0692891015166467	1	regulation of MAPK cascade	GO:0043408	-	-
+M1	humanbase	0.2	network_modules	235	KEGG	KEGG:00071	1.8307267351187893e-11	1	0.3222815322907437	1	Fatty acid degradation	-	KEGG:00071	-
+M1	humanbase	0.2	network_modules	235	GO:BP	GO:0006635	2.942481920913265e-10	1	0.24713984966350666	1	fatty acid beta-oxidation	GO:0006635	-	-
+M1	humanbase	0.2	network_modules	235	GO:BP	GO:0019395	2.3647159483870533e-9	2	0.20853296994415232	2	fatty acid oxidation	GO:0006635	-	-
+M1	humanbase	0.2	network_modules	235	GO:BP	GO:0009062	2.8871483838048283e-9	3	0.20513989785195844	3	fatty acid catabolic process	GO:0006635	-	-
+M1	humanbase	0.2	network_modules	235	GO:BP	GO:0034440	3.286189901281993e-9	4	0.2029664185466279	4	lipid oxidation	GO:0006635	-	-
+M1	humanbase	0.2	network_modules	235	GO:BP	GO:0072329	6.7701476182674925e-9	5	0.1912150791077516	5	monocarboxylic acid catabolic process	GO:0006635	-	-
+M1	humanbase	0.2	network_modules	235	KEGG	KEGG:01212	3.5258474596330104e-8	2	0.23252116275704451	2	Fatty acid metabolism	-	KEGG:00071	-
+M1	humanbase	0.2	network_modules	235	GO:BP	GO:0030258	8.323451973478494e-8	6	0.15511061594768008	6	lipid modification	GO:0006635	-	-
+M1	humanbase	0.2	network_modules	255	GO:BP	GO:0045214	1.3851165186819494e-4	1	0.2094180109807884	1	sarcomere organization	GO:0045214	-	-
+M1	humanbase	0.2	network_modules	255	GO:BP	GO:0030239	7.498683728206359e-4	2	0.15860388501909614	2	myofibril assembly	GO:0045214	-	-
+M1	humanbase	0.2	network_modules	267	GO:BP	GO:2000503	5.537682446162073e-4	1	0.3998144712430426	1	positive regulation of natural killer cell chemotaxis	GO:2000503	-	-
+M1	humanbase	0.2	network_modules	267	GO:BP	GO:2000501	0.0011626256819070248	2	0.33782126035976096	2	regulation of natural killer cell chemotaxis	GO:2000503	-	-
+M1	humanbase	0.2	network_modules	273	REAC	REAC:R-HSA-450294	7.733792550959021e-4	1	0.1530063738164952	1	MAP kinase activation	-	-	REAC:R-HSA-450294
+M1	humanbase	0.2	network_modules	273	REAC	REAC:R-HSA-448424	0.0011112628687625927	2	0.14396809992149057	2	Interleukin-17 signaling	-	-	REAC:R-HSA-450294
+M1	humanbase	0.2	network_modules	273	KEGG	KEGG:04660	0.0025582326555402086	1	0.10993495438079079	1	T cell receptor signaling pathway	-	KEGG:04660	-
+M1	humanbase	0.2	network_modules	273	KEGG	KEGG:04071	0.0026231260347834144	2	0.10945592397258389	2	Sphingolipid signaling pathway	-	KEGG:04660	-
+M1	humanbase	0.2	network_modules	273	REAC	REAC:R-HSA-168142	0.0026778503735226384	3	0.12404393812749948	3	Toll Like Receptor 10 (TLR10) Cascade	-	-	REAC:R-HSA-450294
+M1	humanbase	0.2	network_modules	273	REAC	REAC:R-HSA-168176	0.0026778503735226384	4	0.12404393812749948	4	Toll Like Receptor 5 (TLR5) Cascade	-	-	REAC:R-HSA-450294
+M1	humanbase	0.2	network_modules	273	REAC	REAC:R-HSA-975871	0.0026778503735226384	5	0.12404393812749948	5	MyD88 cascade initiated on plasma membrane	-	-	REAC:R-HSA-450294
+M1	humanbase	0.2	network_modules	275	REAC	REAC:R-HSA-5467340	0.004881527570650452	1	0.2175776176442625	1	AXIN missense mutants destabilize the destruction complex	-	-	REAC:R-HSA-5467340
+M1	humanbase	0.2	network_modules	275	REAC	REAC:R-HSA-5467337	0.004881527570650452	2	0.2175776176442625	2	APC truncation mutants have impaired AXIN binding	-	-	REAC:R-HSA-5467340
+M1	humanbase	0.2	network_modules	275	REAC	REAC:R-HSA-5467348	0.004881527570650452	3	0.2175776176442625	3	Truncations of AMER1 destabilize the destruction complex	-	-	REAC:R-HSA-5467340
+M1	humanbase	0.2	network_modules	275	REAC	REAC:R-HSA-4839735	0.004881527570650452	4	0.2175776176442625	4	Signaling by AXIN mutants	-	-	REAC:R-HSA-5467340
+M1	humanbase	0.2	network_modules	275	REAC	REAC:R-HSA-4839744	0.004881527570650452	5	0.2175776176442625	5	Signaling by APC mutants	-	-	REAC:R-HSA-5467340
+M1	humanbase	0.2	network_modules	275	REAC	REAC:R-HSA-4839748	0.004881527570650452	6	0.2175776176442625	6	Signaling by AMER1 mutants	-	-	REAC:R-HSA-5467340
+M1	humanbase	0.2	network_modules	276	GO:BP	GO:1904971	4.377504613166454e-4	1	0.4362873362648091	1	regulation of viral translation	GO:1904971	-	-
+M1	humanbase	0.2	network_modules	276	GO:BP	GO:1904973	4.377504613166454e-4	2	0.4362873362648091	2	positive regulation of viral translation	GO:1904971	-	-
+M1	humanbase	0.2	network_modules	284	KEGG	KEGG:03410	0.0038913909617740374	1	0.17320371249089678	1	Base excision repair	-	KEGG:03410	-
+M1	humanbase	0.2	network_modules	286	REAC	REAC:R-HSA-72731	0.0015042130379307411	1	0.2882252799722374	1	Recycling of eIF2:GDP	-	-	REAC:R-HSA-72731
+M1	humanbase	0.2	network_modules	288	GO:BP	GO:0015670	5.660137805268847e-17	1	0.6792191465069795	1	carbon dioxide transport	GO:0015670	-	-
+M1	humanbase	0.2	network_modules	288	GO:BP	GO:0015671	5.660137805268847e-17	2	0.6792191465069795	2	oxygen transport	GO:0015670	-	-
+M1	humanbase	0.2	network_modules	288	GO:BP	GO:0015669	6.123239989336321e-16	3	0.5771359860191163	3	gas transport	GO:0015670	-	-
+M1	humanbase	0.2	network_modules	288	GO:BP	GO:0019755	6.123239989336321e-16	4	0.5771359860191163	4	one-carbon compound transport	GO:0015670	-	-
+M1	humanbase	0.2	network_modules	288	GO:BP	GO:0042744	4.439579883671176e-15	5	0.49972161215324656	5	hydrogen peroxide catabolic process	GO:0015670	-	-
+M1	humanbase	0.2	network_modules	290	GO:BP	GO:0002638	9.394741790157856e-4	1	0.36493383771979027	1	negative regulation of immunoglobulin production	GO:0002638	-	-
+M1	humanbase	0.2	network_modules	294	KEGG	KEGG:05171	0.004195282191519767	1	0.09645445761034062	1	Coronavirus disease - COVID-19	-	KEGG:05171	-
+M1	humanbase	0.2	network_modules	302	KEGG	KEGG:00340	0.004690514352712668	1	0.17300901552186726	1	Histidine metabolism	-	KEGG:00340	-
+M1	humanbase	0.2	network_modules	312	REAC	REAC:R-HSA-8949664	0.003924093907567078	1	0.22300195695873815	1	Processing of SMDT1	-	-	REAC:R-HSA-8949664
+M1	humanbase	0.2	network_modules	328	GO:BP	GO:0032930	0.0025740450520222633	1	0.26694714088648164	1	positive regulation of superoxide anion generation	GO:0032930	-	-
+M1	humanbase	0.2	network_modules	328	GO:BP	GO:0032928	0.002969807020271433	2	0.25787147420379075	2	regulation of superoxide anion generation	GO:0032930	-	-
+M1	humanbase	0.2	network_modules	330	GO:BP	GO:0045123	3.3232642041769293e-4	1	0.1739492716443642	1	cellular extravasation	GO:0045123	-	-
+M1	humanbase	0.2	network_modules	335	KEGG	KEGG:05171	1.2851476801610545e-4	1	0.11530628114085115	1	Coronavirus disease - COVID-19	-	KEGG:05171	-
+M1	humanbase	0.2	network_modules	335	GO:BP	GO:2000427	3.057178758161412e-4	1	0.4080841830381798	1	positive regulation of apoptotic cell clearance	GO:2000427	-	-
+M1	humanbase	0.2	network_modules	355	REAC	REAC:R-HSA-162906	0.005674084665023056	1	0.09828778917543358	1	HIV Infection	-	-	REAC:R-HSA-162906
+M1	humanbase	0.2	network_modules	357	KEGG	KEGG:00260	0.0030493209809593002	1	0.18408117981942115	1	Glycine, serine and threonine metabolism	-	KEGG:00260	-
+M1	humanbase	0.2	network_modules	385	REAC	REAC:R-HSA-210991	0.002742912597541342	1	0.23044241792134862	1	Basigin interactions	-	-	REAC:R-HSA-210991
+M1	humanbase	0.2	network_modules	385	KEGG	KEGG:05165	0.0028879117458294207	1	0.09349006879851735	1	Human papillomavirus infection	-	KEGG:05165	-
+M1	humanbase	0.2	network_modules	386	GO:BP	GO:0034375	1.959611714813939e-6	1	0.3747371121111108	1	high-density lipoprotein particle remodeling	GO:0034375	-	-
+M1	humanbase	0.2	network_modules	386	KEGG	KEGG:04979	1.0132963914519152e-5	1	0.24184831051230227	1	Cholesterol metabolism	-	KEGG:04979	-
+M1	humanbase	0.2	network_modules	386	GO:BP	GO:0034369	1.5718434621990616e-5	2	0.2690106531867165	2	plasma lipoprotein particle remodeling	GO:0034375	-	-
+M1	humanbase	0.2	network_modules	386	GO:BP	GO:0034368	1.5718434621990616e-5	3	0.2690106531867165	3	protein-lipid complex remodeling	GO:0034375	-	-
+M1	humanbase	0.2	network_modules	386	GO:BP	GO:0034367	1.907715561427791e-5	4	0.2607044656113692	4	protein-containing complex remodeling	GO:0034375	-	-
+M1	humanbase	0.2	network_modules	386	GO:BP	GO:0071827	4.958833876660599e-5	5	0.22311547311668495	5	plasma lipoprotein particle organization	GO:0034375	-	-
+M1	humanbase	0.2	network_modules	386	GO:BP	GO:0071825	5.665963264719288e-5	6	0.21829413735125766	6	protein-lipid complex organization	GO:0034375	-	-
+M1	humanbase	0.2	network_modules	386	GO:BP	GO:0032374	7.275470349499375e-5	7	0.2095154221871603	7	regulation of cholesterol transport	GO:0034375	-	-
+M1	humanbase	0.2	network_modules	386	GO:BP	GO:0032371	7.275470349499375e-5	8	0.2095154221871603	8	regulation of sterol transport	GO:0034375	-	-
+M1	humanbase	0.2	network_modules	400	GO:BP	GO:0048208	6.1952589819571565e-6	1	0.31243945056984906	1	COPII vesicle coating	GO:0048208	-	-
+M1	humanbase	0.2	network_modules	400	GO:BP	GO:0048207	6.1952589819571565e-6	2	0.31243945056984906	2	vesicle targeting, rough ER to cis-Golgi	GO:0048208	-	-
+M1	humanbase	0.2	network_modules	400	GO:BP	GO:0048199	1.4197955063924186e-5	3	0.2734715412069573	3	vesicle targeting, to, from or within Golgi	GO:0048208	-	-
+M1	humanbase	0.2	network_modules	400	GO:BP	GO:0099022	1.5718434621990616e-5	4	0.2690106531867165	4	vesicle tethering	GO:0048208	-	-
+M1	humanbase	0.2	network_modules	407	REAC	REAC:R-HSA-9818028	1.7219777713814033e-7	1	0.5301032502751852	1	NFE2L2 regulates pentose phosphate pathway genes	-	-	REAC:R-HSA-9818028
+M1	humanbase	0.2	network_modules	407	REAC	REAC:R-HSA-71336	1.3984336288519833e-6	2	0.386925520617172	2	Pentose phosphate pathway	-	-	REAC:R-HSA-9818028
+M1	humanbase	0.2	network_modules	407	GO:BP	GO:0006098	3.390356079614542e-6	1	0.3438291238544239	1	pentose-phosphate shunt	GO:0006098	-	-
+M1	humanbase	0.2	network_modules	407	GO:BP	GO:0006740	5.387431793769174e-6	2	0.31947793278252273	2	NADPH regeneration	GO:0006098	-	-
+M1	humanbase	0.2	network_modules	407	KEGG	KEGG:00030	9.467518577800657e-6	1	0.2686499068505029	1	Pentose phosphate pathway	-	KEGG:00030	-
+M1	humanbase	0.2	network_modules	411	GO:BP	GO:0072350	0.002206506311137612	1	0.27704988141747466	1	tricarboxylic acid metabolic process	GO:0072350	-	-
+M1	humanbase	0.2	network_modules	411	REAC	REAC:R-HSA-71403	0.0038680579624495374	1	0.21259460496347032	1	Citric acid cycle (TCA cycle)	-	-	REAC:R-HSA-71403
+M1	humanbase	0.2	network_modules	412	REAC	REAC:R-HSA-447038	9.578868355192823e-5	1	0.5344000301603649	1	NrCAM interactions	-	-	REAC:R-HSA-447038
+M1	humanbase	0.2	network_modules	412	REAC	REAC:R-HSA-451306	2.0526146475413192e-4	2	0.4470496608919939	2	Ionotropic activity of kainate receptors	-	-	REAC:R-HSA-447038
+M1	humanbase	0.2	network_modules	412	REAC	REAC:R-HSA-451308	2.0526146475413192e-4	3	0.4470496608919939	3	Activation of Ca-permeable Kainate Receptor	-	-	REAC:R-HSA-447038
+M1	humanbase	0.2	network_modules	412	GO:BP	GO:0050731	2.4724797814314295e-4	1	0.15072991000785896	1	positive regulation of peptidyl-tyrosine phosphorylation	GO:0050731	-	-
+M1	humanbase	0.2	network_modules	412	GO:BP	GO:0050730	5.928731612072409e-4	2	0.1302326050955935	2	regulation of peptidyl-tyrosine phosphorylation	GO:0050731	-	-
+M1	humanbase	0.2	network_modules	412	REAC	REAC:R-HSA-442982	6.978889801640503e-4	4	0.3330889092246938	4	Ras activation upon Ca2+ influx through NMDA receptor	-	-	REAC:R-HSA-447038
+M1	humanbase	0.2	network_modules	415	GO:BP	GO:1901750	3.781531026237153e-8	1	0.6122777628390385	1	leukotriene D4 biosynthetic process	GO:1901750	-	-
+M1	humanbase	0.2	network_modules	415	GO:BP	GO:1901748	8.103280770508186e-8	2	0.547604004670564	2	leukotriene D4 metabolic process	GO:1901750	-	-
+M1	humanbase	0.2	network_modules	415	GO:BP	GO:0019370	5.510230923945548e-7	3	0.40805891546389533	3	leukotriene biosynthetic process	GO:1901750	-	-
+M1	humanbase	0.2	network_modules	415	GO:BP	GO:0006691	2.741609994021933e-6	4	0.31596367634387357	4	leukotriene metabolic process	GO:1901750	-	-
+M1	humanbase	0.2	network_modules	420	GO:BP	GO:0006986	1.2296998678605153e-4	1	0.1693103634242321	1	response to unfolded protein	GO:0006986	-	-
+M1	humanbase	0.2	network_modules	422	GO:BP	GO:1904948	1.931281916971113e-7	1	0.4802359149317893	2	midbrain dopaminergic neuron differentiation	GO:1904948	-	-
+M1	humanbase	0.2	network_modules	422	GO:BP	GO:0071542	2.741609994021933e-6	2	0.31596367634387357	3	dopaminergic neuron differentiation	GO:1904948	-	-
+M1	humanbase	0.2	network_modules	422	GO:BP	GO:0099054	3.0353539219528644e-6	3	0.3108160869570241	4	presynapse assembly	GO:1904948	-	-
+M1	humanbase	0.2	network_modules	422	GO:BP	GO:0099172	3.349356051810046e-6	4	0.3059115646022684	5	presynapse organization	GO:1904948	-	-
+M1	humanbase	0.2	network_modules	422	KEGG	KEGG:05217	1.9322455222543575e-5	1	0.21744461391956124	1	Basal cell carcinoma	-	KEGG:05217	-
+M1	humanbase	0.2	network_modules	422	GO:BP	GO:0030901	3.538027439083378e-5	5	0.20808849205844884	6	midbrain development	GO:1904948	-	-
+M1	humanbase	0.2	network_modules	422	GO:BP	GO:0033278	6.552177776353408e-5	6	0.5772610151803533	1	cell proliferation in midbrain	GO:1904948	-	-
+M1	humanbase	0.2	network_modules	422	GO:BP	GO:0021953	7.157560377250094e-5	7	0.1852124443992085	7	central nervous system neuron differentiation	GO:1904948	-	-
+M1	humanbase	0.2	network_modules	422	KEGG	KEGG:04916	8.108804016108609e-5	2	0.17134685673525707	2	Melanogenesis	-	KEGG:05217	-
+M1	humanbase	0.2	network_modules	470	GO:BP	GO:0051923	4.716371621452622e-4	1	0.33316840867318687	1	sulfation	GO:0051923	-	-

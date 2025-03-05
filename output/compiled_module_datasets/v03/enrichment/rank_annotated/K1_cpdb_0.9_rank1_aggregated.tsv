@@ -1,0 +1,480 @@
+network_method	network_db	network_cutoff	experiment_info	module	source	term_id	p_value	row_rank_p	mcc	row_rank_mcc	term_name	top_go	top_kegg	top_reac
+K1	cpdb	0.9	network_modules	2	REAC	REAC:R-HSA-6805567	2.2788231600950095e-54	1	0.3489360673818559	1	Keratinization	-	-	REAC:R-HSA-6805567
+K1	cpdb	0.9	network_modules	2	GO:BP	GO:1990410	7.238457911627569e-5	1	0.24288538905699725	1	adrenomedullin receptor signaling pathway	GO:1990410	-	-
+K1	cpdb	0.9	network_modules	3	GO:BP	GO:0052695	1.8416062025729393e-18	1	0.5771002489555422	2	cellular glucuronidation	GO:0052695	-	-
+K1	cpdb	0.9	network_modules	3	REAC	REAC:R-HSA-156588	3.129293750588103e-17	1	0.528713529380484	1	Glucuronidation	-	-	REAC:R-HSA-156588
+K1	cpdb	0.9	network_modules	3	KEGG	KEGG:00053	1.5782255436281903e-16	1	0.4823901405803703	1	Ascorbate and aldarate metabolism	-	KEGG:00053	-
+K1	cpdb	0.9	network_modules	4	GO:BP	GO:0030509	6.772528665276031e-14	3	0.20460131709931068	5	BMP signaling pathway	GO:0030509	-	-
+K1	cpdb	0.9	network_modules	4	KEGG	KEGG:04350	7.195935197034885e-14	1	0.24868995454919765	1	TGF-beta signaling pathway	-	KEGG:04350	-
+K1	cpdb	0.9	network_modules	5	REAC	REAC:R-HSA-2172127	1.4779634370355235e-13	1	0.41348868801441624	1	DAP12 interactions	-	-	REAC:R-HSA-2172127
+K1	cpdb	0.9	network_modules	5	GO:BP	GO:0034241	8.753204739511672e-4	4	0.37776578586754944	1	positive regulation of macrophage fusion	GO:0034241	-	-
+K1	cpdb	0.9	network_modules	6	REAC	REAC:R-HSA-445095	4.4081950137593804e-7	1	0.27065947772441346	1	Interaction between L1 and Ankyrins	-	-	REAC:R-HSA-445095
+K1	cpdb	0.9	network_modules	6	GO:BP	GO:0099560	4.5985620703460866e-5	2	0.26675693181223653	1	synaptic membrane adhesion	GO:0099560	-	-
+K1	cpdb	0.9	network_modules	8	REAC	REAC:R-HSA-1296072	2.1880909966791774e-23	1	0.4642758345923647	1	Voltage gated Potassium channels	-	-	REAC:R-HSA-1296072
+K1	cpdb	0.9	network_modules	8	GO:BP	GO:0071805	4.040355258541843e-23	1	0.26512456601744683	1	potassium ion transmembrane transport	GO:0071805	-	-
+K1	cpdb	0.9	network_modules	9	KEGG	KEGG:04146	6.230845400587931e-56	1	0.568689755844738	1	Peroxisome	-	KEGG:04146	-
+K1	cpdb	0.9	network_modules	9	REAC	REAC:R-HSA-9603798	8.074580816667693e-32	2	0.595579194061879	1	Class I peroxisomal membrane protein import	-	-	REAC:R-HSA-9603798
+K1	cpdb	0.9	network_modules	9	GO:BP	GO:0043574	1.4956773275622515e-31	2	0.5310750482154506	1	peroxisomal transport	GO:0043574	-	-
+K1	cpdb	0.9	network_modules	10	GO:BP	GO:0070098	5.0914063353380645e-59	1	0.5777099620687236	1	chemokine-mediated signaling pathway	GO:0070098	-	-
+K1	cpdb	0.9	network_modules	10	KEGG	KEGG:04061	1.2052824361424084e-57	1	0.541913733484209	1	Viral protein interaction with cytokine and cytokine receptor	-	KEGG:04061	-
+K1	cpdb	0.9	network_modules	10	REAC	REAC:R-HSA-380108	1.5093821520855497e-56	1	0.6483442860788561	1	Chemokine receptors bind chemokines	-	-	REAC:R-HSA-380108
+K1	cpdb	0.9	network_modules	11	REAC	REAC:R-HSA-425407	0.007931825565845834	1	0.08183881064356567	1	SLC-mediated transmembrane transport	-	-	REAC:R-HSA-425407
+K1	cpdb	0.9	network_modules	12	REAC	REAC:R-HSA-2206281	1.0798369238346838e-13	1	0.5012006998332506	1	Mucopolysaccharidoses	-	-	REAC:R-HSA-2206281
+K1	cpdb	0.9	network_modules	12	KEGG	KEGG:00531	4.854572213590625e-12	2	0.38063626902234626	1	Glycosaminoglycan degradation	-	KEGG:00531	-
+K1	cpdb	0.9	network_modules	14	GO:BP	GO:1990573	7.662070786093351e-15	1	0.2730443818671967	1	potassium ion import across plasma membrane	GO:1990573	-	-
+K1	cpdb	0.9	network_modules	14	REAC	REAC:R-HSA-1296025	2.0876129888962324e-9	2	0.4585159967522031	1	ATP sensitive Potassium channels	-	-	REAC:R-HSA-1296025
+K1	cpdb	0.9	network_modules	15	GO:BP	GO:0099022	6.031687497630595e-21	1	0.48686786882370875	1	vesicle tethering	GO:0099022	-	-
+K1	cpdb	0.9	network_modules	15	REAC	REAC:R-HSA-8876198	2.6377650485117395e-16	1	0.3020300825744606	1	RAB GEFs exchange GTP for GDP on RABs	-	-	REAC:R-HSA-8876198
+K1	cpdb	0.9	network_modules	16	REAC	REAC:R-HSA-375281	6.559400709127485e-16	1	0.654383579109387	1	Hormone ligand-binding receptors	-	-	REAC:R-HSA-375281
+K1	cpdb	0.9	network_modules	16	KEGG	KEGG:04024	1.0259688038406696e-7	1	0.14924050034513078	1	cAMP signaling pathway	-	KEGG:04024	-
+K1	cpdb	0.9	network_modules	17	GO:BP	GO:0035249	1.205287496398783e-38	5	0.37074231777309336	2	synaptic transmission, glutamatergic	GO:0035249	-	-
+K1	cpdb	0.9	network_modules	17	REAC	REAC:R-HSA-6794361	7.56500599145197e-36	3	0.42043556289516615	1	Neurexins and neuroligins	-	-	REAC:R-HSA-6794361
+K1	cpdb	0.9	network_modules	17	KEGG	KEGG:04724	6.613821787130094e-26	1	0.2895373852871401	1	Glutamatergic synapse	-	KEGG:04724	-
+K1	cpdb	0.9	network_modules	18	KEGG	KEGG:04512	1.7689128278617095e-5	1	0.11742357327420702	1	ECM-receptor interaction	-	KEGG:04512	-
+K1	cpdb	0.9	network_modules	18	REAC	REAC:R-HSA-1474290	3.232760440491701e-4	1	0.09435458424891197	1	Collagen formation	-	-	REAC:R-HSA-1474290
+K1	cpdb	0.9	network_modules	19	REAC	REAC:R-HSA-373076	7.634254702137166e-4	1	0.09654643001690913	1	Class A/1 (Rhodopsin-like receptors)	-	-	REAC:R-HSA-373076
+K1	cpdb	0.9	network_modules	20	REAC	REAC:R-HSA-166658	3.1176803763002627e-28	1	0.3415706880236817	1	Complement cascade	-	-	REAC:R-HSA-166658
+K1	cpdb	0.9	network_modules	20	KEGG	KEGG:04610	7.399400292581658e-21	1	0.318811709850427	1	Complement and coagulation cascades	-	KEGG:04610	-
+K1	cpdb	0.9	network_modules	20	GO:BP	GO:0006956	2.798355675346804e-17	1	0.29743708706194133	1	complement activation	GO:0006956	-	-
+K1	cpdb	0.9	network_modules	22	GO:BP	GO:0033141	1.9573579255643463e-25	1	0.6198090713462818	1	positive regulation of peptidyl-serine phosphorylation of STAT protein	GO:0033141	-	-
+K1	cpdb	0.9	network_modules	22	REAC	REAC:R-HSA-912694	5.829660801655875e-24	1	0.5886717834228453	1	Regulation of IFNA/IFNB signaling	-	-	REAC:R-HSA-912694
+K1	cpdb	0.9	network_modules	22	KEGG	KEGG:04620	3.98944966058398e-20	1	0.3203280609070393	2	Toll-like receptor signaling pathway	-	KEGG:04620	-
+K1	cpdb	0.9	network_modules	23	REAC	REAC:R-HSA-3238698	4.213915399800299e-9	1	0.39183667534941563	1	WNT ligand biogenesis and trafficking	-	-	REAC:R-HSA-3238698
+K1	cpdb	0.9	network_modules	23	KEGG	KEGG:05217	1.482989887278382e-7	1	0.25109821677066685	1	Basal cell carcinoma	-	KEGG:05217	-
+K1	cpdb	0.9	network_modules	25	GO:BP	GO:0006836	8.517049991756157e-49	1	0.36856314482163205	1	neurotransmitter transport	GO:0006836	-	-
+K1	cpdb	0.9	network_modules	25	KEGG	KEGG:04721	8.722012179455975e-36	1	0.4311659066020352	1	Synaptic vesicle cycle	-	KEGG:04721	-
+K1	cpdb	0.9	network_modules	25	REAC	REAC:R-HSA-168799	2.675472145933217e-23	2	0.5123302301366218	1	Neurotoxicity of clostridium toxins	-	-	REAC:R-HSA-168799
+K1	cpdb	0.9	network_modules	26	REAC	REAC:R-HSA-629597	7.648594637065009e-18	1	0.8163843142845397	1	Highly calcium permeable nicotinic acetylcholine receptors	-	-	REAC:R-HSA-629597
+K1	cpdb	0.9	network_modules	26	GO:BP	GO:0007271	3.3296849127533766e-15	1	0.5104853458755896	1	synaptic transmission, cholinergic	GO:0007271	-	-
+K1	cpdb	0.9	network_modules	27	GO:BP	GO:0060261	1.1146967153458886e-57	1	0.6251331953091045	1	positive regulation of transcription initiation by RNA polymerase II	GO:0060261	-	-
+K1	cpdb	0.9	network_modules	27	REAC	REAC:R-HSA-381340	3.892401317300121e-57	1	0.5594494138404685	1	Transcriptional regulation of white adipocyte differentiation	-	-	REAC:R-HSA-381340
+K1	cpdb	0.9	network_modules	28	REAC	REAC:R-HSA-192823	3.274622809535626e-164	1	0.8667130166411516	1	Viral mRNA Translation	-	-	REAC:R-HSA-192823
+K1	cpdb	0.9	network_modules	29	REAC	REAC:R-HSA-500792	4.749605445525574e-15	1	0.15810947961282662	2	GPCR ligand binding	-	-	REAC:R-HSA-500792
+K1	cpdb	0.9	network_modules	29	KEGG	KEGG:04080	2.2955306434625036e-14	1	0.1699092372609836	1	Neuroactive ligand-receptor interaction	-	KEGG:04080	-
+K1	cpdb	0.9	network_modules	29	GO:BP	GO:0007188	2.375733047979734e-7	2	0.11518486360027279	1	adenylate cyclase-modulating G protein-coupled receptor signaling pathway	GO:0007188	-	-
+K1	cpdb	0.9	network_modules	30	KEGG	KEGG:04514	3.7278657195022515e-20	1	0.263251394458558	1	Cell adhesion molecules	-	KEGG:04514	-
+K1	cpdb	0.9	network_modules	30	REAC	REAC:R-HSA-420029	3.091928447946575e-17	1	0.33724106409104093	1	Tight junction interactions	-	-	REAC:R-HSA-420029
+K1	cpdb	0.9	network_modules	30	GO:BP	GO:0016338	9.683313809237297e-17	3	0.3381243195305424	1	calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules	GO:0016338	-	-
+K1	cpdb	0.9	network_modules	31	REAC	REAC:R-HSA-8854691	5.2703909738640386e-11	1	0.4077053876221653	1	Interleukin-20 family signaling	-	-	REAC:R-HSA-8854691
+K1	cpdb	0.9	network_modules	31	GO:BP	GO:0071358	9.050822606975001e-10	1	0.516174193139329	1	cellular response to type III interferon	GO:0071358	-	-
+K1	cpdb	0.9	network_modules	31	KEGG	KEGG:04630	2.1674476847101658e-9	1	0.19067127362623187	1	JAK-STAT signaling pathway	-	KEGG:04630	-
+K1	cpdb	0.9	network_modules	32	GO:BP	GO:0001867	4.918445968846073e-18	1	0.4636863574338335	1	complement activation, lectin pathway	GO:0001867	-	-
+K1	cpdb	0.9	network_modules	32	REAC	REAC:R-HSA-166662	2.2555457422326642e-13	1	0.4441852952714706	1	Lectin pathway of complement activation	-	-	REAC:R-HSA-166662
+K1	cpdb	0.9	network_modules	32	KEGG	KEGG:05218	5.13801099560379e-10	1	0.19287338227117348	1	Melanoma	-	KEGG:05218	-
+K1	cpdb	0.9	network_modules	33	GO:BP	GO:0035720	1.4567694740374632e-23	1	0.6393053281878651	1	intraciliary anterograde transport	GO:0035720	-	-
+K1	cpdb	0.9	network_modules	33	REAC	REAC:R-HSA-5620924	1.176940335407733e-20	1	0.4092916459220422	1	Intraflagellar transport	-	-	REAC:R-HSA-5620924
+K1	cpdb	0.9	network_modules	34	KEGG	KEGG:03460	7.49355480671929e-40	1	0.5761214272092963	1	Fanconi anemia pathway	-	KEGG:03460	-
+K1	cpdb	0.9	network_modules	34	REAC	REAC:R-HSA-6783310	4.381047706921786e-28	1	0.43677597877456176	1	Fanconi Anemia Pathway	-	-	REAC:R-HSA-6783310
+K1	cpdb	0.9	network_modules	34	GO:BP	GO:0036297	3.293387623740031e-27	1	0.40804939596794415	1	interstrand cross-link repair	GO:0036297	-	-
+K1	cpdb	0.9	network_modules	35	REAC	REAC:R-HSA-211897	2.007880406361731e-36	1	0.48953873197008824	2	Cytochrome P450 - arranged by substrate type	-	-	REAC:R-HSA-211897
+K1	cpdb	0.9	network_modules	35	GO:BP	GO:0006805	1.1613016576233674e-28	1	0.3305953816984892	2	xenobiotic metabolic process	GO:0006805	-	-
+K1	cpdb	0.9	network_modules	35	KEGG	KEGG:05204	7.650412475459226e-21	1	0.3533380834449779	1	Chemical carcinogenesis - DNA adducts	-	KEGG:05204	-
+K1	cpdb	0.9	network_modules	36	REAC	REAC:R-HSA-1592389	1.7728337845841875e-34	2	0.5217152013026768	1	Activation of Matrix Metalloproteinases	-	-	REAC:R-HSA-1592389
+K1	cpdb	0.9	network_modules	36	GO:BP	GO:0030574	2.1405288199682185e-32	1	0.4567190154381217	1	collagen catabolic process	GO:0030574	-	-
+K1	cpdb	0.9	network_modules	37	GO:BP	GO:0009101	1.5165276436251082e-14	3	0.15950922959655994	1	glycoprotein biosynthetic process	GO:0009101	-	-
+K1	cpdb	0.9	network_modules	37	REAC	REAC:R-HSA-1630316	4.5927148134477994e-8	1	0.14201247956686297	1	Glycosaminoglycan metabolism	-	-	REAC:R-HSA-1630316
+K1	cpdb	0.9	network_modules	38	GO:BP	GO:0007214	2.5375356222069957e-23	1	0.6064628242089116	1	gamma-aminobutyric acid signaling pathway	GO:0007214	-	-
+K1	cpdb	0.9	network_modules	38	KEGG	KEGG:05033	2.675722893863236e-19	1	0.4489663046467775	1	Nicotine addiction	-	KEGG:05033	-
+K1	cpdb	0.9	network_modules	39	KEGG	KEGG:03022	2.3550064764638574e-46	1	0.5997404782417376	1	Basal transcription factors	-	KEGG:03022	-
+K1	cpdb	0.9	network_modules	39	GO:BP	GO:0051123	4.3274839398045886e-30	1	0.3177457993871461	1	RNA polymerase II preinitiation complex assembly	GO:0051123	-	-
+K1	cpdb	0.9	network_modules	39	REAC	REAC:R-HSA-167162	6.434216729855909e-30	1	0.38449748199506356	1	RNA Polymerase II HIV Promoter Escape	-	-	REAC:R-HSA-167162
+K1	cpdb	0.9	network_modules	40	REAC	REAC:R-HSA-5632681	5.923489090735331e-12	1	0.5326059480826111	1	Ligand-receptor interactions	-	-	REAC:R-HSA-5632681
+K1	cpdb	0.9	network_modules	40	KEGG	KEGG:04340	1.574108402263006e-7	1	0.2093142120802315	1	Hedgehog signaling pathway	-	KEGG:04340	-
+K1	cpdb	0.9	network_modules	41	REAC	REAC:R-HSA-5620922	9.475175894365597e-31	1	0.6935375422860712	1	BBSome-mediated cargo-targeting to cilium	-	-	REAC:R-HSA-5620922
+K1	cpdb	0.9	network_modules	41	GO:BP	GO:0032402	1.5952680140167712e-12	3	0.3916618700405884	1	melanosome transport	GO:0032402	-	-
+K1	cpdb	0.9	network_modules	43	REAC	REAC:R-HSA-8948216	3.0233046718379514e-42	3	0.5160881541950413	1	Collagen chain trimerization	-	-	REAC:R-HSA-8948216
+K1	cpdb	0.9	network_modules	43	GO:BP	GO:0030198	1.6578294280628304e-33	1	0.24146989471561484	1	extracellular matrix organization	GO:0030198	-	-
+K1	cpdb	0.9	network_modules	44	KEGG	KEGG:04512	7.13128627157664e-22	1	0.27295605946589446	1	ECM-receptor interaction	-	KEGG:04512	-
+K1	cpdb	0.9	network_modules	44	REAC	REAC:R-HSA-3000178	1.5981428085336488e-13	2	0.1796826387960386	2	ECM proteoglycans	-	-	REAC:R-HSA-3000178
+K1	cpdb	0.9	network_modules	44	GO:BP	GO:0009611	2.0337045275589487e-7	1	0.07933995272044775	1	response to wounding	GO:0009611	-	-
+K1	cpdb	0.9	network_modules	45	GO:BP	GO:0048013	1.1599599475503074e-33	1	0.5180072432889419	1	ephrin receptor signaling pathway	GO:0048013	-	-
+K1	cpdb	0.9	network_modules	45	REAC	REAC:R-HSA-3928665	6.816056348631075e-31	1	0.4903376703352751	1	EPH-ephrin mediated repulsion of cells	-	-	REAC:R-HSA-3928665
+K1	cpdb	0.9	network_modules	45	KEGG	KEGG:04360	4.750284709513841e-23	1	0.2756052331893451	1	Axon guidance	-	KEGG:04360	-
+K1	cpdb	0.9	network_modules	46	GO:BP	GO:0060070	1.0860859506122523e-25	1	0.23137744571920985	2	canonical Wnt signaling pathway	GO:0060070	-	-
+K1	cpdb	0.9	network_modules	46	REAC	REAC:R-HSA-3238698	1.302765595851733e-22	1	0.46962698202583547	1	WNT ligand biogenesis and trafficking	-	-	REAC:R-HSA-3238698
+K1	cpdb	0.9	network_modules	46	KEGG	KEGG:05217	6.987790787200347e-22	2	0.35487796920634873	1	Basal cell carcinoma	-	KEGG:05217	-
+K1	cpdb	0.9	network_modules	47	KEGG	KEGG:03020	1.3278537685794202e-70	1	0.8762546626001074	1	RNA polymerase	-	KEGG:03020	-
+K1	cpdb	0.9	network_modules	47	REAC	REAC:R-HSA-73780	4.938430740772813e-40	1	0.6327758622826223	1	RNA Polymerase III Chain Elongation	-	-	REAC:R-HSA-73780
+K1	cpdb	0.9	network_modules	48	KEGG	KEGG:04610	9.459347040031183e-49	1	0.4680470071933493	1	Complement and coagulation cascades	-	KEGG:04610	-
+K1	cpdb	0.9	network_modules	48	GO:BP	GO:0050817	1.6229986293057903e-40	1	0.29338624014443054	1	coagulation	GO:0050817	-	-
+K1	cpdb	0.9	network_modules	48	REAC	REAC:R-HSA-140877	7.766481517049526e-39	1	0.4783077947710645	1	Formation of Fibrin Clot (Clotting Cascade)	-	-	REAC:R-HSA-140877
+K1	cpdb	0.9	network_modules	49	REAC	REAC:R-HSA-1566948	1.3544698324402644e-27	1	0.3634153643539309	1	Elastic fibre formation	-	-	REAC:R-HSA-1566948
+K1	cpdb	0.9	network_modules	49	GO:BP	GO:0043567	2.9614484797610246e-12	1	0.23334523164154983	1	regulation of insulin-like growth factor receptor signaling pathway	GO:0043567	-	-
+K1	cpdb	0.9	network_modules	50	REAC	REAC:R-HSA-1482922	0.0015814105663479279	2	0.1536291223465397	1	Acyl chain remodelling of PI	-	-	REAC:R-HSA-1482922
+K1	cpdb	0.9	network_modules	54	KEGG	KEGG:04640	0.0054094340648802135	1	0.08417430148831818	1	Hematopoietic cell lineage	-	KEGG:04640	-
+K1	cpdb	0.9	network_modules	55	REAC	REAC:R-HSA-77387	3.0983865656882264e-42	1	0.5002192777851756	1	Insulin receptor recycling	-	-	REAC:R-HSA-77387
+K1	cpdb	0.9	network_modules	55	KEGG	KEGG:04966	1.3968274420543364e-35	1	0.4908800813459383	1	Collecting duct acid secretion	-	KEGG:04966	-
+K1	cpdb	0.9	network_modules	55	GO:BP	GO:0007035	1.3877340159274157e-28	1	0.33192378818357066	1	vacuolar acidification	GO:0007035	-	-
+K1	cpdb	0.9	network_modules	56	KEGG	KEGG:04640	2.640770147971674e-15	1	0.21759564075855511	1	Hematopoietic cell lineage	-	KEGG:04640	-
+K1	cpdb	0.9	network_modules	56	GO:BP	GO:0010543	5.000137481909559e-7	10	0.1294402916965507	1	regulation of platelet activation	GO:0010543	-	-
+K1	cpdb	0.9	network_modules	56	REAC	REAC:R-HSA-9673221	1.8718786471907175e-6	2	0.23472863118189669	1	Defective F9 activation	-	-	REAC:R-HSA-9673221
+K1	cpdb	0.9	network_modules	57	GO:BP	GO:0045109	3.2315564169878505e-97	1	0.7135563958820128	1	intermediate filament organization	GO:0045109	-	-
+K1	cpdb	0.9	network_modules	57	REAC	REAC:R-HSA-6809371	1.4646541849828235e-79	1	0.5571706972348851	1	Formation of the cornified envelope	-	-	REAC:R-HSA-6809371
+K1	cpdb	0.9	network_modules	58	GO:BP	GO:0007188	1.5825942326032552e-11	2	0.12242629453099947	1	adenylate cyclase-modulating G protein-coupled receptor signaling pathway	GO:0007188	-	-
+K1	cpdb	0.9	network_modules	58	KEGG	KEGG:04923	4.115984873536872e-7	5	0.1443884551515468	1	Regulation of lipolysis in adipocytes	-	KEGG:04923	-
+K1	cpdb	0.9	network_modules	58	REAC	REAC:R-HSA-418594	2.052823136919336e-6	2	0.08948049574810699	1	G alpha (i) signalling events	-	-	REAC:R-HSA-418594
+K1	cpdb	0.9	network_modules	59	GO:BP	GO:0030198	1.6890772441954208e-6	1	0.11098340100349795	1	extracellular matrix organization	GO:0030198	-	-
+K1	cpdb	0.9	network_modules	60	REAC	REAC:R-HSA-936837	3.635446868375105e-4	1	0.10715681442878824	1	Ion transport by P-type ATPases	-	-	REAC:R-HSA-936837
+K1	cpdb	0.9	network_modules	61	KEGG	KEGG:00515	3.0907253543260385e-7	1	0.2062715299568141	1	Mannose type O-glycan biosynthesis	-	KEGG:00515	-
+K1	cpdb	0.9	network_modules	61	GO:BP	GO:0010889	2.9218717936620876e-5	1	0.17867627965303068	1	regulation of sequestering of triglyceride	GO:0010889	-	-
+K1	cpdb	0.9	network_modules	61	REAC	REAC:R-HSA-163560	5.7232591812247866e-5	1	0.16483045660423554	1	Triglyceride catabolism	-	-	REAC:R-HSA-163560
+K1	cpdb	0.9	network_modules	62	GO:BP	GO:0006505	1.712548877300524e-19	1	0.3252645162440438	1	GPI anchor metabolic process	GO:0006505	-	-
+K1	cpdb	0.9	network_modules	62	KEGG	KEGG:00563	5.214336532480994e-18	1	0.3754755158748306	1	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	-	KEGG:00563	-
+K1	cpdb	0.9	network_modules	62	REAC	REAC:R-HSA-162710	4.976326437219208e-15	1	0.36543401116068386	1	Synthesis of glycosylphosphatidylinositol (GPI)	-	-	REAC:R-HSA-162710
+K1	cpdb	0.9	network_modules	63	GO:BP	GO:0007186	2.4353410261478914e-71	1	0.25948835864050535	1	G protein-coupled receptor signaling pathway	GO:0007186	-	-
+K1	cpdb	0.9	network_modules	63	REAC	REAC:R-HSA-392518	3.6324413237422494e-40	3	0.4626614047366434	1	Signal amplification	-	-	REAC:R-HSA-392518
+K1	cpdb	0.9	network_modules	63	KEGG	KEGG:04713	6.121152366344127e-34	1	0.3320303479431141	1	Circadian entrainment	-	KEGG:04713	-
+K1	cpdb	0.9	network_modules	64	KEGG	KEGG:04979	9.08819242486018e-28	1	0.41345749880157706	1	Cholesterol metabolism	-	KEGG:04979	-
+K1	cpdb	0.9	network_modules	64	GO:BP	GO:0034368	9.678115377789473e-25	2	0.38788284667042233	3	protein-lipid complex remodeling	GO:0034368	-	-
+K1	cpdb	0.9	network_modules	64	REAC	REAC:R-HSA-8963901	5.111766556440325e-20	3	0.47360171198557527	1	Chylomicron remodeling	-	-	REAC:R-HSA-8963901
+K1	cpdb	0.9	network_modules	65	REAC	REAC:R-HSA-5368286	3.3090237907525554e-150	1	0.8522179472532033	1	Mitochondrial translation initiation	-	-	REAC:R-HSA-5368286
+K1	cpdb	0.9	network_modules	66	REAC	REAC:R-HSA-9758881	6.30429161665783e-5	1	0.2527401907718344	1	Uptake of dietary cobalamins into enterocytes	-	-	REAC:R-HSA-9758881
+K1	cpdb	0.9	network_modules	66	GO:BP	GO:0030198	1.288874593195037e-4	1	0.09152833593528865	1	extracellular matrix organization	GO:0030198	-	-
+K1	cpdb	0.9	network_modules	67	KEGG	KEGG:03050	5.284412273613265e-85	1	0.7812377581369324	1	Proteasome	-	KEGG:03050	-
+K1	cpdb	0.9	network_modules	67	REAC	REAC:R-HSA-1236978	2.1061652423350696e-84	1	0.7302598284444084	1	Cross-presentation of soluble exogenous antigens (endosomes)	-	-	REAC:R-HSA-1236978
+K1	cpdb	0.9	network_modules	68	REAC	REAC:R-HSA-177243	1.022112473134198e-71	1	0.7435331334853484	1	Interactions of Rev with host cellular proteins	-	-	REAC:R-HSA-177243
+K1	cpdb	0.9	network_modules	68	KEGG	KEGG:03013	7.1582015041175825e-71	1	0.5461880407807643	1	Nucleocytoplasmic transport	-	KEGG:03013	-
+K1	cpdb	0.9	network_modules	68	GO:BP	GO:0006913	3.7890199202862003e-56	1	0.3083811187102265	1	nucleocytoplasmic transport	GO:0006913	-	-
+K1	cpdb	0.9	network_modules	69	KEGG	KEGG:04130	1.5155612496603067e-49	1	0.6670808339532117	1	SNARE interactions in vesicular transport	-	KEGG:04130	-
+K1	cpdb	0.9	network_modules	69	GO:BP	GO:0090174	4.989440155873921e-29	1	0.28125155749455005	1	organelle membrane fusion	GO:0090174	-	-
+K1	cpdb	0.9	network_modules	69	REAC	REAC:R-HSA-6811438	6.99697479226126e-16	2	0.2627465538600367	1	Intra-Golgi traffic	-	-	REAC:R-HSA-6811438
+K1	cpdb	0.9	network_modules	70	GO:BP	GO:0061640	1.8366658758588818e-12	1	0.22081664472980062	1	cytoskeleton-dependent cytokinesis	GO:0061640	-	-
+K1	cpdb	0.9	network_modules	76	GO:BP	GO:0007030	7.800958986250542e-4	1	0.10940383912824413	1	Golgi organization	GO:0007030	-	-
+K1	cpdb	0.9	network_modules	77	REAC	REAC:R-HSA-5576894	2.9361983396729434e-8	1	0.6545336828640977	1	Phase 1 - inactivation of fast Na+ channels	-	-	REAC:R-HSA-5576894
+K1	cpdb	0.9	network_modules	77	GO:BP	GO:0071805	6.784681159861183e-4	1	0.12732233853228214	1	potassium ion transmembrane transport	GO:0071805	-	-
+K1	cpdb	0.9	network_modules	78	GO:BP	GO:0007269	1.1253431170043212e-4	1	0.17182250888097667	1	neurotransmitter secretion	GO:0007269	-	-
+K1	cpdb	0.9	network_modules	79	KEGG	KEGG:03018	9.231573065106813e-24	1	0.375671729382569	1	RNA degradation	-	KEGG:03018	-
+K1	cpdb	0.9	network_modules	79	REAC	REAC:R-HSA-429958	2.8252758943746785e-20	1	0.5296002091129098	1	mRNA decay by 3' to 5' exoribonuclease	-	-	REAC:R-HSA-429958
+K1	cpdb	0.9	network_modules	79	GO:BP	GO:0034475	3.20941918701976e-17	2	0.5273137251081395	1	U4 snRNA 3'-end processing	GO:0034475	-	-
+K1	cpdb	0.9	network_modules	80	GO:BP	GO:0046903	5.250043948256291e-7	1	0.070906618038897265	1	secretion	GO:0046903	-	-
+K1	cpdb	0.9	network_modules	80	REAC	REAC:R-HSA-112308	9.213549913186503e-5	1	0.1551778837915528	1	Presynaptic depolarization and calcium channel opening	-	-	REAC:R-HSA-112308
+K1	cpdb	0.9	network_modules	82	KEGG	KEGG:04137	2.858258601245818e-15	1	0.22751920372757434	1	Mitophagy - animal	-	KEGG:04137	-
+K1	cpdb	0.9	network_modules	82	GO:BP	GO:0070585	2.762990642845582e-10	2	0.13159539154562472	1	protein localization to mitochondrion	GO:0070585	-	-
+K1	cpdb	0.9	network_modules	82	REAC	REAC:R-HSA-9609507	1.5816467675860816e-7	1	0.1211145784304998	1	Protein localization	-	-	REAC:R-HSA-9609507
+K1	cpdb	0.9	network_modules	83	GO:BP	GO:0006839	3.4819533048112384e-28	1	0.23129816974627354	3	mitochondrial transport	GO:0006839	-	-
+K1	cpdb	0.9	network_modules	83	REAC	REAC:R-HSA-1268020	3.9581977168460373e-22	1	0.27979905735145333	1	Mitochondrial protein import	-	-	REAC:R-HSA-1268020
+K1	cpdb	0.9	network_modules	85	REAC	REAC:R-HSA-1296072	1.035303534568683e-5	1	0.26365075296840695	1	Voltage gated Potassium channels	-	-	REAC:R-HSA-1296072
+K1	cpdb	0.9	network_modules	85	KEGG	KEGG:04725	1.1392516874381066e-4	1	0.16187752100509806	1	Cholinergic synapse	-	KEGG:04725	-
+K1	cpdb	0.9	network_modules	86	REAC	REAC:R-HSA-162791	5.77920936303426e-11	1	0.6759529813830144	1	Attachment of GPI anchor to uPAR	-	-	REAC:R-HSA-162791
+K1	cpdb	0.9	network_modules	86	GO:BP	GO:0016255	6.467432952782501e-11	1	0.6665429731791289	1	attachment of GPI anchor to protein	GO:0016255	-	-
+K1	cpdb	0.9	network_modules	87	KEGG	KEGG:00280	1.0250490422947727e-10	1	0.1937858079140367	1	Valine, leucine and isoleucine degradation	-	KEGG:00280	-
+K1	cpdb	0.9	network_modules	87	GO:BP	GO:0045333	1.7421462515354578e-10	2	0.11405705724787046	1	cellular respiration	GO:0045333	-	-
+K1	cpdb	0.9	network_modules	87	REAC	REAC:R-HSA-9861718	5.09930720565729e-8	2	0.19482970752028056	1	Regulation of pyruvate metabolism	-	-	REAC:R-HSA-9861718
+K1	cpdb	0.9	network_modules	88	REAC	REAC:R-HSA-5620912	2.465423088302161e-60	1	0.4971426611340123	1	Anchoring of the basal body to the plasma membrane	-	-	REAC:R-HSA-5620912
+K1	cpdb	0.9	network_modules	88	GO:BP	GO:0031023	3.069278982026404e-41	2	0.28238239547271327	3	microtubule organizing center organization	GO:0031023	-	-
+K1	cpdb	0.9	network_modules	90	GO:BP	GO:0000301	5.701567190628268e-22	1	0.8818625549265124	1	retrograde transport, vesicle recycling within Golgi	GO:0000301	-	-
+K1	cpdb	0.9	network_modules	90	REAC	REAC:R-HSA-6811438	2.4946185554688233e-15	1	0.3981850339490555	1	Intra-Golgi traffic	-	-	REAC:R-HSA-6811438
+K1	cpdb	0.9	network_modules	91	REAC	REAC:R-HSA-5617833	5.0539382649944396e-21	1	0.1988798882772255	1	Cilium Assembly	-	-	REAC:R-HSA-5617833
+K1	cpdb	0.9	network_modules	91	GO:BP	GO:0051650	2.6611163866308875e-15	3	0.13986974821013293	4	establishment of vesicle localization	GO:0051650	-	-
+K1	cpdb	0.9	network_modules	92	GO:BP	GO:0007229	2.700904813040724e-30	1	0.2602985302802198	1	integrin-mediated signaling pathway	GO:0007229	-	-
+K1	cpdb	0.9	network_modules	92	REAC	REAC:R-HSA-216083	5.4080724320502574e-27	1	0.27933668686637475	1	Integrin cell surface interactions	-	-	REAC:R-HSA-216083
+K1	cpdb	0.9	network_modules	92	KEGG	KEGG:04512	2.805941851906446e-20	1	0.23771082006828329	1	ECM-receptor interaction	-	KEGG:04512	-
+K1	cpdb	0.9	network_modules	93	REAC	REAC:R-HSA-9664535	4.018575024028494e-7	2	0.28488861621637973	1	LTC4-CYSLTR mediated IL4 production	-	-	REAC:R-HSA-9664535
+K1	cpdb	0.9	network_modules	94	GO:BP	GO:0003091	7.866307449204823e-4	2	0.11997375991105351	1	renal water homeostasis	GO:0003091	-	-
+K1	cpdb	0.9	network_modules	94	REAC	REAC:R-HSA-1660661	9.403525232284065e-4	1	0.11860466800445132	1	Sphingolipid de novo biosynthesis	-	-	REAC:R-HSA-1660661
+K1	cpdb	0.9	network_modules	96	REAC	REAC:R-HSA-5669034	3.281143441542786e-5	1	0.24842035239602875	1	TNFs bind their physiological receptors	-	-	REAC:R-HSA-5669034
+K1	cpdb	0.9	network_modules	97	KEGG	KEGG:00190	6.895764161284697e-69	1	0.5089894356903987	1	Oxidative phosphorylation	-	KEGG:00190	-
+K1	cpdb	0.9	network_modules	97	GO:BP	GO:0019646	5.580627934371098e-68	5	0.5155174181230033	1	aerobic electron transport chain	GO:0019646	-	-
+K1	cpdb	0.9	network_modules	97	REAC	REAC:R-HSA-611105	2.6527535127955357e-67	1	0.5149941890605308	1	Respiratory electron transport	-	-	REAC:R-HSA-611105
+K1	cpdb	0.9	network_modules	98	GO:BP	GO:0009060	2.9098217220159856e-39	1	0.3120741073562388	3	aerobic respiration	GO:0009060	-	-
+K1	cpdb	0.9	network_modules	98	REAC	REAC:R-HSA-611105	3.0932024740299164e-31	2	0.34524386273192886	1	Respiratory electron transport	-	-	REAC:R-HSA-611105
+K1	cpdb	0.9	network_modules	98	KEGG	KEGG:00190	1.8529199436886738e-26	1	0.3003342689635171	1	Oxidative phosphorylation	-	KEGG:00190	-
+K1	cpdb	0.9	network_modules	100	REAC	REAC:R-HSA-211976	3.046315796762828e-5	1	0.1782999243324662	1	Endogenous sterols	-	-	REAC:R-HSA-211976
+K1	cpdb	0.9	network_modules	102	REAC	REAC:R-HSA-5638303	0.0015042130379307411	1	0.2882252799722374	1	Inhibition of Signaling by Overexpressed EGFR	-	-	REAC:R-HSA-5638303
+K1	cpdb	0.9	network_modules	106	REAC	REAC:R-HSA-9823730	4.789434177596428e-4	1	0.36493083716272035	1	Formation of definitive endoderm	-	-	REAC:R-HSA-9823730
+K1	cpdb	0.9	network_modules	107	REAC	REAC:R-HSA-72702	1.2998932997284577e-29	4	0.35389125650401626	1	Ribosomal scanning and start codon recognition	-	-	REAC:R-HSA-72702
+K1	cpdb	0.9	network_modules	107	GO:BP	GO:0001732	1.4188880191861454e-25	5	0.43736397181370934	1	formation of cytoplasmic translation initiation complex	GO:0001732	-	-
+K1	cpdb	0.9	network_modules	108	REAC	REAC:R-HSA-6811440	5.8478152838249386e-8	2	0.16345552498222446	1	Retrograde transport at the Trans-Golgi-Network	-	-	REAC:R-HSA-6811440
+K1	cpdb	0.9	network_modules	108	GO:BP	GO:0001881	7.039218783310475e-7	4	0.1504335038324374	1	receptor recycling	GO:0001881	-	-
+K1	cpdb	0.9	network_modules	109	KEGG	KEGG:04060	2.501409444488488e-17	1	0.18179222867072126	1	Cytokine-cytokine receptor interaction	-	KEGG:04060	-
+K1	cpdb	0.9	network_modules	109	GO:BP	GO:0019221	3.089482469646666e-9	1	0.10129202841745585	11	cytokine-mediated signaling pathway	GO:0019221	-	-
+K1	cpdb	0.9	network_modules	109	REAC	REAC:R-HSA-5669034	7.517831942727748e-8	1	0.19166280377060763	1	TNFs bind their physiological receptors	-	-	REAC:R-HSA-5669034
+K1	cpdb	0.9	network_modules	110	GO:BP	GO:0036258	1.6814523633996967e-50	1	0.6661006602260373	1	multivesicular body assembly	GO:0036258	-	-
+K1	cpdb	0.9	network_modules	110	REAC	REAC:R-HSA-917729	1.195890129240801e-39	1	0.6099091084329707	1	Endosomal Sorting Complex Required For Transport (ESCRT)	-	-	REAC:R-HSA-917729
+K1	cpdb	0.9	network_modules	110	KEGG	KEGG:04144	2.776715564464567e-35	1	0.3007702244818286	1	Endocytosis	-	KEGG:04144	-
+K1	cpdb	0.9	network_modules	111	REAC	REAC:R-HSA-420597	1.7075096412127175e-14	1	0.5341058561165679	1	Nectin/Necl  trans heterodimerization	-	-	REAC:R-HSA-420597
+K1	cpdb	0.9	network_modules	111	GO:BP	GO:0045494	1.0973340222331317e-8	1	0.20748944578682144	2	photoreceptor cell maintenance	GO:0045494	-	-
+K1	cpdb	0.9	network_modules	111	KEGG	KEGG:04514	2.3364209494421195e-8	1	0.15987573027873153	1	Cell adhesion molecules	-	KEGG:04514	-
+K1	cpdb	0.9	network_modules	112	KEGG	KEGG:04060	3.168485658072095e-26	1	0.20682936108589214	1	Cytokine-cytokine receptor interaction	-	KEGG:04060	-
+K1	cpdb	0.9	network_modules	112	GO:BP	GO:0007411	7.723232242557976e-20	1	0.16511001538669307	5	axon guidance	GO:0007411	-	-
+K1	cpdb	0.9	network_modules	112	REAC	REAC:R-HSA-6783589	1.0341614143407272e-9	2	0.18424917744685426	1	Interleukin-6 family signaling	-	-	REAC:R-HSA-6783589
+K1	cpdb	0.9	network_modules	113	KEGG	KEGG:05416	5.9082837010199645e-8	1	0.2209974465397431	1	Viral myocarditis	-	KEGG:05416	-
+K1	cpdb	0.9	network_modules	113	REAC	REAC:R-HSA-209822	1.8456103849372866e-7	1	0.4997937813536463	1	Glycoprotein hormones	-	-	REAC:R-HSA-209822
+K1	cpdb	0.9	network_modules	119	GO:BP	GO:0030311	0.002864687406232981	1	0.30124093787466694	1	poly-N-acetyllactosamine biosynthetic process	GO:0030311	-	-
+K1	cpdb	0.9	network_modules	122	REAC	REAC:R-HSA-5576891	6.648606159042387e-8	1	0.12821577708628776	2	Cardiac conduction	-	-	REAC:R-HSA-5576891
+K1	cpdb	0.9	network_modules	122	GO:BP	GO:0003015	1.21495635500461e-7	2	0.10417321055858049	1	heart process	GO:0003015	-	-
+K1	cpdb	0.9	network_modules	128	GO:BP	GO:0140053	4.3851044832214906e-24	1	0.24408596803571078	1	mitochondrial gene expression	GO:0140053	-	-
+K1	cpdb	0.9	network_modules	128	REAC	REAC:R-HSA-5368287	1.8410072038381558e-8	1	0.1529459834208079	1	Mitochondrial translation	-	-	REAC:R-HSA-5368287
+K1	cpdb	0.9	network_modules	129	REAC	REAC:R-HSA-156584	5.440138849355111e-6	1	0.3122792612002024	1	Cytosolic sulfonation of small molecules	-	-	REAC:R-HSA-156584
+K1	cpdb	0.9	network_modules	129	GO:BP	GO:0006068	5.943534082384454e-4	2	0.37776578586754944	1	ethanol catabolic process	GO:0006068	-	-
+K1	cpdb	0.9	network_modules	138	KEGG	KEGG:04120	4.385805630054559e-43	1	0.37263309523401816	1	Ubiquitin mediated proteolysis	-	KEGG:04120	-
+K1	cpdb	0.9	network_modules	138	REAC	REAC:R-HSA-983168	2.407484938304749e-38	1	0.2588022665602371	1	Antigen processing: Ubiquitination & Proteasome degradation	-	-	REAC:R-HSA-983168
+K1	cpdb	0.9	network_modules	138	GO:BP	GO:0019941	1.5379188225714974e-35	1	0.19039239665626623	1	modification-dependent protein catabolic process	GO:0019941	-	-
+K1	cpdb	0.9	network_modules	139	REAC	REAC:R-HSA-190373	0.0024163037408110387	1	0.2576781409088113	1	FGFR1c ligand binding and activation	-	-	REAC:R-HSA-190373
+K1	cpdb	0.9	network_modules	140	GO:BP	GO:2000003	1.0919846111657282e-4	1	0.5162860129823625	1	positive regulation of DNA damage checkpoint	GO:2000003	-	-
+K1	cpdb	0.9	network_modules	141	REAC	REAC:R-HSA-72165	3.5826751044805536e-11	1	0.30517436092864453	1	mRNA Splicing - Minor Pathway	-	-	REAC:R-HSA-72165
+K1	cpdb	0.9	network_modules	144	GO:BP	GO:1902267	1.7771671012416865e-5	1	0.2844479148814264	1	regulation of polyamine transmembrane transport	GO:1902267	-	-
+K1	cpdb	0.9	network_modules	144	KEGG	KEGG:01250	4.484415306663421e-4	2	0.1187132767859889	1	Biosynthesis of nucleotide sugars	-	KEGG:01250	-
+K1	cpdb	0.9	network_modules	146	KEGG	KEGG:04622	1.7173214347210923e-5	1	0.16580021542866372	1	RIG-I-like receptor signaling pathway	-	KEGG:04622	-
+K1	cpdb	0.9	network_modules	146	REAC	REAC:R-HSA-9692916	6.208280167367944e-4	2	0.16643245182076463	1	SARS-CoV-1 activates/modulates innate immune responses	-	-	REAC:R-HSA-9692916
+K1	cpdb	0.9	network_modules	147	REAC	REAC:R-HSA-9754560	1.4910072437012683e-16	1	0.7169289730346357	1	SARS-CoV-2 modulates autophagy	-	-	REAC:R-HSA-9754560
+K1	cpdb	0.9	network_modules	147	GO:BP	GO:0034058	6.7077321037618936e-12	2	0.5022142574742847	1	endosomal vesicle fusion	GO:0034058	-	-
+K1	cpdb	0.9	network_modules	147	KEGG	KEGG:04140	4.5017027605264623e-11	1	0.20404291459806403	1	Autophagy - animal	-	KEGG:04140	-
+K1	cpdb	0.9	network_modules	149	GO:BP	GO:0007015	2.035685294647443e-41	1	0.23740106268233882	3	actin filament organization	GO:0007015	-	-
+K1	cpdb	0.9	network_modules	149	KEGG	KEGG:05100	1.1755504226035865e-20	2	0.2847039344052784	1	Bacterial invasion of epithelial cells	-	KEGG:05100	-
+K1	cpdb	0.9	network_modules	149	REAC	REAC:R-HSA-5663213	8.513457905392419e-18	1	0.3120800346606798	1	RHO GTPases Activate WASPs and WAVEs	-	-	REAC:R-HSA-5663213
+K1	cpdb	0.9	network_modules	152	REAC	REAC:R-HSA-428157	2.0492401564993886e-5	1	0.10677852392842355	1	Sphingolipid metabolism	-	-	REAC:R-HSA-428157
+K1	cpdb	0.9	network_modules	153	KEGG	KEGG:04216	8.323698466735107e-5	1	0.1208957923721044	1	Ferroptosis	-	KEGG:04216	-
+K1	cpdb	0.9	network_modules	154	KEGG	KEGG:03083	7.352157434494466e-36	1	0.46110212160490777	1	Polycomb repressive complex	-	KEGG:03083	-
+K1	cpdb	0.9	network_modules	154	REAC	REAC:R-HSA-8939243	2.474363134805317e-15	1	0.3686459310916948	1	RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known	-	-	REAC:R-HSA-8939243
+K1	cpdb	0.9	network_modules	157	KEGG	KEGG:04931	4.2706487600853535e-4	1	0.14283320176148318	1	Insulin resistance	-	KEGG:04931	-
+K1	cpdb	0.9	network_modules	157	GO:BP	GO:0045821	0.004834947288830185	1	0.22903963225820298	1	positive regulation of glycolytic process	GO:0045821	-	-
+K1	cpdb	0.9	network_modules	163	KEGG	KEGG:00970	1.9051833327241817e-18	1	0.2851700267407996	1	Aminoacyl-tRNA biosynthesis	-	KEGG:00970	-
+K1	cpdb	0.9	network_modules	163	REAC	REAC:R-HSA-379726	1.9390430273781698e-17	1	0.2955126923608152	1	Mitochondrial tRNA aminoacylation	-	-	REAC:R-HSA-379726
+K1	cpdb	0.9	network_modules	163	GO:BP	GO:0043039	7.346089325792854e-17	2	0.20757051947594746	1	tRNA aminoacylation	GO:0043039	-	-
+K1	cpdb	0.9	network_modules	165	GO:BP	GO:0035721	1.2738658296932963e-6	1	0.4006521636101715	1	intraciliary retrograde transport	GO:0035721	-	-
+K1	cpdb	0.9	network_modules	165	REAC	REAC:R-HSA-5620924	2.0808418176356608e-5	1	0.23515085874205485	1	Intraflagellar transport	-	-	REAC:R-HSA-5620924
+K1	cpdb	0.9	network_modules	166	GO:BP	GO:1990709	1.2252688292481928e-7	1	0.566812304845571	2	presynaptic active zone organization	GO:1990709	-	-
+K1	cpdb	0.9	network_modules	167	KEGG	KEGG:04141	1.1536282453255918e-17	1	0.19688359006250286	1	Protein processing in endoplasmic reticulum	-	KEGG:04141	-
+K1	cpdb	0.9	network_modules	167	GO:BP	GO:0006984	1.286432492554676e-8	2	0.1465214368183392	3	ER-nucleus signaling pathway	GO:0006984	-	-
+K1	cpdb	0.9	network_modules	167	REAC	REAC:R-HSA-901042	1.2445175354858976e-6	1	0.15291215442252132	1	Calnexin/calreticulin cycle	-	-	REAC:R-HSA-901042
+K1	cpdb	0.9	network_modules	168	GO:BP	GO:0016054	1.0647013361469808e-13	4	0.13394941963059848	1	organic acid catabolic process	GO:0016054	-	-
+K1	cpdb	0.9	network_modules	168	KEGG	KEGG:01200	2.4651549604835672e-11	1	0.1618298867748526	1	Carbon metabolism	-	KEGG:01200	-
+K1	cpdb	0.9	network_modules	168	REAC	REAC:R-HSA-9033241	6.233965506441097e-8	2	0.1448716453176585	1	Peroxisomal protein import	-	-	REAC:R-HSA-9033241
+K1	cpdb	0.9	network_modules	169	KEGG	KEGG:00280	3.2171093827983237e-7	1	0.1664034452492038	1	Valine, leucine and isoleucine degradation	-	KEGG:00280	-
+K1	cpdb	0.9	network_modules	169	GO:BP	GO:0042776	1.1310134324990675e-5	1	0.11969265745600337	1	proton motive force-driven mitochondrial ATP synthesis	GO:0042776	-	-
+K1	cpdb	0.9	network_modules	169	REAC	REAC:R-HSA-163210	4.512582965177801e-5	2	0.17037842163743716	1	Formation of ATP by chemiosmotic coupling	-	-	REAC:R-HSA-163210
+K1	cpdb	0.9	network_modules	170	GO:BP	GO:0008608	6.19597104083585e-17	1	0.36915910020137016	1	attachment of spindle microtubules to kinetochore	GO:0008608	-	-
+K1	cpdb	0.9	network_modules	170	REAC	REAC:R-HSA-141444	4.596857348685119e-15	1	0.29374630135292096	1	Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal	-	-	REAC:R-HSA-141444
+K1	cpdb	0.9	network_modules	172	REAC	REAC:R-HSA-8874211	2.0022244167200589e-7	1	0.31349141955609944	1	CREB3 factors activate genes	-	-	REAC:R-HSA-8874211
+K1	cpdb	0.9	network_modules	172	GO:BP	GO:0035654	2.0321853621671478e-7	1	0.30810065773348627	1	clathrin-coated vesicle cargo loading, AP-3-mediated	GO:0035654	-	-
+K1	cpdb	0.9	network_modules	172	KEGG	KEGG:05030	1.36349227775623e-6	1	0.17594543381493039	1	Cocaine addiction	-	KEGG:05030	-
+K1	cpdb	0.9	network_modules	175	GO:BP	GO:0031145	3.1488461930509314e-37	1	0.7141060109952154	1	anaphase-promoting complex-dependent catabolic process	GO:0031145	-	-
+K1	cpdb	0.9	network_modules	175	REAC	REAC:R-HSA-176407	2.787591020952731e-33	1	0.726280964694717	1	Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase	-	-	REAC:R-HSA-176407
+K1	cpdb	0.9	network_modules	175	KEGG	KEGG:04914	1.7017235241776142e-21	4	0.3192606331313293	1	Progesterone-mediated oocyte maturation	-	KEGG:04914	-
+K1	cpdb	0.9	network_modules	181	GO:BP	GO:0046135	0.0015499758480338754	2	0.31596373083382445	1	pyrimidine nucleoside catabolic process	GO:0046135	-	-
+K1	cpdb	0.9	network_modules	182	REAC	REAC:R-HSA-8856828	6.622525899319782e-38	1	0.3146955781090755	1	Clathrin-mediated endocytosis	-	-	REAC:R-HSA-8856828
+K1	cpdb	0.9	network_modules	182	GO:BP	GO:0072583	7.053349904481286e-27	3	0.3061936075309561	1	clathrin-dependent endocytosis	GO:0072583	-	-
+K1	cpdb	0.9	network_modules	182	KEGG	KEGG:04144	8.680295810746368e-26	1	0.22685053244203626	1	Endocytosis	-	KEGG:04144	-
+K1	cpdb	0.9	network_modules	183	REAC	REAC:R-HSA-164940	5.529374509735804e-15	1	0.44197907635542877	1	Nef mediated downregulation of MHC class I complex cell surface expression	-	-	REAC:R-HSA-164940
+K1	cpdb	0.9	network_modules	184	KEGG	KEGG:04120	2.1778208830062402e-4	1	0.14519786336581988	1	Ubiquitin mediated proteolysis	-	KEGG:04120	-
+K1	cpdb	0.9	network_modules	187	REAC	REAC:R-HSA-390522	2.9416515974293384e-16	1	0.4010557947510404	1	Striated Muscle Contraction	-	-	REAC:R-HSA-390522
+K1	cpdb	0.9	network_modules	187	GO:BP	GO:0003012	4.287783599405475e-13	1	0.15521546323351493	4	muscle system process	GO:0003012	-	-
+K1	cpdb	0.9	network_modules	187	KEGG	KEGG:04814	2.963536729149315e-11	1	0.18930327944722342	1	Motor proteins	-	KEGG:04814	-
+K1	cpdb	0.9	network_modules	190	GO:BP	GO:1904507	2.3599595947391977e-13	1	0.5771717164501803	1	positive regulation of telomere maintenance in response to DNA damage	GO:1904507	-	-
+K1	cpdb	0.9	network_modules	190	REAC	REAC:R-HSA-5696394	7.597051891650213e-11	1	0.36218916424300907	1	DNA Damage Recognition in GG-NER	-	-	REAC:R-HSA-5696394
+K1	cpdb	0.9	network_modules	200	GO:BP	GO:0034227	1.0273993335879151e-7	1	0.5998763141620284	1	tRNA thio-modification	GO:0034227	-	-
+K1	cpdb	0.9	network_modules	200	KEGG	KEGG:04122	1.181895624601276e-7	1	0.5300381834724	1	Sulfur relay system	-	KEGG:04122	-
+K1	cpdb	0.9	network_modules	204	REAC	REAC:R-HSA-391908	3.283501857467978e-4	1	0.19502751012348568	1	Prostanoid ligand receptors	-	-	REAC:R-HSA-391908
+K1	cpdb	0.9	network_modules	205	REAC	REAC:R-HSA-500792	1.0290552187692466e-8	1	0.09211311304425165	1	GPCR ligand binding	-	-	REAC:R-HSA-500792
+K1	cpdb	0.9	network_modules	205	GO:BP	GO:0007200	6.029881228181222e-6	2	0.08993390768164805	1	phospholipase C-activating G protein-coupled receptor signaling pathway	GO:0007200	-	-
+K1	cpdb	0.9	network_modules	205	KEGG	KEGG:04080	4.7665259789556016e-5	1	0.07379240057437633	1	Neuroactive ligand-receptor interaction	-	KEGG:04080	-
+K1	cpdb	0.9	network_modules	208	REAC	REAC:R-HSA-6781823	1.513204019300389e-21	2	0.3384373655447864	1	Formation of TC-NER Pre-Incision Complex	-	-	REAC:R-HSA-6781823
+K1	cpdb	0.9	network_modules	208	GO:BP	GO:0000338	4.918445968846073e-18	1	0.4636863574338335	1	protein deneddylation	GO:0000338	-	-
+K1	cpdb	0.9	network_modules	209	KEGG	KEGG:04640	6.956432908578371e-7	1	0.20742967813207297	1	Hematopoietic cell lineage	-	KEGG:04640	-
+K1	cpdb	0.9	network_modules	209	REAC	REAC:R-HSA-9027283	1.9221528810835047e-4	1	0.4362157899272416	1	Erythropoietin activates STAT5	-	-	REAC:R-HSA-9027283
+K1	cpdb	0.9	network_modules	211	GO:BP	GO:0000375	1.0859581993819021e-36	2	0.25639799689300674	1	RNA splicing, via transesterification reactions	GO:0000375	-	-
+K1	cpdb	0.9	network_modules	211	REAC	REAC:R-HSA-72172	4.318156164987603e-25	1	0.2368189532397399	1	mRNA Splicing	-	-	REAC:R-HSA-72172
+K1	cpdb	0.9	network_modules	211	KEGG	KEGG:03040	6.223765493334368e-25	1	0.28448820896181637	1	Spliceosome	-	KEGG:03040	-
+K1	cpdb	0.9	network_modules	215	GO:BP	GO:0140632	4.8214520584523485e-6	1	0.2883804541547979	1	canonical inflammasome complex assembly	GO:0140632	-	-
+K1	cpdb	0.9	network_modules	217	REAC	REAC:R-HSA-9833576	6.8956305853332e-7	1	0.46259181164677676	1	CDH11 homotypic and heterotypic interactions	-	-	REAC:R-HSA-9833576
+K1	cpdb	0.9	network_modules	217	GO:BP	GO:0034332	1.6527112552704122e-6	1	0.22463844759434287	1	adherens junction organization	GO:0034332	-	-
+K1	cpdb	0.9	network_modules	218	GO:BP	GO:0030029	7.759517900333285e-8	1	0.08970800936594973	1	actin filament-based process	GO:0030029	-	-
+K1	cpdb	0.9	network_modules	223	REAC	REAC:R-HSA-9613354	0.0012025054213550407	2	0.1608737520008869	1	Lipophagy	-	-	REAC:R-HSA-9613354
+K1	cpdb	0.9	network_modules	231	REAC	REAC:R-HSA-1187000	2.3356587594460882e-5	1	0.2624456836468055	1	Fertilization	-	-	REAC:R-HSA-1187000
+K1	cpdb	0.9	network_modules	231	KEGG	KEGG:04975	2.5965372710991172e-5	1	0.22783370355265659	1	Fat digestion and absorption	-	KEGG:04975	-
+K1	cpdb	0.9	network_modules	231	GO:BP	GO:0007338	1.387961339760287e-4	1	0.13349357989402677	1	single fertilization	GO:0007338	-	-
+K1	cpdb	0.9	network_modules	232	GO:BP	GO:0030970	1.4219219693286632e-9	1	0.3143485591481688	1	retrograde protein transport, ER to cytosol	GO:0030970	-	-
+K1	cpdb	0.9	network_modules	232	KEGG	KEGG:04141	2.3845704391751874e-7	1	0.1513051194653539	1	Protein processing in endoplasmic reticulum	-	KEGG:04141	-
+K1	cpdb	0.9	network_modules	233	REAC	REAC:R-HSA-1799339	2.897356552886992e-12	1	0.15172532907545427	2	SRP-dependent cotranslational protein targeting to membrane	-	-	REAC:R-HSA-1799339
+K1	cpdb	0.9	network_modules	233	KEGG	KEGG:00513	6.909492031630457e-12	2	0.20164487003239268	1	Various types of N-glycan biosynthesis	-	KEGG:00513	-
+K1	cpdb	0.9	network_modules	233	GO:BP	GO:0006613	4.073856517408816e-9	3	0.17927222660903316	1	cotranslational protein targeting to membrane	GO:0006613	-	-
+K1	cpdb	0.9	network_modules	234	GO:BP	GO:0071900	0.0014420092004148197	1	0.11217316877757248	1	regulation of protein serine/threonine kinase activity	GO:0071900	-	-
+K1	cpdb	0.9	network_modules	235	REAC	REAC:R-HSA-380270	8.584187943696103e-12	1	0.259475631584406	1	Recruitment of mitotic centrosome proteins and complexes	-	-	REAC:R-HSA-380270
+K1	cpdb	0.9	network_modules	237	GO:BP	GO:0046459	7.205018591629385e-4	1	0.33311686255037765	1	short-chain fatty acid metabolic process	GO:0046459	-	-
+K1	cpdb	0.9	network_modules	238	GO:BP	GO:0031146	6.447750912391979e-23	1	0.4185128760082879	1	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	GO:0031146	-	-
+K1	cpdb	0.9	network_modules	238	REAC	REAC:R-HSA-8951664	1.602953870016917e-15	1	0.19513759123096971	1	Neddylation	-	-	REAC:R-HSA-8951664
+K1	cpdb	0.9	network_modules	240	REAC	REAC:R-HSA-68962	1.0455818634345256e-33	1	0.5450205479940976	1	Activation of the pre-replicative complex	-	-	REAC:R-HSA-68962
+K1	cpdb	0.9	network_modules	240	GO:BP	GO:0006270	1.7823167407635548e-28	3	0.4434167721829614	1	DNA replication initiation	GO:0006270	-	-
+K1	cpdb	0.9	network_modules	240	KEGG	KEGG:04110	4.7889685076679136e-26	1	0.2956049363624717	1	Cell cycle	-	KEGG:04110	-
+K1	cpdb	0.9	network_modules	241	GO:BP	GO:0000375	6.216035252498502e-100	1	0.4393888848270404	2	RNA splicing, via transesterification reactions	GO:0000375	-	-
+K1	cpdb	0.9	network_modules	241	REAC	REAC:R-HSA-72163	6.862079334855268e-99	1	0.522928608048565	1	mRNA Splicing - Major Pathway	-	-	REAC:R-HSA-72163
+K1	cpdb	0.9	network_modules	241	KEGG	KEGG:03040	3.631469410863872e-92	1	0.5478754552521221	1	Spliceosome	-	KEGG:03040	-
+K1	cpdb	0.9	network_modules	242	REAC	REAC:R-HSA-72203	1.3850488780400719e-40	1	0.29608258110498775	1	Processing of Capped Intron-Containing Pre-mRNA	-	-	REAC:R-HSA-72203
+K1	cpdb	0.9	network_modules	242	GO:BP	GO:0008380	2.697970766390047e-38	1	0.23162783687797767	1	RNA splicing	GO:0008380	-	-
+K1	cpdb	0.9	network_modules	243	REAC	REAC:R-HSA-383280	1.890095254952343e-47	1	0.4974883294564634	1	Nuclear Receptor transcription pathway	-	-	REAC:R-HSA-383280
+K1	cpdb	0.9	network_modules	243	GO:BP	GO:0009755	4.124171115492183e-20	1	0.16158471646954214	1	hormone-mediated signaling pathway	GO:0009755	-	-
+K1	cpdb	0.9	network_modules	246	KEGG	KEGG:04144	3.2710063026801074e-34	1	0.25695410107364747	1	Endocytosis	-	KEGG:04144	-
+K1	cpdb	0.9	network_modules	246	GO:BP	GO:0016197	1.7142269685403584e-27	1	0.18049530406201403	1	endosomal transport	GO:0016197	-	-
+K1	cpdb	0.9	network_modules	246	REAC	REAC:R-HSA-8873719	3.2132615254529153e-19	1	0.23092217863017514	1	RAB geranylgeranylation	-	-	REAC:R-HSA-8873719
+K1	cpdb	0.9	network_modules	247	KEGG	KEGG:04144	8.354735811518357e-13	1	0.17590642080035554	1	Endocytosis	-	KEGG:04144	-
+K1	cpdb	0.9	network_modules	247	GO:BP	GO:0034315	4.842072640043791e-8	2	0.23959611640672476	1	regulation of Arp2/3 complex-mediated actin nucleation	GO:0034315	-	-
+K1	cpdb	0.9	network_modules	248	REAC	REAC:R-HSA-418890	2.8014698526490707e-7	1	0.30596997884760413	1	Role of second messengers in netrin-1 signaling	-	-	REAC:R-HSA-418890
+K1	cpdb	0.9	network_modules	248	KEGG	KEGG:04360	1.0947542905025104e-6	1	0.12519290818349751	1	Axon guidance	-	KEGG:04360	-
+K1	cpdb	0.9	network_modules	249	REAC	REAC:R-HSA-445095	3.770917581951418e-6	1	0.3106861687058293	1	Interaction between L1 and Ankyrins	-	-	REAC:R-HSA-445095
+K1	cpdb	0.9	network_modules	250	GO:BP	GO:1903313	5.016356406049353e-8	2	0.10447980372985027	1	positive regulation of mRNA metabolic process	GO:1903313	-	-
+K1	cpdb	0.9	network_modules	250	REAC	REAC:R-HSA-5687128	2.4729650870821825e-5	1	0.09805652711438258	1	MAPK6/MAPK4 signaling	-	-	REAC:R-HSA-5687128
+K1	cpdb	0.9	network_modules	252	REAC	REAC:R-HSA-9821993	0.003927336025629068	1	0.2178176369822512	1	Replacement of protamines by nucleosomes in the male pronucleus	-	-	REAC:R-HSA-9821993
+K1	cpdb	0.9	network_modules	252	KEGG	KEGG:05322	0.006356284100223597	1	0.12214456326225327	1	Systemic lupus erythematosus	-	KEGG:05322	-
+K1	cpdb	0.9	network_modules	253	KEGG	KEGG:04218	2.9617205955866034e-4	1	0.13786933401503823	1	Cellular senescence	-	KEGG:04218	-
+K1	cpdb	0.9	network_modules	253	REAC	REAC:R-HSA-1362300	4.789434177596428e-4	1	0.36493083716272035	1	Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1	-	-	REAC:R-HSA-1362300
+K1	cpdb	0.9	network_modules	257	REAC	REAC:R-HSA-6807505	9.130337220210199e-7	2	0.12116030631225173	1	RNA polymerase II transcribes snRNA genes	-	-	REAC:R-HSA-6807505
+K1	cpdb	0.9	network_modules	257	KEGG	KEGG:03013	1.887047984352651e-4	1	0.09592525571361347	1	Nucleocytoplasmic transport	-	KEGG:03013	-
+K1	cpdb	0.9	network_modules	258	GO:BP	GO:0000122	0.0012011571194795764	1	0.05620572767920565	1	negative regulation of transcription by RNA polymerase II	GO:0000122	-	-
+K1	cpdb	0.9	network_modules	263	GO:BP	GO:0006749	2.2785853737145996e-9	1	0.2939785982905517	1	glutathione metabolic process	GO:0006749	-	-
+K1	cpdb	0.9	network_modules	263	REAC	REAC:R-HSA-156590	2.954466434125096e-9	1	0.302240341922926	1	Glutathione conjugation	-	-	REAC:R-HSA-156590
+K1	cpdb	0.9	network_modules	263	KEGG	KEGG:00480	1.0537070810729692e-8	1	0.25113794431914926	1	Glutathione metabolism	-	KEGG:00480	-
+K1	cpdb	0.9	network_modules	267	GO:BP	GO:0019752	3.243652792238476e-23	1	0.1314988823125486	8	carboxylic acid metabolic process	GO:0019752	-	-
+K1	cpdb	0.9	network_modules	267	KEGG	KEGG:00280	4.559124045128335e-13	1	0.20930152485456135	1	Valine, leucine and isoleucine degradation	-	KEGG:00280	-
+K1	cpdb	0.9	network_modules	267	REAC	REAC:R-HSA-70895	1.230349666874051e-10	1	0.20909353478873344	1	Branched-chain amino acid catabolism	-	-	REAC:R-HSA-70895
+K1	cpdb	0.9	network_modules	269	KEGG	KEGG:04120	4.225369376607706e-18	1	0.21225153458737667	1	Ubiquitin mediated proteolysis	-	KEGG:04120	-
+K1	cpdb	0.9	network_modules	269	GO:BP	GO:0016567	1.8355158213728797e-13	1	0.10458577045599732	2	protein ubiquitination	GO:0016567	-	-
+K1	cpdb	0.9	network_modules	270	GO:BP	GO:0006511	2.7749551895231584e-16	2	0.12841042715081752	1	ubiquitin-dependent protein catabolic process	GO:0006511	-	-
+K1	cpdb	0.9	network_modules	271	KEGG	KEGG:04012	2.4625829395920686e-8	1	0.22124741963852415	1	ErbB signaling pathway	-	KEGG:04012	-
+K1	cpdb	0.9	network_modules	271	REAC	REAC:R-HSA-1250342	2.582789080704091e-7	1	0.4997479392411747	1	PI3K events in ERBB4 signaling	-	-	REAC:R-HSA-1250342
+K1	cpdb	0.9	network_modules	272	GO:BP	GO:0006281	2.4384403340454517e-68	1	0.28156691405620926	1	DNA repair	GO:0006281	-	-
+K1	cpdb	0.9	network_modules	272	REAC	REAC:R-HSA-73894	3.4252499380610687e-60	1	0.33036077899041827	1	DNA Repair	-	-	REAC:R-HSA-73894
+K1	cpdb	0.9	network_modules	272	KEGG	KEGG:03440	6.846294514172565e-33	1	0.41793679980661796	1	Homologous recombination	-	KEGG:03440	-
+K1	cpdb	0.9	network_modules	275	GO:BP	GO:0007249	4.201083706306961e-19	1	0.16979928946442976	8	canonical NF-kappaB signal transduction	GO:0007249	-	-
+K1	cpdb	0.9	network_modules	275	KEGG	KEGG:04064	4.990623848441867e-13	1	0.20107569219070393	1	NF-kappa B signaling pathway	-	KEGG:04064	-
+K1	cpdb	0.9	network_modules	275	REAC	REAC:R-HSA-5602358	6.043654914720013e-10	12	0.22372097739337823	1	Diseases associated with the TLR signaling cascade	-	-	REAC:R-HSA-5602358
+K1	cpdb	0.9	network_modules	276	GO:BP	GO:0007249	1.137376210997496e-45	1	0.26121026816856996	1	canonical NF-kappaB signal transduction	GO:0007249	-	-
+K1	cpdb	0.9	network_modules	276	KEGG	KEGG:04064	2.1290626518279716e-26	2	0.26904761999629584	1	NF-kappa B signaling pathway	-	KEGG:04064	-
+K1	cpdb	0.9	network_modules	276	REAC	REAC:R-HSA-5357956	5.0130009065748645e-23	2	0.31614547051273395	1	TNFR1-induced NF-kappa-B signaling pathway	-	-	REAC:R-HSA-5357956
+K1	cpdb	0.9	network_modules	277	REAC	REAC:R-HSA-6809371	8.760035884517877e-16	1	0.26371454411443135	2	Formation of the cornified envelope	-	-	REAC:R-HSA-6809371
+K1	cpdb	0.9	network_modules	277	GO:BP	GO:0086073	2.5323152098981924e-6	2	0.4079831549351323	1	bundle of His cell-Purkinje myocyte adhesion involved in cell communication	GO:0086073	-	-
+K1	cpdb	0.9	network_modules	278	GO:BP	GO:0030029	1.4542227815786862e-36	1	0.18669169283426285	1	actin filament-based process	GO:0030029	-	-
+K1	cpdb	0.9	network_modules	278	KEGG	KEGG:04814	1.7682542092718172e-16	1	0.19366771562318943	1	Motor proteins	-	KEGG:04814	-
+K1	cpdb	0.9	network_modules	278	REAC	REAC:R-HSA-5627117	7.902445321740362e-11	2	0.25533616400100123	1	RHO GTPases Activate ROCKs	-	-	REAC:R-HSA-5627117
+K1	cpdb	0.9	network_modules	279	GO:BP	GO:0030029	1.7653861454297407e-26	1	0.15361852873419002	3	actin filament-based process	GO:0030029	-	-
+K1	cpdb	0.9	network_modules	279	KEGG	KEGG:04814	1.5034792215104328e-13	1	0.17115971122642734	1	Motor proteins	-	KEGG:04814	-
+K1	cpdb	0.9	network_modules	279	REAC	REAC:R-HSA-390522	4.541032471978223e-13	1	0.24751838235294119	1	Striated Muscle Contraction	-	-	REAC:R-HSA-390522
+K1	cpdb	0.9	network_modules	280	GO:BP	GO:0000398	2.1477631363141592e-38	4	0.22778702174993756	1	mRNA splicing, via spliceosome	GO:0000398	-	-
+K1	cpdb	0.9	network_modules	280	REAC	REAC:R-HSA-72163	1.783898335178325e-36	1	0.2837822307569017	1	mRNA Splicing - Major Pathway	-	-	REAC:R-HSA-72163
+K1	cpdb	0.9	network_modules	280	KEGG	KEGG:03040	3.0790891465651444e-21	1	0.2302108897468922	1	Spliceosome	-	KEGG:03040	-
+K1	cpdb	0.9	network_modules	283	GO:BP	GO:1905168	7.780334794589204e-10	1	0.31440701173284835	1	positive regulation of double-strand break repair via homologous recombination	GO:1905168	-	-
+K1	cpdb	0.9	network_modules	283	KEGG	KEGG:03082	4.3721108995693787e-7	1	0.17336718551690328	1	ATP-dependent chromatin remodeling	-	KEGG:03082	-
+K1	cpdb	0.9	network_modules	285	REAC	REAC:R-HSA-392517	3.8170578415748307e-7	1	0.44696764849941306	1	Rap1 signalling	-	-	REAC:R-HSA-392517
+K1	cpdb	0.9	network_modules	285	GO:BP	GO:2000301	8.493563784161808e-5	1	0.5772610151803533	1	negative regulation of synaptic vesicle exocytosis	GO:2000301	-	-
+K1	cpdb	0.9	network_modules	285	KEGG	KEGG:04520	2.718151904967862e-4	2	0.15415274958762873	1	Adherens junction	-	KEGG:04520	-
+K1	cpdb	0.9	network_modules	287	KEGG	KEGG:03013	3.249747150182462e-5	1	0.10260107458897959	1	Nucleocytoplasmic transport	-	KEGG:03013	-
+K1	cpdb	0.9	network_modules	287	GO:BP	GO:0006403	1.9214413986593117e-4	1	0.07204602364067329	1	RNA localization	GO:0006403	-	-
+K1	cpdb	0.9	network_modules	288	GO:BP	GO:0006457	7.601983865375254e-5	1	0.07660770357445024	1	protein folding	GO:0006457	-	-
+K1	cpdb	0.9	network_modules	299	KEGG	KEGG:01240	5.3524026025123945e-6	1	0.14012650797981122	1	Biosynthesis of cofactors	-	KEGG:01240	-
+K1	cpdb	0.9	network_modules	300	REAC	REAC:R-HSA-9013148	4.980631076650035e-34	1	0.3228972234815002	1	CDC42 GTPase cycle	-	-	REAC:R-HSA-9013148
+K1	cpdb	0.9	network_modules	300	GO:BP	GO:0045197	3.66746794971056e-9	3	0.18492837969522916	1	establishment or maintenance of epithelial cell apical/basal polarity	GO:0045197	-	-
+K1	cpdb	0.9	network_modules	301	GO:BP	GO:0006397	3.289721427215812e-9	1	0.09855618180216356	1	mRNA processing	GO:0006397	-	-
+K1	cpdb	0.9	network_modules	302	GO:BP	GO:0006974	3.256951714551955e-17	1	0.11314913181204601	1	DNA damage response	GO:0006974	-	-
+K1	cpdb	0.9	network_modules	303	KEGG	KEGG:04141	1.6322003400668534e-8	1	0.11581532105177239	1	Protein processing in endoplasmic reticulum	-	KEGG:04141	-
+K1	cpdb	0.9	network_modules	303	GO:BP	GO:0034975	1.963257329080072e-8	2	0.1872383904434796	1	protein folding in endoplasmic reticulum	GO:0034975	-	-
+K1	cpdb	0.9	network_modules	304	GO:BP	GO:0010256	7.56937624969583e-6	1	0.06749575677260292	1	endomembrane system organization	GO:0010256	-	-
+K1	cpdb	0.9	network_modules	305	KEGG	KEGG:05322	1.2897760759704326e-23	1	0.24896227575155783	1	Systemic lupus erythematosus	-	KEGG:05322	-
+K1	cpdb	0.9	network_modules	305	GO:BP	GO:0006334	1.2640379133005e-22	3	0.21167741630846504	1	nucleosome assembly	GO:0006334	-	-
+K1	cpdb	0.9	network_modules	305	REAC	REAC:R-HSA-5334118	1.6532620987936318e-19	6	0.23612249612202724	1	DNA methylation	-	-	REAC:R-HSA-5334118
+K1	cpdb	0.9	network_modules	307	KEGG	KEGG:03083	4.803757935237974e-7	1	0.21718612138153467	1	Polycomb repressive complex	-	KEGG:03083	-
+K1	cpdb	0.9	network_modules	309	GO:BP	GO:0001836	2.291740219715114e-22	1	0.3929506324675449	1	release of cytochrome c from mitochondria	GO:0001836	-	-
+K1	cpdb	0.9	network_modules	309	REAC	REAC:R-HSA-111453	4.886983032262333e-15	1	0.6026632888392229	1	BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members	-	-	REAC:R-HSA-111453
+K1	cpdb	0.9	network_modules	309	KEGG	KEGG:04215	4.941223621769465e-13	1	0.34170560806613254	1	Apoptosis - multiple species	-	KEGG:04215	-
+K1	cpdb	0.9	network_modules	312	REAC	REAC:R-HSA-77595	2.3961810752152845e-35	1	0.7967914547255702	1	Processing of Intronless Pre-mRNAs	-	-	REAC:R-HSA-77595
+K1	cpdb	0.9	network_modules	312	KEGG	KEGG:03015	1.2941058319533645e-28	1	0.39338985646695895	1	mRNA surveillance pathway	-	KEGG:03015	-
+K1	cpdb	0.9	network_modules	315	KEGG	KEGG:04060	4.521696689049787e-5	1	0.079648154959506	1	Cytokine-cytokine receptor interaction	-	KEGG:04060	-
+K1	cpdb	0.9	network_modules	316	REAC	REAC:R-HSA-877300	1.0191544437004834e-4	1	0.1808347150300648	1	Interferon gamma signaling	-	-	REAC:R-HSA-877300
+K1	cpdb	0.9	network_modules	316	GO:BP	GO:0140639	1.0919846111657282e-4	2	0.5162860129823625	1	positive regulation of pyroptotic inflammatory response	GO:0140639	-	-
+K1	cpdb	0.9	network_modules	318	KEGG	KEGG:04814	3.470524687018106e-12	1	0.2013605192892958	1	Motor proteins	-	KEGG:04814	-
+K1	cpdb	0.9	network_modules	318	REAC	REAC:R-HSA-6811436	6.697167722338226e-11	2	0.2903111875888129	1	COPI-independent Golgi-to-ER retrograde traffic	-	-	REAC:R-HSA-6811436
+K1	cpdb	0.9	network_modules	320	GO:BP	GO:0050851	9.424930577651487e-11	1	0.12896456143481613	1	antigen receptor-mediated signaling pathway	GO:0050851	-	-
+K1	cpdb	0.9	network_modules	320	KEGG	KEGG:04072	2.554121294316964e-9	1	0.13786809857053053	1	Phospholipase D signaling pathway	-	KEGG:04072	-
+K1	cpdb	0.9	network_modules	320	REAC	REAC:R-HSA-9006335	8.568679634966112e-6	1	0.15658323789861	1	Signaling by Erythropoietin	-	-	REAC:R-HSA-9006335
+K1	cpdb	0.9	network_modules	321	GO:BP	GO:0006284	8.003937281695829e-10	1	0.2463632457152458	1	base-excision repair	GO:0006284	-	-
+K1	cpdb	0.9	network_modules	321	KEGG	KEGG:03430	2.770813080043763e-7	2	0.27684557843953206	1	Mismatch repair	-	KEGG:03430	-
+K1	cpdb	0.9	network_modules	321	REAC	REAC:R-HSA-3371511	2.359756176542393e-5	4	0.2880001370043884	1	HSF1 activation	-	-	REAC:R-HSA-3371511
+K1	cpdb	0.9	network_modules	322	GO:BP	GO:0006261	1.2740648788590903e-44	3	0.2957981709916106	1	DNA-templated DNA replication	GO:0006261	-	-
+K1	cpdb	0.9	network_modules	322	REAC	REAC:R-HSA-174417	2.122540027826667e-35	2	0.4025336255270819	1	Telomere C-strand (Lagging Strand) Synthesis	-	-	REAC:R-HSA-174417
+K1	cpdb	0.9	network_modules	322	KEGG	KEGG:03430	2.4687306465419508e-24	3	0.3912320135913617	1	Mismatch repair	-	KEGG:03430	-
+K1	cpdb	0.9	network_modules	324	REAC	REAC:R-HSA-379716	2.1768664178033645e-16	1	0.3588217436494781	1	Cytosolic tRNA aminoacylation	-	-	REAC:R-HSA-379716
+K1	cpdb	0.9	network_modules	324	GO:BP	GO:0006418	5.564332276884036e-15	1	0.2795571737884533	2	tRNA aminoacylation for protein translation	GO:0006418	-	-
+K1	cpdb	0.9	network_modules	324	KEGG	KEGG:00970	8.595225530344481e-14	1	0.2742247266648551	1	Aminoacyl-tRNA biosynthesis	-	KEGG:00970	-
+K1	cpdb	0.9	network_modules	325	GO:BP	GO:0072524	7.887234812881428e-19	5	0.17622325621373025	1	pyridine-containing compound metabolic process	GO:0072524	-	-
+K1	cpdb	0.9	network_modules	325	KEGG	KEGG:00010	9.290450889634262e-16	1	0.21494360702168291	1	Glycolysis / Gluconeogenesis	-	KEGG:00010	-
+K1	cpdb	0.9	network_modules	325	REAC	REAC:R-HSA-70263	1.5874837869053308e-12	2	0.2077218219515019	1	Gluconeogenesis	-	-	REAC:R-HSA-70263
+K1	cpdb	0.9	network_modules	332	KEGG	KEGG:03015	3.4508030835604376e-7	1	0.14117531572759423	1	mRNA surveillance pathway	-	KEGG:03015	-
+K1	cpdb	0.9	network_modules	333	REAC	REAC:R-HSA-75955	2.0815390163773512e-12	1	0.2266943540343914	1	RNA Polymerase II Transcription Elongation	-	-	REAC:R-HSA-75955
+K1	cpdb	0.9	network_modules	333	GO:BP	GO:0006354	3.9485785276271046e-10	1	0.14015867911285665	1	DNA-templated transcription elongation	GO:0006354	-	-
+K1	cpdb	0.9	network_modules	333	KEGG	KEGG:03250	2.658746460883253e-7	1	0.19871405632919797	1	Viral life cycle - HIV-1	-	KEGG:03250	-
+K1	cpdb	0.9	network_modules	336	GO:BP	GO:0001682	1.931281916971113e-7	1	0.4802359149317893	1	tRNA 5'-leader removal	GO:0001682	-	-
+K1	cpdb	0.9	network_modules	340	REAC	REAC:R-HSA-3214815	9.535553257929363e-7	1	0.13248535919018345	1	HDACs deacetylate histones	-	-	REAC:R-HSA-3214815
+K1	cpdb	0.9	network_modules	340	GO:BP	GO:1902455	1.0353034273092889e-5	2	0.15036749994474885	1	negative regulation of stem cell population maintenance	GO:1902455	-	-
+K1	cpdb	0.9	network_modules	341	GO:BP	GO:0042148	4.245731564225828e-4	1	0.4080715603825347	1	DNA strand invasion	GO:0042148	-	-
+K1	cpdb	0.9	network_modules	341	KEGG	KEGG:03440	6.028398059430205e-4	1	0.22035470605185925	1	Homologous recombination	-	KEGG:03440	-
+K1	cpdb	0.9	network_modules	341	REAC	REAC:R-HSA-9709603	0.0012589369838253452	1	0.2883840379923303	1	Impaired BRCA2 binding to PALB2	-	-	REAC:R-HSA-9709603
+K1	cpdb	0.9	network_modules	342	KEGG	KEGG:04136	8.397313810733264e-9	2	0.27808856602968635	1	Autophagy - other	-	KEGG:04136	-
+K1	cpdb	0.9	network_modules	342	GO:BP	GO:0044804	3.02368069668301e-7	1	0.289597937619554	1	nucleophagy	GO:0044804	-	-
+K1	cpdb	0.9	network_modules	348	REAC	REAC:R-HSA-194313	1.2771824473590472e-4	1	0.4998625429527289	1	VEGF ligand-receptor interactions	-	-	REAC:R-HSA-194313
+K1	cpdb	0.9	network_modules	349	REAC	REAC:R-HSA-3311021	2.746603818311212e-5	4	0.6665750328354562	1	SMAD4 MH2 Domain Mutants in Cancer	-	-	REAC:R-HSA-3311021
+K1	cpdb	0.9	network_modules	349	KEGG	KEGG:04350	9.657821572981178e-5	1	0.1664138486495178	1	TGF-beta signaling pathway	-	KEGG:04350	-
+K1	cpdb	0.9	network_modules	350	GO:BP	GO:0002315	2.363456891398209e-8	1	0.6545727043270222	1	marginal zone B cell differentiation	GO:0002315	-	-
+K1	cpdb	0.9	network_modules	350	REAC	REAC:R-HSA-1912420	6.845536700494649e-7	1	0.4079676238240486	1	Pre-NOTCH Processing in Golgi	-	-	REAC:R-HSA-1912420
+K1	cpdb	0.9	network_modules	350	KEGG	KEGG:04330	1.6650661472021385e-5	1	0.2228541108490496	1	Notch signaling pathway	-	KEGG:04330	-
+K1	cpdb	0.9	network_modules	351	GO:BP	GO:2000819	4.362736777873318e-37	1	0.6953242001831692	1	regulation of nucleotide-excision repair	GO:2000819	-	-
+K1	cpdb	0.9	network_modules	351	REAC	REAC:R-HSA-8939243	6.005395047725472e-27	1	0.5336884082063653	1	RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known	-	-	REAC:R-HSA-8939243
+K1	cpdb	0.9	network_modules	351	KEGG	KEGG:03082	3.353900385914372e-24	1	0.3332866698367564	1	ATP-dependent chromatin remodeling	-	KEGG:03082	-
+K1	cpdb	0.9	network_modules	353	REAC	REAC:R-HSA-9010642	2.1502538113072123e-6	1	0.4004814836952458	1	ROBO receptors bind AKAP5	-	-	REAC:R-HSA-9010642
+K1	cpdb	0.9	network_modules	353	GO:BP	GO:0010737	2.442895335281406e-6	1	0.22458273721432773	2	protein kinase A signaling	GO:0010737	-	-
+K1	cpdb	0.9	network_modules	354	KEGG	KEGG:04917	5.181640482463608e-4	1	0.1446181977443263	1	Prolactin signaling pathway	-	KEGG:04917	-
+K1	cpdb	0.9	network_modules	356	GO:BP	GO:0000070	4.792556740505556e-28	2	0.2080717045634125	1	mitotic sister chromatid segregation	GO:0000070	-	-
+K1	cpdb	0.9	network_modules	356	REAC	REAC:R-HSA-141424	2.277498347057343e-17	3	0.2141117265064903	1	Amplification of signal from the kinetochores	-	-	REAC:R-HSA-141424
+K1	cpdb	0.9	network_modules	357	KEGG	KEGG:04814	5.685551403053565e-6	1	0.13327905494184195	1	Motor proteins	-	KEGG:04814	-
+K1	cpdb	0.9	network_modules	357	GO:BP	GO:0031109	1.0168246718176545e-4	2	0.09864769243871789	1	microtubule polymerization or depolymerization	GO:0031109	-	-
+K1	cpdb	0.9	network_modules	358	REAC	REAC:R-HSA-389958	2.626432209065205e-32	1	0.3985952429156546	1	Cooperation of Prefoldin and TriC/CCT  in actin and tubulin folding	-	-	REAC:R-HSA-389958
+K1	cpdb	0.9	network_modules	358	GO:BP	GO:0033962	2.1576280381261292e-11	1	0.20511007669416764	1	P-body assembly	GO:0033962	-	-
+K1	cpdb	0.9	network_modules	359	GO:BP	GO:0042254	1.4197205801849542e-56	1	0.31243087538050396	1	ribosome biogenesis	GO:0042254	-	-
+K1	cpdb	0.9	network_modules	359	REAC	REAC:R-HSA-6790901	7.069791405739762e-40	1	0.44376432969642093	1	rRNA modification in the nucleus and cytosol	-	-	REAC:R-HSA-6790901
+K1	cpdb	0.9	network_modules	360	GO:BP	GO:0042273	6.488143082873808e-23	5	0.2577690213106737	1	ribosomal large subunit biogenesis	GO:0042273	-	-
+K1	cpdb	0.9	network_modules	360	REAC	REAC:R-HSA-8868773	4.0339130859248746e-22	1	0.22325558551340788	1	rRNA processing in the nucleus and cytosol	-	-	REAC:R-HSA-8868773
+K1	cpdb	0.9	network_modules	363	GO:BP	GO:0030029	1.5666032861111362e-22	1	0.13169211921851628	1	actin filament-based process	GO:0030029	-	-
+K1	cpdb	0.9	network_modules	363	KEGG	KEGG:04520	1.9295711726504457e-10	1	0.1580771399962797	1	Adherens junction	-	KEGG:04520	-
+K1	cpdb	0.9	network_modules	363	REAC	REAC:R-HSA-446353	2.1581404332161108e-7	6	0.17574165034721273	1	Cell-extracellular matrix interactions	-	-	REAC:R-HSA-446353
+K1	cpdb	0.9	network_modules	364	REAC	REAC:R-HSA-9013149	8.242088305579034e-7	1	0.09912459208904822	2	RAC1 GTPase cycle	-	-	REAC:R-HSA-9013149
+K1	cpdb	0.9	network_modules	364	KEGG	KEGG:04530	2.311307842215494e-5	1	0.09132038765013946	1	Tight junction	-	KEGG:04530	-
+K1	cpdb	0.9	network_modules	364	GO:BP	GO:0120192	4.031707747418098e-5	2	0.09609886510355407	1	tight junction assembly	GO:0120192	-	-
+K1	cpdb	0.9	network_modules	365	REAC	REAC:R-HSA-9917777	1.1728417113071402e-28	1	0.4876406599015126	1	Epigenetic regulation by WDR5-containing histone modifying complexes	-	-	REAC:R-HSA-9917777
+K1	cpdb	0.9	network_modules	365	GO:BP	GO:0045815	1.0528121845613372e-10	1	0.22885661733417428	1	transcription initiation-coupled chromatin remodeling	GO:0045815	-	-
+K1	cpdb	0.9	network_modules	367	GO:BP	GO:0006003	3.382454000523105e-5	1	0.2734715412069573	1	fructose 2,6-bisphosphate metabolic process	GO:0006003	-	-
+K1	cpdb	0.9	network_modules	367	REAC	REAC:R-HSA-9634600	8.109585949270158e-4	1	0.17190974872371378	1	Regulation of glycolysis by fructose 2,6-bisphosphate metabolism	-	-	REAC:R-HSA-9634600
+K1	cpdb	0.9	network_modules	371	GO:BP	GO:0031109	3.1141413712176798e-12	2	0.13345444857068908	4	microtubule polymerization or depolymerization	GO:0031109	-	-
+K1	cpdb	0.9	network_modules	371	KEGG	KEGG:04814	6.571622118546825e-12	1	0.1510622006013969	1	Motor proteins	-	KEGG:04814	-
+K1	cpdb	0.9	network_modules	371	REAC	REAC:R-HSA-5625970	2.65237069994512e-9	1	0.23806507147991615	1	RHO GTPases activate KTN1	-	-	REAC:R-HSA-5625970
+K1	cpdb	0.9	network_modules	372	KEGG	KEGG:04814	4.3991164151891946e-16	1	0.22563884174502755	2	Motor proteins	-	KEGG:04814	-
+K1	cpdb	0.9	network_modules	372	REAC	REAC:R-HSA-6811436	7.197212016924824e-14	1	0.3032884867400495	1	COPI-independent Golgi-to-ER retrograde traffic	-	-	REAC:R-HSA-6811436
+K1	cpdb	0.9	network_modules	372	GO:BP	GO:0007018	7.086618203897585e-11	1	0.13546975779736378	1	microtubule-based movement	GO:0007018	-	-
+K1	cpdb	0.9	network_modules	375	GO:BP	GO:0006325	8.767947292706932e-27	1	0.15347051444837198	1	chromatin organization	GO:0006325	-	-
+K1	cpdb	0.9	network_modules	375	REAC	REAC:R-HSA-4839726	3.033258806819941e-20	1	0.17438359918523372	4	Chromatin organization	-	-	REAC:R-HSA-4839726
+K1	cpdb	0.9	network_modules	375	KEGG	KEGG:03082	4.209751679406904e-17	1	0.210007578212	1	ATP-dependent chromatin remodeling	-	KEGG:03082	-
+K1	cpdb	0.9	network_modules	378	KEGG	KEGG:04912	1.0372624977158767e-5	1	0.1222756711240708	1	GnRH signaling pathway	-	KEGG:04912	-
+K1	cpdb	0.9	network_modules	378	REAC	REAC:R-HSA-112043	4.4803557464931365e-5	2	0.13205990773498957	1	PLC beta mediated events	-	-	REAC:R-HSA-112043
+K1	cpdb	0.9	network_modules	378	GO:BP	GO:0086064	1.6561104395575716e-4	1	0.1471372225785833	1	cell communication by electrical coupling involved in cardiac conduction	GO:0086064	-	-
+K1	cpdb	0.9	network_modules	379	REAC	REAC:R-HSA-5218920	2.3289282160108743e-6	3	0.14596585943820795	1	VEGFR2 mediated vascular permeability	-	-	REAC:R-HSA-5218920
+K1	cpdb	0.9	network_modules	379	KEGG	KEGG:04910	3.069223072922284e-6	2	0.09977945015014177	1	Insulin signaling pathway	-	KEGG:04910	-
+K1	cpdb	0.9	network_modules	379	GO:BP	GO:0018105	1.5157385612683904e-5	5	0.08080839750519567	1	peptidyl-serine phosphorylation	GO:0018105	-	-
+K1	cpdb	0.9	network_modules	381	GO:BP	GO:0007169	4.882029337056407e-31	1	0.18394284687813556	1	cell surface receptor protein tyrosine kinase signaling pathway	GO:0007169	-	-
+K1	cpdb	0.9	network_modules	381	REAC	REAC:R-HSA-9006934	1.023148654059009e-15	1	0.13495197333394574	1	Signaling by Receptor Tyrosine Kinases	-	-	REAC:R-HSA-9006934
+K1	cpdb	0.9	network_modules	381	KEGG	KEGG:04014	8.246979530654095e-14	1	0.155773069662105	1	Ras signaling pathway	-	KEGG:04014	-
+K1	cpdb	0.9	network_modules	382	GO:BP	GO:0007169	7.549341955476696e-44	1	0.21136666024279227	6	cell surface receptor protein tyrosine kinase signaling pathway	GO:0007169	-	-
+K1	cpdb	0.9	network_modules	382	REAC	REAC:R-HSA-512988	6.514058925901478e-31	2	0.33456011384843354	1	Interleukin-3, Interleukin-5 and GM-CSF signaling	-	-	REAC:R-HSA-512988
+K1	cpdb	0.9	network_modules	382	KEGG	KEGG:04012	3.0792608984879724e-18	1	0.21054267052854836	1	ErbB signaling pathway	-	KEGG:04012	-
+K1	cpdb	0.9	network_modules	386	GO:BP	GO:0000122	1.1475626574004115e-32	1	0.15689622394187067	1	negative regulation of transcription by RNA polymerase II	GO:0000122	-	-
+K1	cpdb	0.9	network_modules	386	REAC	REAC:R-HSA-1362300	1.8349728190622362e-9	1	0.20237630251568442	1	Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1	-	-	REAC:R-HSA-1362300
+K1	cpdb	0.9	network_modules	386	KEGG	KEGG:05202	1.230532884658044e-7	1	0.10243627642002474	1	Transcriptional misregulation in cancer	-	KEGG:05202	-
+K1	cpdb	0.9	network_modules	387	GO:BP	GO:1902893	5.698971959468678e-8	3	0.12089124125318249	2	regulation of miRNA transcription	GO:1902893	-	-
+K1	cpdb	0.9	network_modules	387	KEGG	KEGG:05202	2.5224180812196886e-6	1	0.09298021963261208	1	Transcriptional misregulation in cancer	-	KEGG:05202	-
+K1	cpdb	0.9	network_modules	387	REAC	REAC:R-HSA-9648895	1.0982798230752223e-5	3	0.15192688167990678	1	Response of EIF2AK1 (HRI) to heme deficiency	-	-	REAC:R-HSA-9648895
+K1	cpdb	0.9	network_modules	393	KEGG	KEGG:04218	2.383316384925638e-13	1	0.15423208173274155	1	Cellular senescence	-	KEGG:04218	-
+K1	cpdb	0.9	network_modules	393	REAC	REAC:R-HSA-5675221	5.221040434613996e-10	1	0.17251604950042126	1	Negative regulation of MAPK pathway	-	-	REAC:R-HSA-5675221
+K1	cpdb	0.9	network_modules	393	GO:BP	GO:0043549	1.0871203037682121e-9	1	0.08936108320163505	2	regulation of kinase activity	GO:0043549	-	-
+K1	cpdb	0.9	network_modules	395	KEGG	KEGG:04150	1.6192115884510729e-18	1	0.19035437613623646	1	mTOR signaling pathway	-	KEGG:04150	-
+K1	cpdb	0.9	network_modules	395	GO:BP	GO:0031929	5.216903159364738e-11	1	0.1201241975593853	2	TOR signaling	GO:0031929	-	-
+K1	cpdb	0.9	network_modules	395	REAC	REAC:R-HSA-165159	1.4650970964374125e-9	2	0.1627019455619094	1	MTOR signalling	-	-	REAC:R-HSA-165159
+K1	cpdb	0.9	network_modules	396	KEGG	KEGG:04722	4.274550116784907e-14	1	0.18531648790256275	1	Neurotrophin signaling pathway	-	KEGG:04722	-
+K1	cpdb	0.9	network_modules	396	REAC	REAC:R-HSA-9656223	5.370566897196995e-8	1	0.16561534422833515	2	Signaling by RAF1 mutants	-	-	REAC:R-HSA-9656223
+K1	cpdb	0.9	network_modules	396	GO:BP	GO:0018193	3.7695167417452985e-6	1	0.07167205773742266	1	peptidyl-amino acid modification	GO:0018193	-	-
+K1	cpdb	0.9	network_modules	399	KEGG	KEGG:03082	1.0662518380216944e-4	1	0.11185374455741495	1	ATP-dependent chromatin remodeling	-	KEGG:03082	-

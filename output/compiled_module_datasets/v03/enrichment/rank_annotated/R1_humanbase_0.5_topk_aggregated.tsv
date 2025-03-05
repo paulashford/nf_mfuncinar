@@ -1,0 +1,105 @@
+network_method	network_db	network_cutoff	experiment_info	module	source	term_id	p_value	row_rank_p	mcc	row_rank_mcc	term_name	top_go	top_kegg	top_reac
+R1	humanbase	0.5	network_modules	4	GO:BP	GO:0030810	0.00516199753145213	1	0.24580989962527874	1	positive regulation of nucleotide biosynthetic process	GO:0030810	-	-
+R1	humanbase	0.5	network_modules	4	GO:BP	GO:1900373	0.00516199753145213	2	0.24580989962527874	2	positive regulation of purine nucleotide biosynthetic process	GO:0030810	-	-
+R1	humanbase	0.5	network_modules	19	GO:BP	GO:0060754	0.006299194917464988	1	0.2578555143451957	1	positive regulation of mast cell chemotaxis	GO:0060754	-	-
+R1	humanbase	0.5	network_modules	20	GO:BP	GO:0098815	0.00293243977894383	1	0.14291547382459283	1	modulation of excitatory postsynaptic potential	GO:0098815	-	-
+R1	humanbase	0.5	network_modules	31	KEGG	KEGG:04142	4.16888541384795e-6	1	0.10947867297598284	1	Lysosome	-	KEGG:04142	-
+R1	humanbase	0.5	network_modules	31	KEGG	KEGG:04210	9.541253973466683e-5	2	0.09313378451877401	2	Apoptosis	-	KEGG:04142	-
+R1	humanbase	0.5	network_modules	44	REAC	REAC:R-HSA-69236	2.1475035461599908e-9	1	0.24377712059604562	1	G1 Phase	-	-	REAC:R-HSA-69236
+R1	humanbase	0.5	network_modules	44	REAC	REAC:R-HSA-69231	2.1475035461599908e-9	2	0.24377712059604562	2	Cyclin D associated events in G1	-	-	REAC:R-HSA-69236
+R1	humanbase	0.5	network_modules	44	GO:BP	GO:1904029	2.806724156463672e-9	1	0.21878507258764301	2	regulation of cyclin-dependent protein kinase activity	GO:1904029	-	-
+R1	humanbase	0.5	network_modules	44	GO:BP	GO:0000079	4.826310494859535e-7	2	0.18830112996648468	3	regulation of cyclin-dependent protein serine/threonine kinase activity	GO:1904029	-	-
+R1	humanbase	0.5	network_modules	44	KEGG	KEGG:04110	9.148260319045177e-7	1	0.14088117888970497	1	Cell cycle	-	KEGG:04110	-
+R1	humanbase	0.5	network_modules	44	GO:BP	GO:1904030	1.0448473064112154e-6	3	0.25749583735110954	1	negative regulation of cyclin-dependent protein kinase activity	GO:1904029	-	-
+R1	humanbase	0.5	network_modules	44	GO:BP	GO:0000082	2.4025460243379873e-6	4	0.12449913697087417	4	G1/S transition of mitotic cell cycle	GO:1904029	-	-
+R1	humanbase	0.5	network_modules	44	REAC	REAC:R-HSA-453279	2.7400253570437022e-6	3	0.13423434177979263	3	Mitotic G1 phase and G1/S transition	-	-	REAC:R-HSA-69236
+R1	humanbase	0.5	network_modules	44	GO:BP	GO:0044843	5.405271694725896e-6	5	0.11608083753224266	6	cell cycle G1/S phase transition	GO:1904029	-	-
+R1	humanbase	0.5	network_modules	44	GO:BP	GO:0007346	7.514858858288323e-6	6	0.09465672217380514	7	regulation of mitotic cell cycle	GO:1904029	-	-
+R1	humanbase	0.5	network_modules	44	GO:BP	GO:2000045	4.41846159326495e-5	7	0.11957760378884424	5	regulation of G1/S transition of mitotic cell cycle	GO:1904029	-	-
+R1	humanbase	0.5	network_modules	47	GO:BP	GO:1901016	0.0013592426355891907	1	0.1521451045645191	1	regulation of potassium ion transmembrane transporter activity	GO:1901016	-	-
+R1	humanbase	0.5	network_modules	47	GO:BP	GO:2001259	0.0013592426355891907	2	0.1521451045645191	2	positive regulation of cation channel activity	GO:1901016	-	-
+R1	humanbase	0.5	network_modules	57	REAC	REAC:R-HSA-5673000	6.344074460678591e-5	1	0.1622683921358695	2	RAF activation	-	-	REAC:R-HSA-5673000
+R1	humanbase	0.5	network_modules	57	REAC	REAC:R-HSA-111997	8.101014981361017e-5	2	0.15744672587840472	3	CaM pathway	-	-	REAC:R-HSA-5673000
+R1	humanbase	0.5	network_modules	57	REAC	REAC:R-HSA-111933	8.101014981361017e-5	3	0.15744672587840472	4	Calmodulin induced events	-	-	REAC:R-HSA-5673000
+R1	humanbase	0.5	network_modules	57	REAC	REAC:R-HSA-111996	1.019733844710013e-4	4	0.153018256973226	5	Ca-dependent events	-	-	REAC:R-HSA-5673000
+R1	humanbase	0.5	network_modules	57	KEGG	KEGG:04934	1.1134766492954413e-4	1	0.10791484304619164	4	Cushing syndrome	-	KEGG:04720	-
+R1	humanbase	0.5	network_modules	57	KEGG	KEGG:04261	1.1134766492954413e-4	2	0.10791484304619164	5	Adrenergic signaling in cardiomyocytes	-	KEGG:04720	-
+R1	humanbase	0.5	network_modules	57	KEGG	KEGG:04720	1.3100605997104812e-4	3	0.1326824386495293	1	Long-term potentiation	-	KEGG:04720	-
+R1	humanbase	0.5	network_modules	57	REAC	REAC:R-HSA-111932	1.3844294523835407e-4	5	0.22266332413927906	1	CaMK IV-mediated phosphorylation of CREB	-	-	REAC:R-HSA-5673000
+R1	humanbase	0.5	network_modules	57	REAC	REAC:R-HSA-9656223	1.4067149187382312e-4	6	0.14700369284543813	6	Signaling by RAF1 mutants	-	-	REAC:R-HSA-5673000
+R1	humanbase	0.5	network_modules	57	REAC	REAC:R-HSA-1489509	1.5571903562536723e-4	7	0.14514571053294437	7	DAG and IP3 signaling	-	-	REAC:R-HSA-5673000
+R1	humanbase	0.5	network_modules	57	KEGG	KEGG:05214	2.0633085035961387e-4	4	0.12507155640067075	2	Glioma	-	KEGG:04720	-
+R1	humanbase	0.5	network_modules	57	KEGG	KEGG:04971	2.176079331622764e-4	5	0.124204374671276	3	Gastric acid secretion	-	KEGG:04720	-
+R1	humanbase	0.5	network_modules	63	GO:BP	GO:0045596	0.0016668403576498346	1	0.07720266246376571	2	negative regulation of cell differentiation	GO:0050767	-	-
+R1	humanbase	0.5	network_modules	63	GO:BP	GO:0050767	0.004231551638968058	2	0.08776548619757217	1	regulation of neurogenesis	GO:0050767	-	-
+R1	humanbase	0.5	network_modules	64	REAC	REAC:R-HSA-71384	1.3957932354488675e-5	1	0.3055685724457451	1	Ethanol oxidation	-	-	REAC:R-HSA-71384
+R1	humanbase	0.5	network_modules	64	KEGG	KEGG:00350	1.1784893562136534e-4	1	0.18758677895754455	1	Tyrosine metabolism	-	KEGG:00350	-
+R1	humanbase	0.5	network_modules	64	KEGG	KEGG:00071	2.0318867810332518e-4	2	0.17137756491992454	2	Fatty acid degradation	-	KEGG:00350	-
+R1	humanbase	0.5	network_modules	64	KEGG	KEGG:00620	2.665935846525185e-4	3	0.16377908227334848	3	Pyruvate metabolism	-	KEGG:00350	-
+R1	humanbase	0.5	network_modules	75	GO:BP	GO:0002029	0.002969807020271433	1	0.25787147420379075	1	desensitization of G protein-coupled receptor signaling pathway	GO:0002029	-	-
+R1	humanbase	0.5	network_modules	77	GO:BP	GO:0048003	0.004772707732796983	1	0.26935467227213133	1	antigen processing and presentation of lipid antigen via MHC class Ib	GO:0048003	-	-
+R1	humanbase	0.5	network_modules	77	GO:BP	GO:0048006	0.004772707732796983	2	0.26935467227213133	2	antigen processing and presentation, endogenous lipid antigen via MHC class Ib	GO:0048003	-	-
+R1	humanbase	0.5	network_modules	77	GO:BP	GO:0048007	0.004772707732796983	3	0.26935467227213133	3	antigen processing and presentation, exogenous lipid antigen via MHC class Ib	GO:0048003	-	-
+R1	humanbase	0.5	network_modules	90	GO:BP	GO:0070227	0.0013592426355891907	1	0.1521451045645191	1	lymphocyte apoptotic process	GO:0070227	-	-
+R1	humanbase	0.5	network_modules	90	GO:BP	GO:0048661	0.0016354365470797856	2	0.14754257089362843	2	positive regulation of smooth muscle cell proliferation	GO:0070227	-	-
+R1	humanbase	0.5	network_modules	98	GO:BP	GO:0097156	7.453716719393749e-4	1	0.3920988599983004	1	fasciculation of motor neuron axon	GO:0097156	-	-
+R1	humanbase	0.5	network_modules	98	REAC	REAC:R-HSA-3928663	9.745117700394923e-4	1	0.1622815749981811	1	EPHA-mediated growth cone collapse	-	-	REAC:R-HSA-3928663
+R1	humanbase	0.5	network_modules	100	REAC	REAC:R-HSA-9630747	0.001258091079065584	1	0.3199187039314686	1	Diseases of Cellular Senescence	-	-	REAC:R-HSA-9630747
+R1	humanbase	0.5	network_modules	100	REAC	REAC:R-HSA-9630794	0.001258091079065584	2	0.3199187039314686	2	Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6	-	-	REAC:R-HSA-9630747
+R1	humanbase	0.5	network_modules	100	REAC	REAC:R-HSA-9630750	0.001258091079065584	3	0.3199187039314686	3	Evasion of Oncogene Induced Senescence Due to p16INK4A Defects	-	-	REAC:R-HSA-9630747
+R1	humanbase	0.5	network_modules	100	REAC	REAC:R-HSA-9675132	0.001258091079065584	4	0.3199187039314686	4	Diseases of cellular response to stress	-	-	REAC:R-HSA-9630747
+R1	humanbase	0.5	network_modules	100	REAC	REAC:R-HSA-9632693	0.001258091079065584	5	0.3199187039314686	5	Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects	-	-	REAC:R-HSA-9630747
+R1	humanbase	0.5	network_modules	100	REAC	REAC:R-HSA-9632700	0.001258091079065584	6	0.3199187039314686	6	Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6	-	-	REAC:R-HSA-9630747
+R1	humanbase	0.5	network_modules	101	KEGG	KEGG:03420	8.624000695207706e-4	1	0.09338343950790964	1	Nucleotide excision repair	-	KEGG:03420	-
+R1	humanbase	0.5	network_modules	106	KEGG	KEGG:04966	4.8432727181854194e-5	1	0.21703249501774458	1	Collecting duct acid secretion	-	KEGG:04966	-
+R1	humanbase	0.5	network_modules	106	REAC	REAC:R-HSA-77387	2.559972946834564e-4	1	0.19256524236901273	1	Insulin receptor recycling	-	-	REAC:R-HSA-77387
+R1	humanbase	0.5	network_modules	106	REAC	REAC:R-HSA-917977	2.8332805107557764e-4	2	0.18939597238523775	2	Transferrin endocytosis and recycling	-	-	REAC:R-HSA-77387
+R1	humanbase	0.5	network_modules	106	KEGG	KEGG:05110	3.219040120856158e-4	2	0.15868519619769925	2	Vibrio cholerae infection	-	KEGG:04966	-
+R1	humanbase	0.5	network_modules	111	REAC	REAC:R-HSA-389359	0.009196735098244528	1	0.20027954273656026	1	CD28 dependent Vav1 pathway	-	-	REAC:R-HSA-389359
+R1	humanbase	0.5	network_modules	111	REAC	REAC:R-HSA-189085	0.009196735098244528	2	0.20027954273656026	2	Digestion of dietary carbohydrate	-	-	REAC:R-HSA-389359
+R1	humanbase	0.5	network_modules	122	REAC	REAC:R-HSA-181431	2.4794042694115323e-7	1	0.30778586344036574	1	Acetylcholine binding and downstream events	-	-	REAC:R-HSA-181431
+R1	humanbase	0.5	network_modules	122	REAC	REAC:R-HSA-622327	2.4794042694115323e-7	2	0.30778586344036574	2	Postsynaptic nicotinic acetylcholine receptors	-	-	REAC:R-HSA-181431
+R1	humanbase	0.5	network_modules	126	GO:BP	GO:1905952	1.4499647179092912e-5	1	0.1314964848460223	1	regulation of lipid localization	GO:1905952	-	-
+R1	humanbase	0.5	network_modules	126	GO:BP	GO:0032368	4.7907604899258776e-4	2	0.1195789851918727	2	regulation of lipid transport	GO:1905952	-	-
+R1	humanbase	0.5	network_modules	152	KEGG	KEGG:00430	0.003380824976026732	1	0.18798967411231668	1	Taurine and hypotaurine metabolism	-	KEGG:00430	-
+R1	humanbase	0.5	network_modules	154	REAC	REAC:R-HSA-211999	0.0029525383240401573	1	0.24563002182252458	1	CYP2E1 reactions	-	-	REAC:R-HSA-211999
+R1	humanbase	0.5	network_modules	174	KEGG	KEGG:00260	6.467030430030511e-4	1	0.15001661624552357	1	Glycine, serine and threonine metabolism	-	KEGG:00260	-
+R1	humanbase	0.5	network_modules	184	GO:BP	GO:0007215	4.475685930955379e-5	1	0.16575745232515107	1	glutamate receptor signaling pathway	GO:0007215	-	-
+R1	humanbase	0.5	network_modules	190	REAC	REAC:R-HSA-190370	3.7619094464374393e-6	1	0.37751402188668753	1	FGFR1b ligand binding and activation	-	-	REAC:R-HSA-190370
+R1	humanbase	0.5	network_modules	190	GO:BP	GO:0006730	5.445507371129571e-6	1	0.21260884218517978	1	one-carbon metabolic process	GO:0006730	-	-
+R1	humanbase	0.5	network_modules	190	REAC	REAC:R-HSA-190377	9.021136760074186e-6	2	0.332783227896458	2	FGFR2b ligand binding and activation	-	-	REAC:R-HSA-190370
+R1	humanbase	0.5	network_modules	190	REAC	REAC:R-HSA-5654219	1.77054748911943e-5	3	0.3008754792622259	3	Phospholipase C-mediated cascade: FGFR1	-	-	REAC:R-HSA-190370
+R1	humanbase	0.5	network_modules	190	REAC	REAC:R-HSA-1475029	2.359756176542393e-5	4	0.2880001370043884	4	Reversible hydration of carbon dioxide	-	-	REAC:R-HSA-190370
+R1	humanbase	0.5	network_modules	190	KEGG	KEGG:00910	3.0122508359829635e-5	1	0.24144766308041885	1	Nitrogen metabolism	-	KEGG:00910	-
+R1	humanbase	0.5	network_modules	190	REAC	REAC:R-HSA-190242	3.066417542155245e-5	5	0.27663797046372274	5	FGFR1 ligand binding and activation	-	-	REAC:R-HSA-190370
+R1	humanbase	0.5	network_modules	190	REAC	REAC:R-HSA-5654688	3.066417542155245e-5	6	0.27663797046372274	6	SHC-mediated cascade:FGFR1	-	-	REAC:R-HSA-190370
+R1	humanbase	0.5	network_modules	190	REAC	REAC:R-HSA-2033519	3.9011032059348506e-5	7	0.26651371644118677	7	Activated point mutants of FGFR2	-	-	REAC:R-HSA-190370
+R1	humanbase	0.5	network_modules	190	REAC	REAC:R-HSA-5654221	3.9011032059348506e-5	8	0.26651371644118677	8	Phospholipase C-mediated cascade; FGFR2	-	-	REAC:R-HSA-190370
+R1	humanbase	0.5	network_modules	190	REAC	REAC:R-HSA-5654689	4.8743672086835835e-5	9	0.25741748318742463	9	PI-3K cascade:FGFR1	-	-	REAC:R-HSA-190370
+R1	humanbase	0.5	network_modules	190	REAC	REAC:R-HSA-5654699	5.996746028193506e-5	10	0.24918605401745583	10	SHC-mediated cascade:FGFR2	-	-	REAC:R-HSA-190370
+R1	humanbase	0.5	network_modules	190	REAC	REAC:R-HSA-190241	5.996746028193506e-5	11	0.24918605401745583	11	FGFR2 ligand binding and activation	-	-	REAC:R-HSA-190370
+R1	humanbase	0.5	network_modules	190	REAC	REAC:R-HSA-5654693	5.996746028193506e-5	12	0.24918605401745583	12	FRS-mediated FGFR1 signaling	-	-	REAC:R-HSA-190370
+R1	humanbase	0.5	network_modules	199	REAC	REAC:R-HSA-8874081	0.003976006841408507	1	0.21026742396583623	1	MET activates PTK2 signaling	-	-	REAC:R-HSA-8874081
+R1	humanbase	0.5	network_modules	208	KEGG	KEGG:05142	1.2156887527778875e-11	1	0.24448289517671715	1	Chagas disease	-	KEGG:05142	-
+R1	humanbase	0.5	network_modules	208	REAC	REAC:R-HSA-112040	6.394855758858374e-10	1	0.2568234923505612	3	G-protein mediated events	-	-	REAC:R-HSA-170670
+R1	humanbase	0.5	network_modules	208	GO:BP	GO:0007188	8.761545623029803e-9	1	0.14843323909512787	2	adenylate cyclase-modulating G protein-coupled receptor signaling pathway	GO:0007212	-	-
+R1	humanbase	0.5	network_modules	208	REAC	REAC:R-HSA-392518	1.0932943248299745e-8	2	0.2784054848523338	2	Signal amplification	-	-	REAC:R-HSA-170670
+R1	humanbase	0.5	network_modules	208	REAC	REAC:R-HSA-111885	1.4230152163825125e-8	3	0.1992925364975489	4	Opioid Signalling	-	-	REAC:R-HSA-170670
+R1	humanbase	0.5	network_modules	208	KEGG	KEGG:04728	1.8433660919545266e-8	2	0.18302907110097366	3	Dopaminergic synapse	-	KEGG:05142	-
+R1	humanbase	0.5	network_modules	208	KEGG	KEGG:04730	4.213242975538006e-8	3	0.22848612441720903	2	Long-term depression	-	KEGG:05142	-
+R1	humanbase	0.5	network_modules	208	REAC	REAC:R-HSA-170670	9.942324611528937e-8	4	0.3373486280407667	1	Adenylate cyclase inhibitory pathway	-	-	REAC:R-HSA-170670
+R1	humanbase	0.5	network_modules	208	KEGG	KEGG:04713	5.362765124466343e-7	4	0.1773057343681076	4	Circadian entrainment	-	KEGG:05142	-
+R1	humanbase	0.5	network_modules	208	KEGG	KEGG:04916	6.583381603181913e-7	5	0.17366716002208182	5	Melanogenesis	-	KEGG:05142	-
+R1	humanbase	0.5	network_modules	208	KEGG	KEGG:04726	1.1113645297199522e-6	6	0.16467781412284546	6	Serotonergic synapse	-	KEGG:05142	-
+R1	humanbase	0.5	network_modules	208	KEGG	KEGG:04725	1.1624703086057416e-6	7	0.16392573630315355	7	Cholinergic synapse	-	KEGG:05142	-
+R1	humanbase	0.5	network_modules	208	KEGG	KEGG:04724	1.2703010006113231e-6	8	0.16245082644271766	8	Glutamatergic synapse	-	KEGG:05142	-
+R1	humanbase	0.5	network_modules	208	GO:BP	GO:0007212	1.3658314045283886e-6	2	0.24269399150603854	1	G protein-coupled dopamine receptor signaling pathway	GO:0007212	-	-
+R1	humanbase	0.5	network_modules	208	KEGG	KEGG:04926	2.268589639710793e-6	9	0.15309672152318732	9	Relaxin signaling pathway	-	KEGG:05142	-
+R1	humanbase	0.5	network_modules	208	KEGG	KEGG:04915	2.9605192065235505e-6	10	0.14896535599584526	10	Estrogen signaling pathway	-	KEGG:05142	-
+R1	humanbase	0.5	network_modules	208	KEGG	KEGG:04723	4.529713535672749e-6	11	0.14256941013493918	11	Retrograde endocannabinoid signaling	-	KEGG:05142	-
+R1	humanbase	0.5	network_modules	208	KEGG	KEGG:04921	5.530359679784503e-6	12	0.1396520693555006	12	Oxytocin signaling pathway	-	KEGG:05142	-
+R1	humanbase	0.5	network_modules	222	KEGG	KEGG:05030	0.004835593433616752	1	0.16403142900101894	1	Cocaine addiction	-	KEGG:05030	-
+R1	humanbase	0.5	network_modules	227	GO:BP	GO:0043434	9.268483245280744e-4	1	0.08752112801060678	1	response to peptide hormone	GO:0043434	-	-
+R1	humanbase	0.5	network_modules	233	GO:BP	GO:0097167	0.002864687406232981	1	0.30124093787466694	1	circadian regulation of translation	GO:0097167	-	-
+R1	humanbase	0.5	network_modules	248	KEGG	KEGG:05219	0.001315478575447418	1	0.13305177154863182	1	Bladder cancer	-	KEGG:05219	-
+R1	humanbase	0.5	network_modules	250	REAC	REAC:R-HSA-8964616	0.0031822978031686064	1	0.22303266570648034	1	G beta:gamma signalling through CDC42	-	-	REAC:R-HSA-8964616

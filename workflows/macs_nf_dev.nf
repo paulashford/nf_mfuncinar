@@ -136,8 +136,8 @@ workflow {
         .combine(Channel.fromList(params.net_dbs))
         .map { method, db -> 
             def module_dir = params.preproc_net_modules ? 
-                "${params.nf_out_dir}/pre_processed_networks" :
-                "${params.nf_network_modules_dir}"
+                "${params.nf_network_modules_dir}" :
+                "${params.nf_out_dir}/pre_processed_networks"
             
             [method, db, module_dir]
         }

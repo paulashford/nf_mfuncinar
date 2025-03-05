@@ -20,7 +20,7 @@ process PREPROC_NET_MODULES {
 
     script:
     def input_dir = "${network_modules_dir}/${method}"
-    def output_name = "${params.net_file_prefix}_${method}_${db}.dat"
+    def output_name = "${params.net_file_prefix}${method}_${db}.dat"
     """
     if [[ \$DEBUG == "true" ]]; then
         echo "DEBUG: Processing network modules for method=${method} db=${db}"

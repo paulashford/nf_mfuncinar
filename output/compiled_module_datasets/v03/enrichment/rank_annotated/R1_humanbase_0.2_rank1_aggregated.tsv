@@ -1,0 +1,6 @@
+network_method	network_db	network_cutoff	experiment_info	module	source	term_id	p_value	row_rank_p	mcc	row_rank_mcc	term_name	top_go	top_kegg	top_reac
+R1	humanbase	0.2	network_modules	6	GO:BP	GO:0006120	7.134443721947021e-6	1	0.12652882346580457	1	mitochondrial electron transport, NADH to ubiquinone	GO:0006120	-	-
+R1	humanbase	0.2	network_modules	6	REAC	REAC:R-HSA-6799198	3.5570329449943565e-4	1	0.10668241120337624	1	Complex I biogenesis	-	-	REAC:R-HSA-6799198
+R1	humanbase	0.2	network_modules	10	GO:BP	GO:0007268	0.006159992569868814	1	0.05252236604507254	1	chemical synaptic transmission	GO:0007268	-	-
+R1	humanbase	0.2	network_modules	34	REAC	REAC:R-HSA-211916	4.062837057342276e-4	1	0.1857174829762424	1	Vitamins	-	-	REAC:R-HSA-211916
+R1	humanbase	0.2	network_modules	45	KEGG	KEGG:00480	9.373646665883278e-5	1	0.1177532760439586	1	Glutathione metabolism	-	KEGG:00480	-
